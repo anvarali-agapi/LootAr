@@ -1,0 +1,417 @@
+[
+  {
+        "question": "Which country won the ICC Cricket World Cup in 2019?",
+        "options": ["India", "England", "Australia", "New Zealand"],
+        "answer": "England"
+    },
+    {
+        "question": "How many players are there in a cricket team on the field?",
+        "options": ["9", "10", "11", "12"],
+        "answer": "11"
+    },
+    {
+        "question": "In football, what is awarded for a foul inside the penalty area?",
+        "options": ["Free kick", "Goal kick", "Penalty kick", "Corner kick"],
+        "answer": "Penalty kick"
+    },
+    {
+        "question": "Which country won the FIFA World Cup in 2018?",
+        "options": ["France", "Brazil", "Germany", "Argentina"],
+        "answer": "France"
+    },
+    {
+        "question": "How many overs are there in a One Day International cricket match?",
+        "options": ["20", "40", "50", "60"],
+        "answer": "50"
+    },
+    {
+        "question": "Who holds the record for most goals in World Cup history?",
+        "options": ["Messi", "Pele", "Klose", "Ronaldo"],
+        "answer": "Klose"
+    },
+    {
+        "question": "Which player is known as 'The Little Master' in cricket?",
+        "options": ["Virat Kohli", "Ricky Ponting", "Sachin Tendulkar", "MS Dhoni"],
+        "answer": "Sachin Tendulkar"
+    },
+    {
+        "question": "Which football club has won the most UEFA Champions League titles?",
+        "options": ["Barcelona", "Liverpool", "AC Milan", "Real Madrid"],
+        "answer": "Real Madrid"
+    },
+    {
+        "question": "What is the name of the trophy awarded in the Ashes series?",
+        "options": ["The Ashes Urn", "The Cricket Cup", "The Ashes Shield", "The World Trophy"],
+        "answer": "The Ashes Urn"
+    },
+    {
+        "question": "Which country has won the most ICC Cricket World Cups?",
+        "options": ["India", "Australia", "West Indies", "England"],
+        "answer": "Australia"
+    },
+    {
+        "question": "Which team did Lionel Messi join in 2021?",
+        "options": ["Barcelona", "PSG", "Manchester City", "Real Madrid"],
+        "answer": "PSG"
+    },
+    {
+        "question": "How many runs are awarded for hitting the ball over the boundary in cricket?",
+        "options": ["2", "4", "5", "6"],
+        "answer": "6"
+    },
+    {
+        "question": "Which country won the first FIFA World Cup in 1930?",
+        "options": ["Brazil", "Uruguay", "Argentina", "Italy"],
+        "answer": "Uruguay"
+    },
+    {
+        "question": "What is the maximum number of players allowed on a football pitch at once?",
+        "options": ["20", "22", "24", "26"],
+        "answer": "22"
+    },
+    {
+        "question": "In cricket, how many balls are there in an over?",
+        "options": ["4", "5", "6", "8"],
+        "answer": "6"
+    },
+    {
+        "question": "What is the distance of a penalty shot in football?",
+        "options": ["8 yards", "10 yards", "12 yards", "15 yards"],
+        "answer": "12 yards"
+    },
+    {
+        "question": "Who has scored the most centuries in international cricket?",
+        "options": ["Virat Kohli", "Ricky Ponting", "Sachin Tendulkar", "Brian Lara"],
+        "answer": "Sachin Tendulkar"
+    },
+    {
+        "question": "In which country is the Premier League football competition held?",
+        "options": ["Germany", "Spain", "England", "Italy"],
+        "answer": "England"
+    },
+    {
+        "question": "What is a hat-trick in cricket?",
+        "options": ["Three sixes", "Three wickets in three balls", "Three catches", "Three runs"],
+        "answer": "Three wickets in three balls"
+    },
+    {
+        "question": "Which country won the ICC T20 World Cup in 2021?",
+        "options": ["India", "Australia", "New Zealand", "England"],
+        "answer": "Australia"
+    },
+    {
+        "question": "How many substitutes are allowed per team in a football match?",
+        "options": ["3", "4", "5", "6"],
+        "answer": "5"
+    },
+    {
+        "question": "In cricket, what does LBW stand for?",
+        "options": ["Leg Before Wicket", "Line Before Wicket", "Left Behind Wicket", "Leg Bowled Wide"],
+        "answer": "Leg Before Wicket"
+    },
+    {
+        "question": "Which football club does Cristiano Ronaldo play for in 2023?",
+        "options": ["Manchester United", "Juventus", "Al-Nassr", "Real Madrid"],
+        "answer": "Al-Nassr"
+    },
+    {
+        "question": "Which country has won the most FIFA World Cups?",
+        "options": ["Germany", "Brazil", "Argentina", "Italy"],
+        "answer": "Brazil"
+    },
+    {
+        "question": "In cricket, how many runs are scored for hitting the ball to the boundary?",
+        "options": ["2", "4", "5", "6"],
+        "answer": "4"
+    },
+    {
+        "question": "Who won the Ballon d'Or in 2021?",
+        "options": ["Ronaldo", "Messi", "Lewandowski", "Benzema"],
+        "answer": "Messi"
+    },
+    {
+        "question": "What is the highest individual score in Test cricket?",
+        "options": ["400", "375", "381", "425"],
+        "answer": "400"
+    },
+    {
+        "question": "What is the duration of a standard football match?",
+        "options": ["80 minutes", "90 minutes", "100 minutes", "110 minutes"],
+        "answer": "90 minutes"
+    },
+    {
+        "question": "Who holds the record for the fastest century in ODI cricket?",
+        "options": ["AB de Villiers", "Chris Gayle", "Virat Kohli", "Shahid Afridi"],
+        "answer": "AB de Villiers"
+    },
+    {
+        "question": "Which country won the FIFA World Cup in 2014?",
+        "options": ["Germany", "Brazil", "Argentina", "Netherlands"],
+        "answer": "Germany"
+    },
+    {
+        "question": "In cricket, how many bails are there on the stumps?",
+        "options": ["2", "3", "4", "5"],
+        "answer": "2"
+    },
+    {
+        "question": "Which player has won the most FIFA Ballon d'Or awards?",
+        "options": ["Ronaldo", "Messi", "Ronaldinho", "Zidane"],
+        "answer": "Messi"
+    },
+    {
+        "question": "In football, what is the term for a match that ends with no goals?",
+        "options": ["Draw", "Nil-nil", "Deadlock", "Goaless"],
+        "answer": "Nil-nil"
+    },
+    {
+        "question": "Who is the only player to score 100 international centuries in cricket?",
+        "options": ["Virat Kohli", "Brian Lara", "Sachin Tendulkar", "Jacques Kallis"],
+        "answer": "Sachin Tendulkar"
+    },
+    {
+        "question": "How many World Cups has India won in cricket?",
+        "options": ["1", "2", "3", "4"],
+        "answer": "2"
+    },
+    {
+        "question": "What is the term for 3 consecutive goals scored by one player in football?",
+        "options": ["Brace", "Hat-trick", "Triple", "Streak"],
+        "answer": "Hat-trick"
+    },
+    {
+        "question": "In which year did India win its first ICC Cricket World Cup?",
+        "options": ["1979", "1983", "1987", "1992"],
+        "answer": "1983"
+    },
+    {
+        "question": "Which country hosted the 2022 FIFA World Cup?",
+        "options": ["Qatar", "USA", "Brazil", "Russia"],
+        "answer": "Qatar"
+    },
+    {
+        "question": "Which cricketer scored 10,000 runs in both Tests and ODIs?",
+        "options": ["Brian Lara", "Sachin Tendulkar", "Ricky Ponting", "Virat Kohli"],
+        "answer": "Sachin Tendulkar"
+    },
+    {
+        "question": "In football, what term is used for the first half of extra time?",
+        "options": ["Overtime", "First extra half", "First half", "First extra time"],
+        "answer": "First extra time"
+    },
+    {
+        "question": "Who was the captain of India's 1983 Cricket World Cup-winning team?",
+        "options": ["Kapil Dev", "Sunil Gavaskar", "Sourav Ganguly", "MS Dhoni"],
+        "answer": "Kapil Dev"
+    },
+    {
+        "question": "In football, how many points are awarded for a win in a league game?",
+        "options": ["1", "2", "3", "4"],
+        "answer": "3"
+    },
+    {
+        "question": "Who holds the record for the highest individual score in a World Cup match?",
+        "options": ["Sachin Tendulkar", "Chris Gayle", "Martin Guptill", "David Warner"],
+        "answer": "Martin Guptill"
+    },
+    {
+        "question": "Which country hosted the ICC T20 World Cup in 2021?",
+        "options": ["India", "Australia", "England", "UAE"],
+        "answer": "UAE"
+    },
+    {
+        "question": "Who was the top goal scorer at the 2018 FIFA World Cup?",
+        "options": ["Messi", "Cristiano Ronaldo", "Harry Kane", "Neymar"],
+        "answer": "Harry Kane"
+    },
+    {
+        "question": "In cricket, what is the distance between the two sets of stumps?",
+        "options": ["20 yards", "22 yards", "25 yards", "30 yards"],
+        "answer": "22 yards"
+    },
+    {
+        "question": "In football, what does VAR stand for?",
+        "options": ["Virtual Assistant Referee", "Video Assistant Referee", "Virtual Authority Referee", "Video Authorization Referee"],
+        "answer": "Video Assistant Referee"
+    },
+    {
+        "question": "Which cricketer has hit the most sixes in international cricket?",
+        "options": ["Shahid Afridi", "Chris Gayle", "MS Dhoni", "Rohit Sharma"],
+        "answer": "Chris Gayle"
+    },
+    {
+        "question": "Which country won the FIFA Women's World Cup in 2019?",
+        "options": ["USA", "Germany", "France", "Brazil"],
+        "answer": "USA"
+    },
+    {
+        "question": "In cricket, who bowled the fastest ball ever recorded?",
+        "options": ["Shoaib Akhtar", "Brett Lee", "Mitchell Starc", "Shaun Tait"],
+        "answer": "Shoaib Akhtar"
+    },
+    {
+        "question": "Which country won the FIFA World Cup in 1998?",
+        "options": ["Brazil", "Germany", "France", "Argentina"],
+        "answer": "France"
+    },
+    {
+        "question": "How many fielders can be outside the 30-yard circle in the final overs of a one-day match?",
+        "options": ["3", "4", "5", "6"],
+        "answer": "5"
+    },
+    {
+        "question": "Which football club did Zinedine Zidane play for?",
+        "options": ["Barcelona", "Juventus", "PSG", "Real Madrid"],
+        "answer": "Real Madrid"
+    },
+    {
+        "question": "Who is the only bowler to take 800 wickets in Test cricket?",
+        "options": ["Muttiah Muralitharan", "Shane Warne", "Anil Kumble", "James Anderson"],
+        "answer": "Muttiah Muralitharan"
+    },
+    {
+        "question": "Which country won the 2016 UEFA European Football Championship?",
+        "options": ["Spain", "Germany", "Portugal", "France"],
+        "answer": "Portugal"
+    },
+    {
+        "question": "In cricket, what does 'duck' mean?",
+        "options": ["A player gets out for zero runs", "A player scores one run", "A player hits a boundary", "A player bowls a maiden"],
+        "answer": "A player gets out for zero runs"
+    },
+    {
+        "question": "Who scored the winning goal for Spain in the 2010 FIFA World Cup final?",
+        "options": ["Iniesta", "Torres", "Villa", "Ramos"],
+        "answer": "Iniesta"
+    },
+    {
+        "question": "What is the maximum number of overs per bowler in an ODI match?",
+        "options": ["10", "15", "20", "25"],
+        "answer": "10"
+    },
+    {
+        "question": "Who has the record for the most World Cup goals in a single tournament?",
+        "options": ["Pele", "Messi", "Just Fontaine", "Ronaldo"],
+        "answer": "Just Fontaine"
+    },
+    {
+        "question": "Which cricketer has the nickname 'Boom Boom'?",
+        "options": ["Chris Gayle", "Shahid Afridi", "Rohit Sharma", "AB de Villiers"],
+        "answer": "Shahid Afridi"
+    },
+    {
+        "question": "Which team has won the most FIFA Women's World Cup titles?",
+        "options": ["Germany", "USA", "Brazil", "Japan"],
+        "answer": "USA"
+    },
+    {
+        "question": "Who became the youngest player to score a hat-trick in a World Cup?",
+        "options": ["Pele", "Ronaldo", "Mbappe", "Messi"],
+        "answer": "Pele"
+    },
+    {
+        "question": "Which cricketer holds the record for the fastest 50 in T20 Internationals?",
+        "options": ["Yuvraj Singh", "Chris Gayle", "Eoin Morgan", "David Miller"],
+        "answer": "Yuvraj Singh"
+    },
+    {
+        "question": "What is the regulation time of a FIFA football match?",
+        "options": ["60 minutes", "90 minutes", "100 minutes", "120 minutes"],
+        "answer": "90 minutes"
+    },
+    {
+        "question": "Which cricketer was known as 'The Wall'?",
+        "options": ["Rahul Dravid", "Jacques Kallis", "Steve Waugh", "Ricky Ponting"],
+        "answer": "Rahul Dravid"
+    },
+    {
+        "question": "Which country won the FIFA World Cup in 2006?",
+        "options": ["Brazil", "Italy", "France", "Germany"],
+        "answer": "Italy"
+    },
+    {
+        "question": "In cricket, what is the maximum number of players a team can field at one time?",
+        "options": ["9", "10", "11", "12"],
+        "answer": "11"
+    },
+    {
+        "question": "Which football club is known as 'The Red Devils'?",
+        "options": ["Liverpool", "Manchester City", "Manchester United", "Arsenal"],
+        "answer": "Manchester United"
+    },
+    {
+        "question": "Who holds the record for most wickets in a single World Cup tournament?",
+        "options": ["Glenn McGrath", "Lasith Malinga", "Mitchell Starc", "Shaun Pollock"],
+        "answer": "Glenn McGrath"
+    },
+    {
+        "question": "Which country has won the most Copa América titles?",
+        "options": ["Brazil", "Argentina", "Uruguay", "Chile"],
+        "answer": "Uruguay"
+    },
+    {
+        "question": "In football, what is the standard duration of extra time?",
+        "options": ["10 minutes", "15 minutes", "20 minutes", "30 minutes"],
+        "answer": "30 minutes"
+    },
+    {
+        "question": "Who scored the fastest century in T20 internationals?",
+        "options": ["David Miller", "Chris Gayle", "Yuvraj Singh", "Glenn Maxwell"],
+        "answer": "David Miller"
+    },
+    {
+        "question": "Which footballer is nicknamed 'The Atomic Flea'?",
+        "options": ["Neymar", "Ronaldo", "Messi", "Mbappe"],
+        "answer": "Messi"
+    },
+    {
+        "question": "Which cricketer holds the record for most Test wickets?",
+        "options": ["Shane Warne", "Muttiah Muralitharan", "Anil Kumble", "Stuart Broad"],
+        "answer": "Muttiah Muralitharan"
+    },
+    {
+        "question": "Which country won the first ICC T20 World Cup?",
+        "options": ["Australia", "India", "West Indies", "South Africa"],
+        "answer": "India"
+    },
+    {
+        "question": "In football, how many substitutions are allowed per team?",
+        "options": ["2", "3", "5", "6"],
+        "answer": "5"
+    },
+    {
+        "question": "Which footballer won the FIFA Best Men's Player Award in 2020?",
+        "options": ["Lewandowski", "Ronaldo", "Messi", "Neymar"],
+        "answer": "Lewandowski"
+    },
+    {
+        "question": "Which cricketer hit six sixes in an over in the 2007 T20 World Cup?",
+        "options": ["Chris Gayle", "Yuvraj Singh", "MS Dhoni", "Brendon McCullum"],
+        "answer": "Yuvraj Singh"
+    },
+    {
+        "question": "What is the name of the international football competition held every four years?",
+        "options": ["UEFA Cup", "FIFA World Cup", "Confederations Cup", "Copa America"],
+        "answer": "FIFA World Cup"
+    },
+    {
+        "question": "In cricket, what is the term used for a delivery that spins away from the batsman?",
+        "options": ["Off-spin", "Leg-spin", "Googly", "Slider"],
+        "answer": "Leg-spin"
+    },
+    {
+        "question": "Who scored the 'Hand of God' goal in the 1986 World Cup?",
+        "options": ["Diego Maradona", "Pele", "Messi", "Ronaldo"],
+        "answer": "Diego Maradona"
+    },
+    {
+        "question": "Which cricketer was the first to score 100 centuries in international cricket?",
+        "options": ["Brian Lara", "Sachin Tendulkar", "Ricky Ponting", "Virat Kohli"],
+        "answer": "Sachin Tendulkar"
+    },
+    {
+        "question": "In which year did the first FIFA World Cup take place?",
+        "options": ["1926", "1930", "1934", "1938"],
+        "answer": "1930"
+    }
+]
