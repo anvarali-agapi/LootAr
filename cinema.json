@@ -1,0 +1,452 @@
+[
+    {
+        "question": "Which Malayalam actor is known as 'Complete Actor'?",
+        "options": ["Mohanlal", "Mammootty", "Dulquer Salmaan", "Fahadh Faasil"],
+        "answer": "Mohanlal"
+    },
+    {
+        "question": "Who directed the Hindi film '3 Idiots'?",
+        "options": ["Rajkumar Hirani", "Karan Johar", "Anurag Kashyap", "Zoya Akhtar"],
+        "answer": "Rajkumar Hirani"
+    },
+    {
+        "question": "Which movie won the Best Picture Oscar in 2020?",
+        "options": ["Parasite", "1917", "Joker", "Once Upon a Time in Hollywood"],
+        "answer": "Parasite"
+    },
+    {
+        "question": "Who played the role of Bahubali in the movie 'Bahubali'?",
+        "options": ["Prabhas", "Rana Daggubati", "Ram Charan", "Allu Arjun"],
+        "answer": "Prabhas"
+    },
+    {
+        "question": "In which year was the Malayalam movie 'Drishyam' released?",
+        "options": ["2011", "2013", "2015", "2017"],
+        "answer": "2013"
+    },
+    {
+        "question": "Who played the role of Joker in 'The Dark Knight'?",
+        "options": ["Joaquin Phoenix", "Heath Ledger", "Jack Nicholson", "Jared Leto"],
+        "answer": "Heath Ledger"
+    },
+    {
+        "question": "Which Hindi movie featured the song 'Jai Ho'?",
+        "options": ["Slumdog Millionaire", "Lagaan", "Swades", "Rang De Basanti"],
+        "answer": "Slumdog Millionaire"
+    },
+    {
+        "question": "Who is the director of the Malayalam movie 'Premam'?",
+        "options": ["Alphonse Puthren", "Anwar Rasheed", "Aashiq Abu", "Lijo Jose Pellissery"],
+        "answer": "Alphonse Puthren"
+    },
+    {
+        "question": "Which Hollywood actor played Iron Man in the MCU?",
+        "options": ["Chris Evans", "Chris Hemsworth", "Robert Downey Jr.", "Mark Ruffalo"],
+        "answer": "Robert Downey Jr."
+    },
+    {
+        "question": "Who is known as the 'King of Bollywood'?",
+        "options": ["Salman Khan", "Aamir Khan", "Shah Rukh Khan", "Akshay Kumar"],
+        "answer": "Shah Rukh Khan"
+    },
+    {
+        "question": "Which Malayalam movie won the National Film Award in 2018?",
+        "options": ["Sudani from Nigeria", "Ee.Ma.Yau", "Kumbalangi Nights", "Unda"],
+        "answer": "Sudani from Nigeria"
+    },
+    {
+        "question": "Who played the character Forrest Gump?",
+        "options": ["Tom Hanks", "Brad Pitt", "Matt Damon", "Leonardo DiCaprio"],
+        "answer": "Tom Hanks"
+    },
+    {
+        "question": "Which Hindi movie was inspired by M.S. Dhoni's life?",
+        "options": ["MS Dhoni", "Sachin: A Billion Dreams", "Dangal", "Sultan"],
+        "answer": "MS Dhoni"
+    },
+    {
+        "question": "Which Malayalam movie starred Mohanlal as a wrestler?",
+        "options": ["Pulimurugan", "Marakkar", "Lucifer", "Kanal"],
+        "answer": "Pulimurugan"
+    },
+    {
+        "question": "Who directed the English movie 'Titanic'?",
+        "options": ["James Cameron", "Steven Spielberg", "Christopher Nolan", "Ridley Scott"],
+        "answer": "James Cameron"
+    },
+    {
+        "question": "Which Hindi film won the Best Film Award at the Filmfare 2020?",
+        "options": ["Gully Boy", "Kabir Singh", "Article 15", "Super 30"],
+        "answer": "Gully Boy"
+    },
+    {
+        "question": "Who played the lead role in Malayalam movie 'Charlie'?",
+        "options": ["Dulquer Salmaan", "Prithviraj", "Nivin Pauly", "Fahadh Faasil"],
+        "answer": "Dulquer Salmaan"
+    },
+    {
+        "question": "Which Hollywood movie won the Best Visual Effects Oscar in 2019?",
+        "options": ["Avengers: Endgame", "The Lion King", "Blade Runner 2049", "1917"],
+        "answer": "1917"
+    },
+    {
+        "question": "Which actor played the lead role in Hindi movie 'PK'?",
+        "options": ["Aamir Khan", "Shah Rukh Khan", "Akshay Kumar", "Ranbir Kapoor"],
+        "answer": "Aamir Khan"
+    },
+    {
+        "question": "Who played the title role in Malayalam movie 'Kayamkulam Kochunni'?",
+        "options": ["Nivin Pauly", "Prithviraj", "Tovino Thomas", "Mohanlal"],
+        "answer": "Nivin Pauly"
+    },
+    {
+        "question": "Which Hollywood actor starred in 'Pirates of the Caribbean'?",
+        "options": ["Johnny Depp", "Orlando Bloom", "Brad Pitt", "Chris Pratt"],
+        "answer": "Johnny Depp"
+    },
+    {
+        "question": "Who directed the Hindi movie 'Kabhi Khushi Kabhie Gham'?",
+        "options": ["Karan Johar", "Farhan Akhtar", "Rohit Shetty", "Zoya Akhtar"],
+        "answer": "Karan Johar"
+    },
+    {
+        "question": "Which Malayalam movie starred Fahadh Faasil as a serial killer?",
+        "options": ["Iyyobinte Pusthakam", "Joji", "Kumbalangi Nights", "Malik"],
+        "answer": "Joji"
+    },
+    {
+        "question": "Who directed the Hollywood sci-fi movie 'Inception'?",
+        "options": ["Christopher Nolan", "Ridley Scott", "James Cameron", "Peter Jackson"],
+        "answer": "Christopher Nolan"
+    },
+    {
+        "question": "Which Hindi movie featured the iconic dialogue 'Mogambo Khush Hua'?",
+        "options": ["Sholay", "Mr. India", "Deewar", "Don"],
+        "answer": "Mr. India"
+    },
+    {
+        "question": "Which Malayalam actor played the lead role in 'Banglore Days'?",
+        "options": ["Fahadh Faasil", "Nivin Pauly", "Dulquer Salmaan", "Nazriya Nazim"],
+        "answer": "Dulquer Salmaan"
+    },
+    {
+        "question": "Which Hollywood movie is based on the life of Stephen Hawking?",
+        "options": ["Interstellar", "The Theory of Everything", "A Beautiful Mind", "The Imitation Game"],
+        "answer": "The Theory of Everything"
+    },
+    {
+        "question": "Which actor played the lead role in Hindi movie 'Dangal'?",
+        "options": ["Aamir Khan", "Salman Khan", "Akshay Kumar", "Shahid Kapoor"],
+        "answer": "Aamir Khan"
+    },
+    {
+        "question": "Who played the role of a blind pianist in 'Andhadhun'?",
+        "options": ["Ayushmann Khurrana", "Rajkummar Rao", "Vicky Kaushal", "Ranveer Singh"],
+        "answer": "Ayushmann Khurrana"
+    },
+    {
+        "question": "Which Malayalam director is known for his movie 'Angamaly Diaries'?",
+        "options": ["Lijo Jose Pellissery", "Alphonse Puthren", "Aashiq Abu", "Anwar Rasheed"],
+        "answer": "Lijo Jose Pellissery"
+    },
+    {
+        "question": "Which Hollywood movie won the Best Picture Oscar in 1998?",
+        "options": ["Titanic", "Saving Private Ryan", "Good Will Hunting", "Shakespeare in Love"],
+        "answer": "Shakespeare in Love"
+    },
+    {
+        "question": "Which actress played the lead in Hindi movie 'Queen'?",
+        "options": ["Kangana Ranaut", "Alia Bhatt", "Deepika Padukone", "Priyanka Chopra"],
+        "answer": "Kangana Ranaut"
+    },
+    {
+        "question": "Which Malayalam movie was India's official entry to the Oscars in 2021?",
+        "options": ["Jallikattu", "Joji", "Kumbalangi Nights", "Virus"],
+        "answer": "Jallikattu"
+    },
+    {
+        "question": "Who played the role of Spider-Man in 'Spider-Man: Homecoming'?",
+        "options": ["Andrew Garfield", "Tom Holland", "Tobey Maguire", "Chris Evans"],
+        "answer": "Tom Holland"
+    },
+    {
+        "question": "Which Hindi movie features the song 'Tum Hi Ho'?",
+        "options": ["Aashiqui 2", "Kal Ho Na Ho", "Kabir Singh", "Rockstar"],
+        "answer": "Aashiqui 2"
+    },
+    {
+        "question": "Which Malayalam actor played the lead role in 'Drishyam'?",
+        "options": ["Mohanlal", "Mammootty", "Prithviraj", "Dulquer Salmaan"],
+        "answer": "Mohanlal"
+    },
+    {
+        "question": "Who directed the Hollywood war movie 'Dunkirk'?",
+        "options": ["Christopher Nolan", "Steven Spielberg", "Ridley Scott", "James Cameron"],
+        "answer": "Christopher Nolan"
+    },
+    {
+        "question": "Which Hindi movie is based on the life of boxer Mary Kom?",
+        "options": ["Mary Kom", "Sultan", "Dangal", "Panga"],
+        "answer": "Mary Kom"
+    },
+    {
+        "question": "Which Malayalam actor starred in 'Thondimuthalum Driksakshiyum'?",
+        "options": ["Fahadh Faasil", "Dulquer Salmaan", "Prithviraj", "Nivin Pauly"],
+        "answer": "Fahadh Faasil"
+    },
+    {
+        "question": "Which Hollywood movie is based on the book 'The Lord of the Rings'?",
+        "options": ["Harry Potter", "The Hobbit", "The Lord of the Rings", "Percy Jackson"],
+        "answer": "The Lord of the Rings"
+    },
+    {
+        "question": "Who played the role of Geet in Hindi movie 'Jab We Met'?",
+        "options": ["Kareena Kapoor", "Priyanka Chopra", "Alia Bhatt", "Deepika Padukone"],
+        "answer": "Kareena Kapoor"
+    },
+    {
+        "question": "Which Malayalam movie features Mammootty in the role of a journalist?",
+        "options": ["The Great Father", "New Delhi", "Unda", "Peranbu"],
+        "answer": "New Delhi"
+    },
+    {
+        "question": "Which Hollywood director is known for the movie 'Jurassic Park'?",
+        "options": ["Steven Spielberg", "James Cameron", "Christopher Nolan", "Ridley Scott"],
+        "answer": "Steven Spielberg"
+    },
+    {
+        "question": "Which Hindi film was India's entry to the Oscars in 2020?",
+        "options": ["Gully Boy", "Article 15", "Kabir Singh", "Super 30"],
+        "answer": "Gully Boy"
+    },
+    {
+        "question": "Which Malayalam actor starred in 'Take Off'?",
+        "options": ["Parvathy", "Fahadh Faasil", "Kunchacko Boban", "Tovino Thomas"],
+        "answer": "Parvathy"
+    },
+    {
+        "question": "Who played the character of James Bond in 'Casino Royale'?",
+        "options": ["Daniel Craig", "Pierce Brosnan", "Sean Connery", "Roger Moore"],
+        "answer": "Daniel Craig"
+    },
+    {
+        "question": "Who directed the Malayalam movie 'Ustad Hotel'?",
+        "options": ["Anwar Rasheed", "Lijo Jose Pellissery", "Aashiq Abu", "Alphonse Puthren"],
+        "answer": "Anwar Rasheed"
+    },
+    {
+        "question": "Which Hindi film featured the character 'Munna Bhai'?",
+        "options": ["Lage Raho Munna Bhai", "PK", "3 Idiots", "Sholay"],
+        "answer": "Lage Raho Munna Bhai"
+    },
+    {
+        "question": "Who directed the Hollywood movie 'Avatar'?",
+        "options": ["James Cameron", "Steven Spielberg", "Ridley Scott", "Christopher Nolan"],
+        "answer": "James Cameron"
+    },
+    {
+        "question": "Which Malayalam actor starred in 'Kumbalangi Nights'?",
+        "options": ["Fahadh Faasil", "Mammootty", "Mohanlal", "Prithviraj"],
+        "answer": "Fahadh Faasil"
+    },
+    {
+        "question": "Who played the character 'Gabbar Singh' in 'Sholay'?",
+        "options": ["Amjad Khan", "Amitabh Bachchan", "Dharmendra", "Sanjeev Kumar"],
+        "answer": "Amjad Khan"
+    },
+    {
+        "question": "Who played 'Harry Potter' in the movie series?",
+        "options": ["Daniel Radcliffe", "Rupert Grint", "Tom Felton", "Elijah Wood"],
+        "answer": "Daniel Radcliffe"
+    },
+    {
+        "question": "Which Hindi movie featured the iconic song 'Chaiyya Chaiyya'?",
+        "options": ["Dil Se", "Kabhi Khushi Kabhie Gham", "Dilwale", "Kal Ho Naa Ho"],
+        "answer": "Dil Se"
+    },
+    {
+        "question": "Who played the lead role in the Hollywood movie 'Gladiator'?",
+        "options": ["Russell Crowe", "Brad Pitt", "Leonardo DiCaprio", "Tom Cruise"],
+        "answer": "Russell Crowe"
+    },
+    {
+        "question": "Which Malayalam film is known for its iconic climax at a court trial?",
+        "options": ["Drishyam", "Chinthavishtayaya Shyamala", "Vellanakalude Nadu", "Oru CBI Diary Kurippu"],
+        "answer": "Drishyam"
+    },
+    {
+        "question": "Which Hindi movie is based on the life of wrestler Mahavir Singh Phogat?",
+        "options": ["Dangal", "Sultan", "Mukkabaaz", "Toofaan"],
+        "answer": "Dangal"
+    },
+    {
+        "question": "Which Hollywood actor played Captain Jack Sparrow?",
+        "options": ["Johnny Depp", "Tom Hanks", "Robert Downey Jr.", "Brad Pitt"],
+        "answer": "Johnny Depp"
+    },
+    {
+        "question": "Which Malayalam actor starred in the movie 'Bangalore Days'?",
+        "options": ["Dulquer Salmaan", "Nivin Pauly", "Mohanlal", "Mammootty"],
+        "answer": "Dulquer Salmaan"
+    },
+    {
+        "question": "Which Hindi movie won the National Film Award for Best Film in 2019?",
+        "options": ["Andhadhun", "Article 15", "Gully Boy", "Super 30"],
+        "answer": "Andhadhun"
+    },
+    {
+        "question": "Which Hollywood movie features the characters 'Woody' and 'Buzz Lightyear'?",
+        "options": ["Toy Story", "Finding Nemo", "Shrek", "The Incredibles"],
+        "answer": "Toy Story"
+    },
+    {
+        "question": "Which Malayalam movie marked the debut of director Vineeth Sreenivasan?",
+        "options": ["Malarvadi Arts Club", "Jacobinte Swargarajyam", "Thattathin Marayathu", "Hridayam"],
+        "answer": "Malarvadi Arts Club"
+    },
+    {
+        "question": "Who played the role of Sanjay Dutt in the Hindi movie 'Sanju'?",
+        "options": ["Ranbir Kapoor", "Ranveer Singh", "Ayushmann Khurrana", "Rajkummar Rao"],
+        "answer": "Ranbir Kapoor"
+    },
+    {
+        "question": "Which Hollywood movie is set in the wizarding world of Hogwarts?",
+        "options": ["Harry Potter", "Lord of the Rings", "The Hobbit", "Narnia"],
+        "answer": "Harry Potter"
+    },
+    {
+        "question": "Which Hindi movie features the famous dialogue 'Mere paas maa hai'?",
+        "options": ["Deewar", "Sholay", "Don", "Agneepath"],
+        "answer": "Deewar"
+    },
+    {
+        "question": "Which Malayalam movie featured Prithviraj as a police officer?",
+        "options": ["Mumbai Police", "7th Day", "Memories", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Who played the lead role in the Hollywood movie 'The Revenant'?",
+        "options": ["Leonardo DiCaprio", "Tom Hardy", "Matt Damon", "Christian Bale"],
+        "answer": "Leonardo DiCaprio"
+    },
+    {
+        "question": "Which Hindi movie was the official Indian entry for the Oscars in 2019?",
+        "options": ["Gully Boy", "Andhadhun", "Article 15", "Super 30"],
+        "answer": "Gully Boy"
+    },
+    {
+        "question": "Which Malayalam movie won the Kerala State Film Award for Best Film in 2020?",
+        "options": ["Ayyappanum Koshiyum", "Jallikattu", "Thondimuthalum Driksakshiyum", "Virus"],
+        "answer": "Ayyappanum Koshiyum"
+    },
+    {
+        "question": "Who directed the Hollywood movie 'Interstellar'?",
+        "options": ["Christopher Nolan", "Steven Spielberg", "James Cameron", "Ridley Scott"],
+        "answer": "Christopher Nolan"
+    },
+    {
+        "question": "Which Malayalam actor played the lead role in 'Pavithram'?",
+        "options": ["Mohanlal", "Mammootty", "Prithviraj", "Fahadh Faasil"],
+        "answer": "Mohanlal"
+    },
+    {
+        "question": "Which Hindi movie features the character 'Rancho' played by Aamir Khan?",
+        "options": ["3 Idiots", "PK", "Taare Zameen Par", "Dhoom 3"],
+        "answer": "3 Idiots"
+    },
+    {
+        "question": "Which Hollywood movie features the characters 'Batman' and 'Joker'?",
+        "options": ["The Dark Knight", "Avengers", "Spider-Man", "Superman"],
+        "answer": "The Dark Knight"
+    },
+    {
+        "question": "Which Malayalam director is known for his work in 'Ee Ma Yau'?",
+        "options": ["Lijo Jose Pellissery", "Aashiq Abu", "Anwar Rasheed", "Vineeth Sreenivasan"],
+        "answer": "Lijo Jose Pellissery"
+    },
+    {
+        "question": "Which Hindi movie featured the iconic song 'Ek Do Teen'?",
+        "options": ["Tezaab", "Dil", "Hum Aapke Hain Koun", "Beta"],
+        "answer": "Tezaab"
+    },
+    {
+        "question": "Who played the lead role in the Malayalam movie 'Kali'?",
+        "options": ["Dulquer Salmaan", "Nivin Pauly", "Tovino Thomas", "Fahadh Faasil"],
+        "answer": "Dulquer Salmaan"
+    },
+    {
+        "question": "Which Hollywood movie is about a sinking ship and won 11 Oscars?",
+        "options": ["Titanic", "The Poseidon Adventure", "Master and Commander", "Jaws"],
+        "answer": "Titanic"
+    },
+    {
+        "question": "Who directed the Hindi movie 'Zindagi Na Milegi Dobara'?",
+        "options": ["Zoya Akhtar", "Farhan Akhtar", "Karan Johar", "Imtiaz Ali"],
+        "answer": "Zoya Akhtar"
+    },
+    {
+        "question": "Which Malayalam movie features the life of a gangster named 'Bheekaran'?",
+        "options": ["Kammatti Paadam", "Angamaly Diaries", "Lijo Jose Pellissery", "Sakhavu"],
+        "answer": "Kammatti Paadam"
+    },
+    {
+        "question": "Which Hollywood actor voiced 'Simba' in 'The Lion King' (2019)?",
+        "options": ["Donald Glover", "Seth Rogen", "Will Smith", "Tom Holland"],
+        "answer": "Donald Glover"
+    },
+    {
+        "question": "Which Hindi movie featured the character 'Geet' played by Kareena Kapoor?",
+        "options": ["Jab We Met", "3 Idiots", "Talaash", "Kabhi Khushi Kabhie Gham"],
+        "answer": "Jab We Met"
+    },
+    {
+        "question": "Which Malayalam actor played a dual role in the movie 'Aaram Thampuran'?",
+        "options": ["Mohanlal", "Mammootty", "Prithviraj", "Suresh Gopi"],
+        "answer": "Mohanlal"
+    },
+    {
+        "question": "Which Hollywood director is famous for the movie 'E.T.'?",
+        "options": ["Steven Spielberg", "James Cameron", "Ridley Scott", "Christopher Nolan"],
+        "answer": "Steven Spielberg"
+    },
+    {
+        "question": "Which Hindi movie is based on the life of Neerja Bhanot?",
+        "options": ["Neerja", "Mary Kom", "Raazi", "Gunjan Saxena"],
+        "answer": "Neerja"
+    },
+    {
+        "question": "Who played the lead role in the Malayalam movie 'Joseph'?",
+        "options": ["Joju George", "Fahadh Faasil", "Prithviraj", "Dulquer Salmaan"],
+        "answer": "Joju George"
+    },
+    {
+        "question": "Which Hollywood movie is about a mathematician named John Nash?",
+        "options": ["A Beautiful Mind", "The Theory of Everything", "Good Will Hunting", "The Imitation Game"],
+        "answer": "A Beautiful Mind"
+    },
+    {
+        "question": "Which Hindi movie features the song 'Tum Mile'?",
+        "options": ["Tum Mile", "Aashiqui 2", "Rockstar", "Kal Ho Na Ho"],
+        "answer": "Tum Mile"
+    },
+    {
+        "question": "Which Malayalam actor starred in the movie 'Nandanam'?",
+        "options": ["Prithviraj", "Mohanlal", "Mammootty", "Indrajith"],
+        "answer": "Prithviraj"
+    },
+    {
+        "question": "Who directed the Hollywood movie 'Schindler's List'?",
+        "options": ["Steven Spielberg", "James Cameron", "Christopher Nolan", "Ridley Scott"],
+        "answer": "Steven Spielberg"
+    },
+    {
+        "question": "Which Hindi movie featured the iconic song 'Dhoom Machale'?",
+        "options": ["Dhoom", "Kabhi Khushi Kabhie Gham", "Dil Chahta Hai", "Kal Ho Naa Ho"],
+        "answer": "Dhoom"
+    },
+    {
+        "question": "Which Malayalam movie featured the actor Fahadh Faasil as an underworld don?",
+        "options": ["Joji", "Trance", "Malik", "Varathan"],
+        "answer": "Malik"
+    }
+]
