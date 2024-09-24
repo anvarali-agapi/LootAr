@@ -1,0 +1,467 @@
+[
+    {
+        "question": "Who was the first President of the United States?",
+        "options": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"],
+        "answer": "George Washington"
+    },
+    {
+        "question": "Who is the current Prime Minister of India (as of 2023)?",
+        "options": ["Narendra Modi", "Manmohan Singh", "Rahul Gandhi", "Amit Shah"],
+        "answer": "Narendra Modi"
+    },
+    {
+        "question": "What is the highest court in the United States?",
+        "options": ["Supreme Court", "District Court", "Court of Appeals", "State Court"],
+        "answer": "Supreme Court"
+    },
+    {
+        "question": "Which political party is currently ruling China (as of 2023)?",
+        "options": ["CPC", "KMT", "LDP", "DPP"],
+        "answer": "CPC"
+    },
+    {
+        "question": "Who is known as the Father of the Indian Constitution?",
+        "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "B.R. Ambedkar", "Sardar Patel"],
+        "answer": "B.R. Ambedkar"
+    },
+    {
+        "question": "Which body makes laws in the United Kingdom?",
+        "options": ["House of Commons", "House of Lords", "Congress", "Senate"],
+        "answer": "House of Commons"
+    },
+    {
+        "question": "Who was the first female Prime Minister of the UK?",
+        "options": ["Margaret Thatcher", "Theresa May", "Angela Merkel", "Indira Gandhi"],
+        "answer": "Margaret Thatcher"
+    },
+    {
+        "question": "What is the capital city of the European Union?",
+        "options": ["Paris", "Berlin", "Brussels", "Rome"],
+        "answer": "Brussels"
+    },
+    {
+        "question": "Which country has a presidential system of government?",
+        "options": ["India", "United States", "United Kingdom", "Japan"],
+        "answer": "United States"
+    },
+    {
+        "question": "Who is the current President of Russia (as of 2023)?",
+        "options": ["Dmitry Medvedev", "Vladimir Putin", "Boris Yeltsin", "Alexei Navalny"],
+        "answer": "Vladimir Putin"
+    },
+    {
+        "question": "What is the term length of a U.S. President?",
+        "options": ["2 years", "4 years", "6 years", "5 years"],
+        "answer": "4 years"
+    },
+    {
+        "question": "Which political party is traditionally conservative in the UK?",
+        "options": ["Labour", "Liberal Democrats", "Conservatives", "Green Party"],
+        "answer": "Conservatives"
+    },
+    {
+        "question": "Who was the first female Prime Minister of India?",
+        "options": ["Sonia Gandhi", "Indira Gandhi", "Pratibha Patil", "Sarojini Naidu"],
+        "answer": "Indira Gandhi"
+    },
+    {
+        "question": "Who is the current Chancellor of Germany (as of 2023)?",
+        "options": ["Angela Merkel", "Olaf Scholz", "Emmanuel Macron", "Boris Johnson"],
+        "answer": "Olaf Scholz"
+    },
+    {
+        "question": "What is the name of the U.S. legislative body?",
+        "options": ["Parliament", "Senate", "Congress", "Assembly"],
+        "answer": "Congress"
+    },
+    {
+        "question": "Who is the head of government in a parliamentary system?",
+        "options": ["President", "Prime Minister", "Governor", "Speaker"],
+        "answer": "Prime Minister"
+    },
+    {
+        "question": "Which country follows a one-party system?",
+        "options": ["India", "United States", "China", "Brazil"],
+        "answer": "China"
+    },
+    {
+        "question": "Which Indian state has its own Constitution?",
+        "options": ["Maharashtra", "Kerala", "Jammu and Kashmir", "Punjab"],
+        "answer": "Jammu and Kashmir"
+    },
+    {
+        "question": "What is the national legislative body of Japan called?",
+        "options": ["Congress", "Diet", "Senate", "Parliament"],
+        "answer": "Diet"
+    },
+    {
+        "question": "Who appoints the Prime Minister of the UK?",
+        "options": ["Parliament", "The People", "Queen", "House of Lords"],
+        "answer": "Queen"
+    },
+    {
+        "question": "What is the role of the Speaker in the House of Commons?",
+        "options": ["Debates", "Votes", "Moderates", "Proposes Bills"],
+        "answer": "Moderates"
+    },
+    {
+        "question": "Which country has a constitutional monarchy?",
+        "options": ["USA", "UK", "France", "China"],
+        "answer": "UK"
+    },
+    {
+        "question": "Which body elects the President of the USA?",
+        "options": ["Congress", "Supreme Court", "Electoral College", "Senate"],
+        "answer": "Electoral College"
+    },
+    {
+        "question": "Who was the first President of India?",
+        "options": ["Jawaharlal Nehru", "Rajendra Prasad", "Sarvepalli Radhakrishnan", "Lal Bahadur Shastri"],
+        "answer": "Rajendra Prasad"
+    },
+    {
+        "question": "Which is the upper house of the Indian Parliament?",
+        "options": ["Lok Sabha", "Rajya Sabha", "Vidhan Sabha", "Gram Sabha"],
+        "answer": "Rajya Sabha"
+    },
+    {
+        "question": "What is the full form of the UN?",
+        "options": ["United Nations", "Universal Network", "Union of Nations", "United Neighbors"],
+        "answer": "United Nations"
+    },
+    {
+        "question": "Which international body deals with trade disputes?",
+        "options": ["UN", "WTO", "WHO", "IMF"],
+        "answer": "WTO"
+    },
+    {
+        "question": "Who is the leader of the Labour Party in the UK (as of 2023)?",
+        "options": ["Jeremy Corbyn", "Keir Starmer", "Boris Johnson", "Tony Blair"],
+        "answer": "Keir Starmer"
+    },
+    {
+        "question": "What is the lower house of the United States Congress?",
+        "options": ["House of Commons", "House of Lords", "House of Representatives", "Senate"],
+        "answer": "House of Representatives"
+    },
+    {
+        "question": "Which organization works for world peace?",
+        "options": ["WTO", "IMF", "WHO", "UN"],
+        "answer": "UN"
+    },
+    {
+        "question": "Who is the first woman to become U.S. Vice President?",
+        "options": ["Hillary Clinton", "Kamala Harris", "Condoleezza Rice", "Michelle Obama"],
+        "answer": "Kamala Harris"
+    },
+    {
+        "question": "Which political ideology promotes government ownership of resources?",
+        "options": ["Capitalism", "Socialism", "Fascism", "Monarchy"],
+        "answer": "Socialism"
+    },
+    {
+        "question": "Which U.S. President resigned due to the Watergate scandal?",
+        "options": ["John F. Kennedy", "Richard Nixon", "Gerald Ford", "Ronald Reagan"],
+        "answer": "Richard Nixon"
+    },
+    {
+        "question": "Which Indian body conducts elections?",
+        "options": ["Supreme Court", "Election Commission", "CAG", "Parliament"],
+        "answer": "Election Commission"
+    },
+    {
+        "question": "Who is the leader of the Communist Party of China?",
+        "options": ["Xi Jinping", "Mao Zedong", "Zhou Enlai", "Deng Xiaoping"],
+        "answer": "Xi Jinping"
+    },
+    {
+        "question": "Which organization focuses on international health?",
+        "options": ["IMF", "UNICEF", "WHO", "WTO"],
+        "answer": "WHO"
+    },
+    {
+        "question": "Which document sets the rules of the Indian government?",
+        "options": ["Bill of Rights", "Constitution", "Magna Carta", "Declaration"],
+        "answer": "Constitution"
+    },
+    {
+        "question": "Who is the head of state in the UK?",
+        "options": ["Prime Minister", "King", "Speaker", "Governor"],
+        "answer": "King"
+    },
+    {
+        "question": "What is the international organization for children’s welfare?",
+        "options": ["WTO", "WHO", "UNICEF", "IMF"],
+        "answer": "UNICEF"
+    },
+    {
+        "question": "Who is the current President of the United States (as of 2023)?",
+        "options": ["Donald Trump", "Joe Biden", "Barack Obama", "Kamala Harris"],
+        "answer": "Joe Biden"
+    },
+    {
+        "question": "What is the full form of NATO?",
+        "options": ["North America Treaty", "North Atlantic Treaty Organization", "Northern Army Treaty Organization", "None"],
+        "answer": "North Atlantic Treaty Organization"
+    },
+    {
+        "question": "Which country uses the title 'Chancellor' for its head of government?",
+        "options": ["Germany", "France", "Italy", "USA"],
+        "answer": "Germany"
+    },
+    {
+        "question": "Who was the first black President of the USA?",
+        "options": ["Bill Clinton", "Barack Obama", "George Bush", "Joe Biden"],
+        "answer": "Barack Obama"
+    },
+    {
+        "question": "Which body makes laws in India?",
+        "options": ["Supreme Court", "Rajya Sabha", "Lok Sabha", "Parliament"],
+        "answer": "Parliament"
+    },
+    {
+        "question": "Who is the current Prime Minister of the UK (as of 2023)?",
+        "options": ["Boris Johnson", "Rishi Sunak", "Keir Starmer", "Theresa May"],
+        "answer": "Rishi Sunak"
+    },
+    {
+        "question": "Which is the ruling party in North Korea?",
+        "options": ["Democratic Party", "Communist Party", "Workers' Party", "Labour Party"],
+        "answer": "Workers' Party"
+    },
+    {
+        "question": "Who appoints the judges of the Supreme Court in India?",
+        "options": ["President", "Prime Minister", "Parliament", "Chief Justice"],
+        "answer": "President"
+    },
+    {
+        "question": "Who was the first female Chancellor of Germany?",
+        "options": ["Angela Merkel", "Theresa May", "Margaret Thatcher", "Emmanuel Macron"],
+        "answer": "Angela Merkel"
+    },
+    {
+        "question": "Which country has the largest democracy in the world?",
+        "options": ["USA", "Russia", "India", "China"],
+        "answer": "India"
+    },
+    {
+        "question": "Who was the first President of South Africa after apartheid?",
+        "options": ["Nelson Mandela", "Jacob Zuma", "Thabo Mbeki", "F.W. de Klerk"],
+        "answer": "Nelson Mandela"
+    },
+    {
+        "question": "What is the legislative body of the United States called?",
+        "options": ["Senate", "Congress", "Parliament", "House of Lords"],
+        "answer": "Congress"
+    },
+    {
+        "question": "What is the lower house of the Indian Parliament?",
+        "options": ["Rajya Sabha", "Vidhan Sabha", "Gram Sabha", "Lok Sabha"],
+        "answer": "Lok Sabha"
+    },
+    {
+        "question": "Who was the first female Speaker of the U.S. House of Representatives?",
+        "options": ["Nancy Pelosi", "Hillary Clinton", "Condoleezza Rice", "Kamala Harris"],
+        "answer": "Nancy Pelosi"
+    },
+    {
+        "question": "Which political party is currently ruling the USA (2023)?",
+        "options": ["Democrats", "Republicans", "Green Party", "Libertarians"],
+        "answer": "Democrats"
+    },
+    {
+        "question": "Who was the first Prime Minister of India?",
+        "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Indira Gandhi", "Rajendra Prasad"],
+        "answer": "Jawaharlal Nehru"
+    },
+    {
+        "question": "What is the currency of the European Union?",
+        "options": ["Pound", "Dollar", "Euro", "Franc"],
+        "answer": "Euro"
+    },
+    {
+        "question": "Who was the U.S. President during World War II?",
+        "options": ["Franklin D. Roosevelt", "Harry Truman", "Dwight Eisenhower", "Woodrow Wilson"],
+        "answer": "Franklin D. Roosevelt"
+    },
+    {
+        "question": "Which country's parliament is known as the 'Duma'?",
+        "options": ["Germany", "Russia", "Italy", "France"],
+        "answer": "Russia"
+    },
+    {
+        "question": "Who is the longest-serving U.S. President?",
+        "options": ["Franklin D. Roosevelt", "Abraham Lincoln", "George Washington", "Theodore Roosevelt"],
+        "answer": "Franklin D. Roosevelt"
+    },
+    {
+        "question": "Which country has the oldest written constitution still in use?",
+        "options": ["USA", "UK", "India", "France"],
+        "answer": "USA"
+    },
+    {
+        "question": "Which political leader is known for initiating 'Brexit'?",
+        "options": ["Theresa May", "David Cameron", "Boris Johnson", "Tony Blair"],
+        "answer": "David Cameron"
+    },
+    {
+        "question": "Which international body is responsible for maintaining world peace?",
+        "options": ["WTO", "UN", "IMF", "WHO"],
+        "answer": "UN"
+    },
+    {
+        "question": "Who is the current Prime Minister of Canada (as of 2023)?",
+        "options": ["Justin Trudeau", "Stephen Harper", "Andrew Scheer", "Erin O'Toole"],
+        "answer": "Justin Trudeau"
+    },
+    {
+        "question": "Who was the first U.S. President to be impeached?",
+        "options": ["Bill Clinton", "Andrew Johnson", "Richard Nixon", "Donald Trump"],
+        "answer": "Andrew Johnson"
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+        "answer": "Canberra"
+    },
+    {
+        "question": "Which country has the oldest continuous monarchy?",
+        "options": ["UK", "Japan", "Spain", "Sweden"],
+        "answer": "Japan"
+    },
+    {
+        "question": "Which Indian state has the largest number of seats in Lok Sabha?",
+        "options": ["Maharashtra", "Kerala", "Uttar Pradesh", "Punjab"],
+        "answer": "Uttar Pradesh"
+    },
+    {
+        "question": "Who was the first African-American Secretary of State in the USA?",
+        "options": ["Condoleezza Rice", "Colin Powell", "Hillary Clinton", "Kamala Harris"],
+        "answer": "Colin Powell"
+    },
+    {
+        "question": "What is the capital of the United Nations?",
+        "options": ["Washington D.C.", "Geneva", "New York", "Paris"],
+        "answer": "New York"
+    },
+    {
+        "question": "Who is the current Prime Minister of Australia (as of 2023)?",
+        "options": ["Scott Morrison", "Anthony Albanese", "Malcolm Turnbull", "Tony Abbott"],
+        "answer": "Anthony Albanese"
+    },
+    {
+        "question": "Which country uses the term 'Premier' for its leader?",
+        "options": ["China", "India", "USA", "Russia"],
+        "answer": "China"
+    },
+    {
+        "question": "What political party does Emmanuel Macron belong to?",
+        "options": ["En Marche!", "Republicans", "Socialists", "Greens"],
+        "answer": "En Marche!"
+    },
+    {
+        "question": "Who was the first African-American President of South Africa?",
+        "options": ["Nelson Mandela", "Jacob Zuma", "Cyril Ramaphosa", "Thabo Mbeki"],
+        "answer": "Nelson Mandela"
+    },
+    {
+        "question": "What is the legislative body of the UK called?",
+        "options": ["Senate", "Congress", "Parliament", "Assembly"],
+        "answer": "Parliament"
+    },
+    {
+        "question": "Which Indian state has the largest number of Rajya Sabha seats?",
+        "options": ["Uttar Pradesh", "Kerala", "Bihar", "Tamil Nadu"],
+        "answer": "Uttar Pradesh"
+    },
+    {
+        "question": "Which European country does not have a written constitution?",
+        "options": ["Germany", "France", "UK", "Spain"],
+        "answer": "UK"
+    },
+    {
+        "question": "Who was the first woman to serve on the U.S. Supreme Court?",
+        "options": ["Sandra Day O'Connor", "Ruth Bader Ginsburg", "Elena Kagan", "Sonia Sotomayor"],
+        "answer": "Sandra Day O'Connor"
+    },
+    {
+        "question": "Who was the first female leader of Pakistan?",
+        "options": ["Benazir Bhutto", "Indira Gandhi", "Fatima Jinnah", "Sonia Gandhi"],
+        "answer": "Benazir Bhutto"
+    },
+    {
+        "question": "What does the abbreviation 'WTO' stand for?",
+        "options": ["World Travel Org.", "World Trade Org.", "World Tourism Org.", "World Transport Org."],
+        "answer": "World Trade Org."
+    },
+    {
+        "question": "Which country was the first to grant women the right to vote?",
+        "options": ["USA", "New Zealand", "UK", "France"],
+        "answer": "New Zealand"
+    },
+    {
+        "question": "Who was the President of the United States during the Cold War's start?",
+        "options": ["Harry Truman", "Dwight Eisenhower", "John F. Kennedy", "Franklin Roosevelt"],
+        "answer": "Harry Truman"
+    },
+    {
+        "question": "Which body elects the President of India?",
+        "options": ["People", "Electoral College", "Rajya Sabha", "Supreme Court"],
+        "answer": "Electoral College"
+    },
+    {
+        "question": "Which country's government is based on Sharia law?",
+        "options": ["India", "USA", "Saudi Arabia", "Japan"],
+        "answer": "Saudi Arabia"
+    },
+    {
+        "question": "What does 'IMF' stand for?",
+        "options": ["International Monetary Fund", "Internal Market Fund", "International Market Fund", "Integrated Monetary Fund"],
+        "answer": "International Monetary Fund"
+    },
+    {
+        "question": "Who was the first U.S. President to be assassinated?",
+        "options": ["Abraham Lincoln", "James Garfield", "John F. Kennedy", "William McKinley"],
+        "answer": "Abraham Lincoln"
+    },
+    {
+        "question": "Which political leader is associated with 'glasnost' and 'perestroika'?",
+        "options": ["Joseph Stalin", "Mikhail Gorbachev", "Vladimir Putin", "Leonid Brezhnev"],
+        "answer": "Mikhail Gorbachev"
+    },
+    {
+        "question": "Who was the first woman Prime Minister of Sri Lanka?",
+        "options": ["Sirimavo Bandaranaike", "Chandrika Kumaratunga", "Indira Gandhi", "Benazir Bhutto"],
+        "answer": "Sirimavo Bandaranaike"
+    },
+    {
+        "question": "Which organization focuses on protecting human rights globally?",
+        "options": ["WTO", "IMF", "Amnesty International", "UNICEF"],
+        "answer": "Amnesty International"
+    },
+    {
+        "question": "Who was the first President of the European Commission?",
+        "options": ["Jean Monnet", "Walter Hallstein", "Jacques Delors", "Ursula von der Leyen"],
+        "answer": "Walter Hallstein"
+    },
+    {
+        "question": "Which city is home to the International Court of Justice?",
+        "options": ["Geneva", "New York", "Paris", "The Hague"],
+        "answer": "The Hague"
+    },
+    {
+        "question": "What is the main decision-making body of the UN?",
+        "options": ["UNESCO", "UNICEF", "General Assembly", "Security Council"],
+        "answer": "Security Council"
+    },
+    {
+        "question": "Who was the first woman to become President of Brazil?",
+        "options": ["Dilma Rousseff", "Cristina Fernández", "Isabel Perón", "Sirimavo Bandaranaike"],
+        "answer": "Dilma Rousseff"
+    },
+    {
+        "question": "What type of government does North Korea have?",
+        "options": ["Democracy", "Monarchy", "Dictatorship", "Communist State"],
+        "answer": "Communist State"
+    }
+]

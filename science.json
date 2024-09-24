@@ -1,0 +1,472 @@
+[
+    {
+        "question": "What is the chemical symbol for water?",
+        "options": ["H2O", "CO2", "O2", "H2"],
+        "answer": "H2O"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+        "answer": "Mars"
+    },
+    {
+        "question": "What is the boiling point of water in Celsius?",
+        "options": ["0°C", "100°C", "50°C", "25°C"],
+        "answer": "100°C"
+    },
+    {
+        "question": "Who is known as the father of physics?",
+        "options": ["Isaac Newton", "Albert Einstein", "Galileo", "Nikola Tesla"],
+        "answer": "Isaac Newton"
+    },
+    {
+        "question": "Which gas do plants absorb during photosynthesis?",
+        "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Helium"],
+        "answer": "Carbon dioxide"
+    },
+    {
+        "question": "What is the main gas in the Earth's atmosphere?",
+        "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+        "answer": "Nitrogen"
+    },
+    {
+        "question": "What is the center of an atom called?",
+        "options": ["Proton", "Electron", "Nucleus", "Neutron"],
+        "answer": "Nucleus"
+    },
+    {
+        "question": "Which planet is closest to the Sun?",
+        "options": ["Earth", "Venus", "Mercury", "Mars"],
+        "answer": "Mercury"
+    },
+    {
+        "question": "What type of energy is stored in a battery?",
+        "options": ["Kinetic", "Thermal", "Chemical", "Nuclear"],
+        "answer": "Chemical"
+    },
+    {
+        "question": "What is the speed of light in vacuum?",
+        "options": ["300,000 km/s", "150,000 km/s", "400,000 km/s", "250,000 km/s"],
+        "answer": "300,000 km/s"
+    },
+    {
+        "question": "Which part of the plant conducts photosynthesis?",
+        "options": ["Roots", "Stem", "Leaves", "Flower"],
+        "answer": "Leaves"
+    },
+    {
+        "question": "What is the largest organ in the human body?",
+        "options": ["Heart", "Lungs", "Liver", "Skin"],
+        "answer": "Skin"
+    },
+    {
+        "question": "Which element is a primary component of the sun?",
+        "options": ["Oxygen", "Helium", "Hydrogen", "Carbon"],
+        "answer": "Hydrogen"
+    },
+    {
+        "question": "What is the hardest natural substance on Earth?",
+        "options": ["Gold", "Iron", "Diamond", "Silver"],
+        "answer": "Diamond"
+    },
+    {
+        "question": "Which planet is known for its rings?",
+        "options": ["Earth", "Mars", "Saturn", "Venus"],
+        "answer": "Saturn"
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "options": ["Earth", "Jupiter", "Neptune", "Saturn"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What is the process of water turning into vapor called?",
+        "options": ["Condensation", "Evaporation", "Sublimation", "Precipitation"],
+        "answer": "Evaporation"
+    },
+    {
+        "question": "Which vitamin is produced when the skin is exposed to sunlight?",
+        "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin B"],
+        "answer": "Vitamin D"
+    },
+    {
+        "question": "What is the primary gas found in the Earth's atmosphere?",
+        "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+        "answer": "Nitrogen"
+    },
+    {
+        "question": "Which organ in the human body pumps blood?",
+        "options": ["Brain", "Lungs", "Heart", "Kidneys"],
+        "answer": "Heart"
+    },
+    {
+        "question": "What is the main function of red blood cells?",
+        "options": ["Fight infections", "Transport oxygen", "Clot blood", "Produce energy"],
+        "answer": "Transport oxygen"
+    },
+    {
+        "question": "Which part of the cell contains the genetic material?",
+        "options": ["Nucleus", "Cytoplasm", "Membrane", "Ribosome"],
+        "answer": "Nucleus"
+    },
+    {
+        "question": "What force pulls objects toward the Earth?",
+        "options": ["Magnetism", "Gravity", "Friction", "Inertia"],
+        "answer": "Gravity"
+    },
+    {
+        "question": "What is the freezing point of water in Celsius?",
+        "options": ["100°C", "50°C", "0°C", "25°C"],
+        "answer": "0°C"
+    },
+    {
+        "question": "What is the smallest unit of life?",
+        "options": ["Tissue", "Atom", "Cell", "Organ"],
+        "answer": "Cell"
+    },
+    {
+        "question": "Which element is essential for breathing?",
+        "options": ["Oxygen", "Hydrogen", "Nitrogen", "Carbon"],
+        "answer": "Oxygen"
+    },
+    {
+        "question": "Which planet is known as the Earth's twin?",
+        "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+        "answer": "Venus"
+    },
+    {
+        "question": "What is the chemical formula for carbon dioxide?",
+        "options": ["CO", "CO2", "C2O", "CH4"],
+        "answer": "CO2"
+    },
+    {
+        "question": "What is the study of living organisms called?",
+        "options": ["Physics", "Chemistry", "Biology", "Astronomy"],
+        "answer": "Biology"
+    },
+    {
+        "question": "What is the main source of energy for the Earth?",
+        "options": ["Wind", "Water", "Sun", "Moon"],
+        "answer": "Sun"
+    },
+    {
+        "question": "Which human organ is responsible for filtering blood?",
+        "options": ["Heart", "Liver", "Kidneys", "Lungs"],
+        "answer": "Kidneys"
+    },
+    {
+        "question": "Which part of the eye controls the amount of light that enters?",
+        "options": ["Cornea", "Iris", "Pupil", "Retina"],
+        "answer": "Iris"
+    },
+    {
+        "question": "Which planet is the smallest in our solar system?",
+        "options": ["Mercury", "Mars", "Venus", "Neptune"],
+        "answer": "Mercury"
+    },
+    {
+        "question": "What is the most abundant element in the universe?",
+        "options": ["Hydrogen", "Oxygen", "Carbon", "Nitrogen"],
+        "answer": "Hydrogen"
+    },
+    {
+        "question": "What gas do humans exhale?",
+        "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+        "answer": "Carbon dioxide"
+    },
+    {
+        "question": "What is the primary organ of the nervous system?",
+        "options": ["Heart", "Brain", "Liver", "Lungs"],
+        "answer": "Brain"
+    },
+    {
+        "question": "What is the name of the galaxy that contains our solar system?",
+        "options": ["Andromeda", "Milky Way", "Black Eye", "Sombrero"],
+        "answer": "Milky Way"
+    },
+    {
+        "question": "What type of animal is a frog?",
+        "options": ["Mammal", "Bird", "Reptile", "Amphibian"],
+        "answer": "Amphibian"
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "options": ["Au", "Ag", "Gd", "Ga"],
+        "answer": "Au"
+    },
+    {
+        "question": "What is the powerhouse of the cell?",
+        "options": ["Nucleus", "Ribosome", "Mitochondria", "Cytoplasm"],
+        "answer": "Mitochondria"
+    },
+    {
+        "question": "What is the study of stars and planets called?",
+        "options": ["Geology", "Biology", "Astronomy", "Physics"],
+        "answer": "Astronomy"
+    },
+    {
+        "question": "What is the heaviest naturally occurring element?",
+        "options": ["Lead", "Uranium", "Gold", "Iron"],
+        "answer": "Uranium"
+    },
+    {
+        "question": "Which part of the brain controls balance and coordination?",
+        "options": ["Cerebrum", "Cerebellum", "Brainstem", "Thalamus"],
+        "answer": "Cerebellum"
+    },
+    {
+        "question": "What type of scientist studies fossils?",
+        "options": ["Biologist", "Astronomer", "Paleontologist", "Geologist"],
+        "answer": "Paleontologist"
+    },
+    {
+        "question": "Which gas is released by plants during photosynthesis?",
+        "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Helium"],
+        "answer": "Oxygen"
+    },
+    {
+        "question": "What is the most common blood type in humans?",
+        "options": ["A", "B", "O", "AB"],
+        "answer": "O"
+    },
+    {
+        "question": "Which planet is known as the Blue Planet?",
+        "options": ["Mars", "Earth", "Venus", "Neptune"],
+        "answer": "Earth"
+    },
+    {
+        "question": "What is the chemical symbol for sodium?",
+        "options": ["S", "Na", "Sn", "Si"],
+        "answer": "Na"
+    },
+    {
+        "question": "What force keeps the planets in orbit around the Sun?",
+        "options": ["Magnetism", "Gravity", "Friction", "Inertia"],
+        "answer": "Gravity"
+    },
+    {
+        "question": "Which element is necessary for the formation of rust?",
+        "options": ["Carbon", "Oxygen", "Hydrogen", "Nitrogen"],
+        "answer": "Oxygen"
+    },
+    {
+        "question": "What is the nearest star to Earth?",
+        "options": ["Sirius", "Alpha Centauri", "Sun", "Proxima Centauri"],
+        "answer": "Sun"
+    },
+    {
+        "question": "What type of animal is a butterfly?",
+        "options": ["Mammal", "Insect", "Reptile", "Bird"],
+        "answer": "Insect"
+    },
+    {
+        "question": "Which part of a plant conducts water?",
+        "options": ["Roots", "Stem", "Leaves", "Flower"],
+        "answer": "Stem"
+    },
+    {
+        "question": "What is the unit of electrical resistance?",
+        "options": ["Volt", "Ohm", "Ampere", "Watt"],
+        "answer": "Ohm"
+    },
+    {
+        "question": "What is the main component of the Sun?",
+        "options": ["Oxygen", "Hydrogen", "Helium", "Carbon"],
+        "answer": "Hydrogen"
+    },
+    {
+        "question": "What is the smallest particle of a chemical element?",
+        "options": ["Atom", "Molecule", "Proton", "Neutron"],
+        "answer": "Atom"
+    },
+    {
+        "question": "What is the process of turning liquid into gas?",
+        "options": ["Freezing", "Condensation", "Evaporation", "Sublimation"],
+        "answer": "Evaporation"
+    },
+    {
+        "question": "Which organ helps humans to breathe?",
+        "options": ["Liver", "Lungs", "Heart", "Kidney"],
+        "answer": "Lungs"
+    },
+    {
+        "question": "What is the primary source of energy on Earth?",
+        "options": ["Wind", "Water", "Sun", "Geothermal"],
+        "answer": "Sun"
+    },
+    {
+        "question": "What is the most abundant gas in Earth's atmosphere?",
+        "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Helium"],
+        "answer": "Nitrogen"
+    },
+    {
+        "question": "What is the chemical formula for methane?",
+        "options": ["CH3", "CO2", "CH4", "C2H6"],
+        "answer": "CH4"
+    },
+    {
+        "question": "What is the process of plants making food called?",
+        "options": ["Respiration", "Photosynthesis", "Transpiration", "Osmosis"],
+        "answer": "Photosynthesis"
+    },
+    {
+        "question": "Which organ pumps blood throughout the body?",
+        "options": ["Liver", "Lungs", "Heart", "Kidney"],
+        "answer": "Heart"
+    },
+    {
+        "question": "What part of the plant anchors it to the ground?",
+        "options": ["Leaves", "Stem", "Roots", "Flower"],
+        "answer": "Roots"
+    },
+    {
+        "question": "What type of energy does the Sun provide?",
+        "options": ["Chemical", "Nuclear", "Thermal", "Solar"],
+        "answer": "Solar"
+    },
+    {
+        "question": "What is the chemical symbol for iron?",
+        "options": ["Ir", "I", "Fe", "In"],
+        "answer": "Fe"
+    },
+    {
+        "question": "What planet is known for its Great Red Spot?",
+        "options": ["Mars", "Saturn", "Jupiter", "Venus"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What is the powerhouse of a cell?",
+        "options": ["Nucleus", "Mitochondria", "Ribosome", "Cytoplasm"],
+        "answer": "Mitochondria"
+    },
+    {
+        "question": "What is the freezing point of water in Fahrenheit?",
+        "options": ["0°F", "32°F", "50°F", "100°F"],
+        "answer": "32°F"
+    },
+    {
+        "question": "What part of the body controls all functions?",
+        "options": ["Heart", "Brain", "Liver", "Kidneys"],
+        "answer": "Brain"
+    },
+    {
+        "question": "Which planet has the most moons?",
+        "options": ["Earth", "Saturn", "Jupiter", "Neptune"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What do bees collect from flowers?",
+        "options": ["Honey", "Pollen", "Nectar", "Wax"],
+        "answer": "Nectar"
+    },
+    {
+        "question": "What is the lightest element in the periodic table?",
+        "options": ["Hydrogen", "Helium", "Lithium", "Oxygen"],
+        "answer": "Hydrogen"
+    },
+    {
+        "question": "What planet is closest to Earth?",
+        "options": ["Mars", "Venus", "Mercury", "Jupiter"],
+        "answer": "Venus"
+    },
+    {
+        "question": "What do we call animals that eat only plants?",
+        "options": ["Carnivores", "Herbivores", "Omnivores", "Insectivores"],
+        "answer": "Herbivores"
+    },
+    {
+        "question": "Which part of the cell contains the genetic material?",
+        "options": ["Cytoplasm", "Membrane", "Nucleus", "Ribosome"],
+        "answer": "Nucleus"
+    },
+    {
+        "question": "What is the chemical symbol for potassium?",
+        "options": ["P", "K", "Pt", "Po"],
+        "answer": "K"
+    },
+    {
+        "question": "Which planet is known for its bright rings?",
+        "options": ["Earth", "Mars", "Saturn", "Venus"],
+        "answer": "Saturn"
+    },
+    {
+        "question": "Which organ in the human body filters blood?",
+        "options": ["Lungs", "Heart", "Kidneys", "Liver"],
+        "answer": "Kidneys"
+    },
+    {
+        "question": "What is the chemical formula for common salt?",
+        "options": ["H2O", "NaCl", "CO2", "C6H12O6"],
+        "answer": "NaCl"
+    },
+    {
+        "question": "Which planet is known as the Morning Star?",
+        "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+        "answer": "Venus"
+    },
+    {
+        "question": "What is the process of turning solid into liquid?",
+        "options": ["Melting", "Freezing", "Evaporation", "Sublimation"],
+        "answer": "Melting"
+    },
+    {
+        "question": "What type of animal is a kangaroo?",
+        "options": ["Mammal", "Bird", "Reptile", "Amphibian"],
+        "answer": "Mammal"
+    },
+    {
+        "question": "What gas do humans need to breathe in?",
+        "options": ["Nitrogen", "Oxygen", "Carbon dioxide", "Helium"],
+        "answer": "Oxygen"
+    },
+    {
+        "question": "What is the main ingredient in steel?",
+        "options": ["Carbon", "Iron", "Copper", "Nickel"],
+        "answer": "Iron"
+    },
+    {
+        "question": "What is the center of our solar system?",
+        "options": ["Earth", "Sun", "Moon", "Jupiter"],
+        "answer": "Sun"
+    },
+    {
+        "question": "What is the process of turning gas into liquid?",
+        "options": ["Condensation", "Evaporation", "Sublimation", "Melting"],
+        "answer": "Condensation"
+    },
+    {
+        "question": "What kind of energy is produced by a moving object?",
+        "options": ["Potential", "Thermal", "Kinetic", "Chemical"],
+        "answer": "Kinetic"
+    },
+    {
+        "question": "What is the chemical formula for oxygen gas?",
+        "options": ["O2", "O", "O3", "H2O"],
+        "answer": "O2"
+    },
+    {
+        "question": "Which planet is called the Gas Giant?",
+        "options": ["Mars", "Saturn", "Jupiter", "Venus"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "Which part of the human body is responsible for vision?",
+        "options": ["Ear", "Heart", "Eyes", "Liver"],
+        "answer": "Eyes"
+    },
+    {
+        "question": "What is the study of weather called?",
+        "options": ["Geology", "Astronomy", "Meteorology", "Biology"],
+        "answer": "Meteorology"
+    },
+    {
+        "question": "What is the main gas in Earth's atmosphere?",
+        "options": ["Nitrogen", "Oxygen", "Carbon dioxide", "Hydrogen"],
+        "answer": "Nitrogen"
+    },
+    {
+        "question": "What part of the cell produces proteins?",
+        "options": ["Mitochondria", "Nucleus", "Ribosome", "Cytoplasm"],
+        "answer": "Ribosome"
+    }
+]
