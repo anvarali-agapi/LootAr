@@ -65,11 +65,6 @@
         "answer": "MS Dhoni"
     },
     {
-        "question": "Which Malayalam movie starred Mohanlal as a wrestler?",
-        "options": ["Pulimurugan", "Marakkar", "Lucifer", "Kanal"],
-        "answer": "Pulimurugan"
-    },
-    {
         "question": "Who directed the English movie 'Titanic'?",
         "options": ["James Cameron", "Steven Spielberg", "Christopher Nolan", "Ridley Scott"],
         "answer": "James Cameron"
