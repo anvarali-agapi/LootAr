@@ -1,472 +1,472 @@
 [
     {
-        "question": "What is the chemical symbol for water?",
+        "question": "വെള്ളത്തിന്റേതായ രാസചിഹ്നം ഏതാണ്?",
         "options": ["H2O", "CO2", "O2", "H2"],
         "answer": "H2O"
     },
     {
-        "question": "Which planet is known as the Red Planet?",
-        "options": ["Mars", "Venus", "Jupiter", "Saturn"],
-        "answer": "Mars"
+        "question": "ചുവന്ന ഗ്രഹം എന്ന പേരിൽ അറിയപ്പെടുന്നത് ഏതാണ്?",
+        "options": ["മാഴ്സ്", "ശുക്രൻ", "ഗുരു", "ശനി"],
+        "answer": "മാഴ്സ്"
     },
     {
-        "question": "What is the boiling point of water in Celsius?",
+        "question": "സെൽഷ്യസിൽ വെള്ളത്തിന്റെ തിളനില ഏത്?",
         "options": ["0°C", "100°C", "50°C", "25°C"],
         "answer": "100°C"
     },
     {
-        "question": "Who is known as the father of physics?",
-        "options": ["Isaac Newton", "Albert Einstein", "Galileo", "Nikola Tesla"],
-        "answer": "Isaac Newton"
+        "question": "ഫിസിക്‌സിന്റെ പിതാവായി അറിയപ്പെടുന്നത് ആര്?",
+        "options": ["ഐസക് ന്യൂട്ടൺ", "ആൽബർട്ട് ഐൻസ്റ്റൈൻ", "ഗാലിലിയോ", "നിക്കോള ടെസ്ല"],
+        "answer": "ഐസക് ന്യൂട്ടൺ"
     },
     {
-        "question": "Which gas do plants absorb during photosynthesis?",
-        "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Helium"],
-        "answer": "Carbon dioxide"
+        "question": "ചെടികൾ ഫോട്ടോസിന്തസിസ് സമയത്ത് ഏത് വാതകം ശ്വസിക്കുന്നു?",
+        "options": ["ഓക്സിജൻ", "കാർബൺ ഡൈഓക്സൈഡ്", "നൈട്രജൻ", "ഹീലിയം"],
+        "answer": "കാർബൺ ഡൈഓക്സൈഡ്"
     },
     {
-        "question": "What is the main gas in the Earth's atmosphere?",
-        "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
-        "answer": "Nitrogen"
+        "question": "ഭൂമിയിലെ പ്രധാന വാതകം ഏതാണ്?",
+        "options": ["ഓക്സിജൻ", "നൈട്രജൻ", "കാർബൺ ഡൈഓക്സൈഡ്", "ഹൈഡ്രജൻ"],
+        "answer": "നൈട്രജൻ"
     },
     {
-        "question": "What is the center of an atom called?",
-        "options": ["Proton", "Electron", "Nucleus", "Neutron"],
-        "answer": "Nucleus"
+        "question": "ആറ്റത്തിന്റെ കേന്ദ്രഭാഗം എന്താണ്?",
+        "options": ["പ്രോട്ടോൺ", "ഇലക്ട്രോൺ", "ന്യൂക്ലിയസ്", "ന്യൂട്രോൺ"],
+        "answer": "ന്യൂക്ലിയസ്"
     },
     {
-        "question": "Which planet is closest to the Sun?",
-        "options": ["Earth", "Venus", "Mercury", "Mars"],
-        "answer": "Mercury"
+        "question": "സൂര്യനോട് ഏറ്റവും അടുത്ത ഗ്രഹം ഏതാണ്?",
+        "options": ["ഭൂമി", "ശുക്രൻ", "ബുധൻ", "മാഴ്സ്"],
+        "answer": "ബുധൻ"
     },
     {
-        "question": "What type of energy is stored in a battery?",
-        "options": ["Kinetic", "Thermal", "Chemical", "Nuclear"],
-        "answer": "Chemical"
+        "question": "ബാറ്ററിയിൽ സൂക്ഷിക്കുന്ന ഊർജ്ജം എന്താണെന്ന് അറിയപ്പെടുന്നു?",
+        "options": ["കൈനറ്റിക്", "താപ", "രാസ", "അണുബലം"],
+        "answer": "രാസ"
     },
     {
-        "question": "What is the speed of light in vacuum?",
+        "question": "ശൂന്യാകാശത്തിൽ വെളിച്ചത്തിന്റെ വേഗത എത്രയാണ്?",
         "options": ["300,000 km/s", "150,000 km/s", "400,000 km/s", "250,000 km/s"],
         "answer": "300,000 km/s"
     },
     {
-        "question": "Which part of the plant conducts photosynthesis?",
-        "options": ["Roots", "Stem", "Leaves", "Flower"],
-        "answer": "Leaves"
+        "question": "ചെടികളുടെ ഏത് ഭാഗം ഫോട്ടോസിന്തസിസ് നടത്തുന്നു?",
+        "options": ["വേര്", "തണ്ട്", "ഇലകൾ", "പൂവ്"],
+        "answer": "ഇലകൾ"
     },
     {
-        "question": "What is the largest organ in the human body?",
-        "options": ["Heart", "Lungs", "Liver", "Skin"],
-        "answer": "Skin"
+        "question": "മനുഷ്യശരീരത്തിലെ ഏറ്റവും വലിയ അവയവം ഏതാണ്?",
+        "options": ["ഹൃദയം", "ശ്വാസകോശം", "കല്ല്", "ചർമ്മം"],
+        "answer": "ചർമ്മം"
     },
     {
-        "question": "Which element is a primary component of the sun?",
-        "options": ["Oxygen", "Helium", "Hydrogen", "Carbon"],
-        "answer": "Hydrogen"
+        "question": "സൂര്യന്റെ പ്രധാന ഘടക വാതകം ഏതാണ്?",
+        "options": ["ഓക്സിജൻ", "ഹീലിയം", "ഹൈഡ്രജൻ", "കാർബൺ"],
+        "answer": "ഹൈഡ്രജൻ"
     },
     {
-        "question": "What is the hardest natural substance on Earth?",
-        "options": ["Gold", "Iron", "Diamond", "Silver"],
-        "answer": "Diamond"
+        "question": "പൊരുള്ള ഭൂമിയിലെ ഏറ്റവും കരുത്തുറ്റ പദാർത്ഥം ഏതാണ്?",
+        "options": ["തങ്കം", "ഇരുമ്പ്", "വജ്രം", "വെള്ളി"],
+        "answer": "വജ്രം"
     },
     {
-        "question": "Which planet is known for its rings?",
-        "options": ["Earth", "Mars", "Saturn", "Venus"],
-        "answer": "Saturn"
+        "question": "ഭൂരിഭാഗം വലയം ഉള്ള ഗ്രഹം ഏതാണ്?",
+        "options": ["ഭൂമി", "മാഴ്സ്", "ശനി", "ശുക്രൻ"],
+        "answer": "ശനി"
     },
     {
-        "question": "What is the largest planet in our solar system?",
-        "options": ["Earth", "Jupiter", "Neptune", "Saturn"],
-        "answer": "Jupiter"
+        "question": "ഞങ്ങളുടെ സോളാർ സിസ്റ്റത്തിലേത് ഏറ്റവും വലിയ ഗ്രഹം?",
+        "options": ["ഭൂമി", "ഗുരു", "നിപ്റ്റ്യൂൺ", "ശനി"],
+        "answer": "ഗുരു"
     },
     {
-        "question": "What is the process of water turning into vapor called?",
-        "options": ["Condensation", "Evaporation", "Sublimation", "Precipitation"],
-        "answer": "Evaporation"
+        "question": "വെള്ളം ആവിയായി മാറുന്ന പ്രക്രിയ എന്താണ്?",
+        "options": ["ഘനീഭവനം", "വാഷ്പീകരണം", "ഉപതലവാതനം", "വർഷം"],
+        "answer": "വാഷ്പീകരണം"
     },
     {
-        "question": "Which vitamin is produced when the skin is exposed to sunlight?",
-        "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin B"],
-        "answer": "Vitamin D"
+        "question": "ചർമ്മം സൂര്യപ്രകാശത്തോടൊപ്പം എത്ര വാമിന് ഉൽപാദിപ്പിക്കുന്നു?",
+        "options": ["വാമിൻ എ", "വാമിൻ സി", "വാമിൻ ഡി", "വാമിൻ ബി"],
+        "answer": "വാമിൻ ഡി"
     },
     {
-        "question": "What is the primary gas found in the Earth's atmosphere?",
-        "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
-        "answer": "Nitrogen"
+        "question": "ഭൂമിയുടെ അന്തരീക്ഷത്തിലെ പ്രധാന വാതകം ഏതാണ്?",
+        "options": ["ഓക്സിജൻ", "നൈട്രജൻ", "കാർബൺ ഡൈഓക്സൈഡ്", "ഹൈഡ്രജൻ"],
+        "answer": "നൈട്രജൻ"
     },
     {
-        "question": "Which organ in the human body pumps blood?",
-        "options": ["Brain", "Lungs", "Heart", "Kidneys"],
-        "answer": "Heart"
+        "question": "മനുഷ്യ ശരീരത്തിലെ രക്തം പമ്പ് ചെയ്യുന്ന അവയവം ഏതാണ്?",
+        "options": ["മസ്തിഷ്കം", "ശ്വാസകോശം", "ഹൃദയം", "വൃക്കകൾ"],
+        "answer": "ഹൃദയം"
     },
     {
-        "question": "What is the main function of red blood cells?",
-        "options": ["Fight infections", "Transport oxygen", "Clot blood", "Produce energy"],
-        "answer": "Transport oxygen"
+        "question": "ചുവന്ന രക്തകോശങ്ങളുടെ പ്രധാന പ്രവൃത്തി എന്താണ്?",
+        "options": ["ബാധയോടുള്ള പോരാട്ടം", "ഓക്സിജൻ തള്ളുക", "രക്തം കട്ടിയാക്കുക", "എനർജി ഉത്പാദനം"],
+        "answer": "ഓക്സിജൻ തള്ളുക"
     },
     {
-        "question": "Which part of the cell contains the genetic material?",
-        "options": ["Nucleus", "Cytoplasm", "Membrane", "Ribosome"],
-        "answer": "Nucleus"
+        "question": "സെല്ലിലെ ജനന പദാർത്ഥം ഉള്ള ഭാഗം ഏതാണ്?",
+        "options": ["ന്യൂക്ലിയസ്", "സൈറ്റോപ്ലാസം", "മെംബ്രേൻ", "റിബോസോം"],
+        "answer": "ന്യൂക്ലിയസ്"
     },
     {
-        "question": "What force pulls objects toward the Earth?",
-        "options": ["Magnetism", "Gravity", "Friction", "Inertia"],
-        "answer": "Gravity"
+        "question": "ഭൂമിയിലേക്ക് വസ്തുക്കളെ ആകർഷിക്കുന്ന ശക്തി എന്താണ്?",
+        "options": ["കാന്തികം", "ഗുരുത്വാകർഷണം", "ഇഴം", "ആവേശം"],
+        "answer": "ഗുരുത്വാകർഷണം"
     },
     {
-        "question": "What is the freezing point of water in Celsius?",
+        "question": "സെൽഷ്യസിൽ വെള്ളത്തിന്റെ ദ്രവീകരണ സ്ഥാനം എന്താണ്?",
         "options": ["100°C", "50°C", "0°C", "25°C"],
         "answer": "0°C"
     },
     {
-        "question": "What is the smallest unit of life?",
-        "options": ["Tissue", "Atom", "Cell", "Organ"],
-        "answer": "Cell"
+        "question": "ജീവന്റെ ഏറ്റവും ചെറിയ ഘടകം ഏതാണ്?",
+        "options": ["പേശി", "ആറ്റം", "സെൽ", "അവയവം"],
+        "answer": "സെൽ"
     },
     {
-        "question": "Which element is essential for breathing?",
-        "options": ["Oxygen", "Hydrogen", "Nitrogen", "Carbon"],
-        "answer": "Oxygen"
+        "question": "ശ്വസനത്തിനായി അനിവാര്യമായ ഘടകം ഏതാണ്?",
+        "options": ["ഓക്സിജൻ", "ഹൈഡ്രജൻ", "നൈട്രജൻ", "കാർബൺ"],
+        "answer": "ഓക്സിജൻ"
     },
     {
-        "question": "Which planet is known as the Earth's twin?",
-        "options": ["Mars", "Venus", "Jupiter", "Saturn"],
-        "answer": "Venus"
+        "question": "ഭൂമിയുടെ ഇരട്ടസഹോദരി എന്നറിയപ്പെടുന്ന ഗ്രഹം ഏതാണ്?",
+        "options": ["മാഴ്സ്", "ശുക്രൻ", "ഗുരു", "ശനി"],
+        "answer": "ശുക്രൻ"
     },
     {
-        "question": "What is the chemical formula for carbon dioxide?",
+        "question": "കാർബൺ ഡൈഓക്സൈഡിന്റെ രാസ സൂത്രവാക്യം എന്താണ്?",
         "options": ["CO", "CO2", "C2O", "CH4"],
         "answer": "CO2"
     },
     {
-        "question": "What is the study of living organisms called?",
-        "options": ["Physics", "Chemistry", "Biology", "Astronomy"],
-        "answer": "Biology"
+        "question": "ജീവജാലങ്ങളുടെ പഠനം എന്താണ്?",
+        "options": ["ഫിസിക്സ്", "രസതന്ത്രം", "ജീവശാസ്ത്രം", "നക്ഷത്രശാസ്ത്രം"],
+        "answer": "ജീവശാസ്ത്രം"
     },
     {
-        "question": "What is the main source of energy for the Earth?",
-        "options": ["Wind", "Water", "Sun", "Moon"],
-        "answer": "Sun"
+        "question": "ഭൂമിയ്ക്ക് ഊർജ്ജം നൽകുന്ന പ്രധാന സ്രോതസ്സ് ഏതാണ്?",
+        "options": ["കാറ്റ്", "വെള്ളം", "സൂര്യൻ", "ചന്ദ്രൻ"],
+        "answer": "സൂര്യൻ"
     },
     {
-        "question": "Which human organ is responsible for filtering blood?",
-        "options": ["Heart", "Liver", "Kidneys", "Lungs"],
-        "answer": "Kidneys"
+        "question": "മനുഷ്യ ശരീരത്തിലെ രക്തം പിഴുതുകൊണ്ട് പ്രവർത്തിക്കുന്ന അവയവം ഏതാണ്?",
+        "options": ["ഹൃദയം", "കല്ല്", "വൃക്കകൾ", "ശ്വാസകോശം"],
+        "answer": "വൃക്കകൾ"
     },
     {
-        "question": "Which part of the eye controls the amount of light that enters?",
-        "options": ["Cornea", "Iris", "Pupil", "Retina"],
-        "answer": "Iris"
+        "question": "ശ്രുതിയിലെ പുറത്തുള്ള വെളിച്ചത്തിന്റെ അളവ് നിയന്ത്രിക്കുന്നതാണ്?",
+        "options": ["കോർണിയ", "ഐറിസ്", "പ്യുപിൽ", "റെറ്റിന"],
+        "answer": "ഐറിസ്"
     },
     {
-        "question": "Which planet is the smallest in our solar system?",
-        "options": ["Mercury", "Mars", "Venus", "Neptune"],
-        "answer": "Mercury"
+        "question": "ഞങ്ങളുടെ സോളാർ സിസ്റ്റത്തിലേത് ഏറ്റവും ചെറുതായ ഗ്രഹം?",
+        "options": ["ബുധൻ", "മാഴ്സ്", "ശുക്രൻ", "നിപ്റ്റ്യൂൺ"],
+        "answer": "ബുധൻ"
     },
     {
-        "question": "What is the most abundant element in the universe?",
-        "options": ["Hydrogen", "Oxygen", "Carbon", "Nitrogen"],
-        "answer": "Hydrogen"
+        "question": "വിസ്വത്തിലെ ഏറ്റവും ധാരാളം മൂലകം ഏതാണ്?",
+        "options": ["ഹൈഡ്രജൻ", "ഓക്സിജൻ", "കാർബൺ", "നൈട്രജൻ"],
+        "answer": "ഹൈഡ്രജൻ"
     },
     {
-        "question": "What gas do humans exhale?",
-        "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
-        "answer": "Carbon dioxide"
+        "question": "മനുഷ്യർ പുറന്തള്ളുന്ന വാതകം ഏതാണ്?",
+        "options": ["ഓക്സിജൻ", "നൈട്രജൻ", "കാർബൺ ഡൈഓക്സൈഡ്", "ഹൈഡ്രജൻ"],
+        "answer": "കാർബൺ ഡൈഓക്സൈഡ്"
     },
     {
-        "question": "What is the primary organ of the nervous system?",
-        "options": ["Heart", "Brain", "Liver", "Lungs"],
-        "answer": "Brain"
+        "question": "മനുഷ്യശരീരത്തിലെ പ്രധാന അംശം എന്താണ്?",
+        "options": ["ഹൃദയം", "മസ്തിഷ്കം", "വൃക്ക", "ശ്വാസകോശം"],
+        "answer": "മസ്തിഷ്കം"
     },
     {
-        "question": "What is the name of the galaxy that contains our solar system?",
-        "options": ["Andromeda", "Milky Way", "Black Eye", "Sombrero"],
-        "answer": "Milky Way"
+        "question": "ഞങ്ങളുടെ സൗരയൂഥം ഉൾക്കൊള്ളുന്ന നക്ഷത്രഗണം ഏതാണ്?",
+        "options": ["ആൻഡ്രോമിഡ", "മിൽക്കി വേ", "ബ്ലാക്ക് ഐ", "സോംബ്രെറോ"],
+        "answer": "മിൽക്കി വേ"
     },
     {
-        "question": "What type of animal is a frog?",
-        "options": ["Mammal", "Bird", "Reptile", "Amphibian"],
-        "answer": "Amphibian"
+        "question": "തവള ഏത് മൃഗവർഗത്തിൽപ്പെടുന്നു?",
+        "options": ["സസ്തനി", "പക്ഷി", "സർപ്പം", "ഉഭയജീവി"],
+        "answer": "ഉഭയജീവി"
     },
     {
-        "question": "What is the chemical symbol for gold?",
+        "question": "സുവർണ്ണത്തിന്റെ രാസചിഹ്നം ഏതാണ്?",
         "options": ["Au", "Ag", "Gd", "Ga"],
         "answer": "Au"
     },
     {
-        "question": "What is the powerhouse of the cell?",
-        "options": ["Nucleus", "Ribosome", "Mitochondria", "Cytoplasm"],
-        "answer": "Mitochondria"
+        "question": "സെല്ലിന്റെ പവർഹൗസ് ഏത്?",
+        "options": ["ന്യൂക്ലിയസ്", "റിബോസോം", "മൈറ്റോകോണ്ട്രിയ", "സൈറ്റോപ്ലാസം"],
+        "answer": "മൈറ്റോകോണ്ട്രിയ"
     },
     {
-        "question": "What is the study of stars and planets called?",
-        "options": ["Geology", "Biology", "Astronomy", "Physics"],
-        "answer": "Astronomy"
+        "question": "നക്ഷത്രങ്ങൾക്കും ഗ്രഹങ്ങൾക്കും പഠനം എന്താണ്?",
+        "options": ["ഭൂവിജ്ഞാനം", "ജീവശാസ്ത്രം", "നക്ഷത്രശാസ്ത്രം", "ഭൗതികശാസ്ത്രം"],
+        "answer": "നക്ഷത്രശാസ്ത്രം"
     },
     {
-        "question": "What is the heaviest naturally occurring element?",
-        "options": ["Lead", "Uranium", "Gold", "Iron"],
-        "answer": "Uranium"
+        "question": "സാധാരണയായി ലഭ്യമായ ഏറ്റവും ഭാരമുള്ള മൂലകം ഏത്?",
+        "options": ["ലെഡ്", "യുറേനിയം", "സുവർണ്ണം", "ഇരുമ്പ്"],
+        "answer": "യുറേനിയം"
     },
     {
-        "question": "Which part of the brain controls balance and coordination?",
-        "options": ["Cerebrum", "Cerebellum", "Brainstem", "Thalamus"],
-        "answer": "Cerebellum"
+        "question": "സംതുലനം, സഹകരണത്തിന് ചുമതലപ്പെട്ട മസ്തിഷ്കഭാഗം ഏത്?",
+        "options": ["സെറിബ്രം", "സെറിബെല്ലം", "ബ്രെയിൻസ്റ്റെം", "തലാമസ്"],
+        "answer": "സെറിബെല്ലം"
     },
     {
-        "question": "What type of scientist studies fossils?",
-        "options": ["Biologist", "Astronomer", "Paleontologist", "Geologist"],
-        "answer": "Paleontologist"
+        "question": "ഫോസിലുകൾ പഠിക്കുന്ന ശാസ്ത്രജ്ഞന് ഏത് പേരാണ്?",
+        "options": ["ജീവശാസ്ത്രജ്ഞൻ", "നക്ഷത്രശാസ്ത്രജ്ഞൻ", "പലെയോണ്ടോളജിസ്റ്റ്", "ഭൂവിജ്ഞാനജ്ഞൻ"],
+        "answer": "പലെയോണ്ടോളജിസ്റ്റ്"
     },
     {
-        "question": "Which gas is released by plants during photosynthesis?",
-        "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Helium"],
-        "answer": "Oxygen"
+        "question": "ചെടികൾ ഫോട്ടോസിന്തസിസ് പ്രക്രിയയിൽ പുറത്തെടുക്കുന്ന വാതകം ഏതാണ്?",
+        "options": ["ഓക്സിജൻ", "കാർബൺ ഡൈഓക്സൈഡ്", "നൈട്രജൻ", "ഹീലിയം"],
+        "answer": "ഓക്സിജൻ"
     },
     {
-        "question": "What is the most common blood type in humans?",
+        "question": "മനുഷ്യരിൽ പൊതുവായി കാണുന്ന രക്ത ഗ്രൂപ്പ് ഏതാണ്?",
         "options": ["A", "B", "O", "AB"],
         "answer": "O"
     },
     {
-        "question": "Which planet is known as the Blue Planet?",
-        "options": ["Mars", "Earth", "Venus", "Neptune"],
-        "answer": "Earth"
+        "question": "നീല ഗ്രഹം എന്നറിയപ്പെടുന്ന ഗ്രഹം ഏതാണ്?",
+        "options": ["മാഴ്സ്", "ഭൂമി", "ശുക്രൻ", "നിപ്റ്റ്യൂൺ"],
+        "answer": "ഭൂമി"
     },
     {
-        "question": "What is the chemical symbol for sodium?",
+        "question": "സോഡിയത്തിന്റെ രാസചിഹ്നം ഏതാണ്?",
         "options": ["S", "Na", "Sn", "Si"],
         "answer": "Na"
     },
     {
-        "question": "What force keeps the planets in orbit around the Sun?",
-        "options": ["Magnetism", "Gravity", "Friction", "Inertia"],
-        "answer": "Gravity"
+        "question": "ഗ്രഹങ്ങളെ സൂര്യനിൽ സദാ വലം വയ്ക്കാൻ സഹായിക്കുന്ന ശക്തി എന്താണ്?",
+        "options": ["കാന്തികം", "ഗുരുത്വാകർഷണം", "ഇഴം", "ആവേശം"],
+        "answer": "ഗുരുത്വാകർഷണം"
     },
     {
-        "question": "Which element is necessary for the formation of rust?",
-        "options": ["Carbon", "Oxygen", "Hydrogen", "Nitrogen"],
-        "answer": "Oxygen"
+        "question": "വലിയ ഇരുമ്പിന്റെ രൂപീകരണത്തിന് ആവശ്യമായ ഘടകം ഏതാണ്?",
+        "options": ["കാർബൺ", "ഓക്സിജൻ", "ഹൈഡ്രജൻ", "നൈട്രജൻ"],
+        "answer": "ഓക്സിജൻ"
     },
     {
-        "question": "What is the nearest star to Earth?",
-        "options": ["Sirius", "Alpha Centauri", "Sun", "Proxima Centauri"],
-        "answer": "Sun"
+        "question": "ഭൂമിയോട് ഏറ്റവും അടുത്ത നക്ഷത്രം ഏതാണ്?",
+        "options": ["സിരിയസ്", "ആൽഫ സെന്റോരി", "സൂര്യൻ", "പ്രോക്സിമ സെന്റോരി"],
+        "answer": "സൂര്യൻ"
     },
     {
-        "question": "What type of animal is a butterfly?",
-        "options": ["Mammal", "Insect", "Reptile", "Bird"],
-        "answer": "Insect"
+        "question": "തീറ്റകൾ പറക്കുന്ന മൃഗം ഏതാണ്?",
+        "options": ["സസ്തനി", "കീടം", "സർപ്പം", "പക്ഷി"],
+        "answer": "കീടം"
     },
     {
-        "question": "Which part of a plant conducts water?",
-        "options": ["Roots", "Stem", "Leaves", "Flower"],
-        "answer": "Stem"
+        "question": "ചെടികൾക്ക് വെള്ളം എത്തിക്കുന്ന ഭാഗം ഏത്?",
+        "options": ["വേര്", "തണ്ട്", "ഇലകൾ", "പൂവ്"],
+        "answer": "തണ്ട്"
     },
     {
-        "question": "What is the unit of electrical resistance?",
-        "options": ["Volt", "Ohm", "Ampere", "Watt"],
-        "answer": "Ohm"
+        "question": "വൈദ്യുത പ്രതിരോധത്തിന്റെ അളവു യൂണിറ്റ് ഏതാണ്?",
+        "options": ["വോൾട്ട്", "ഓം", "ആമ്പിയർ", "വാട്ട്"],
+        "answer": "ഓം"
     },
     {
-        "question": "What is the main component of the Sun?",
-        "options": ["Oxygen", "Hydrogen", "Helium", "Carbon"],
-        "answer": "Hydrogen"
+        "question": "സൂര്യന്റെ പ്രധാന ഘടകം എന്താണ്?",
+        "options": ["ഓക്സിജൻ", "ഹൈഡ്രജൻ", "ഹീലിയം", "കാർബൺ"],
+        "answer": "ഹൈഡ്രജൻ"
     },
     {
-        "question": "What is the smallest particle of a chemical element?",
-        "options": ["Atom", "Molecule", "Proton", "Neutron"],
-        "answer": "Atom"
+        "question": "ഒരു രാസ ഘടകത്തിന്റെ ഏറ്റവും ചെറിയ കണിക ഏതാണ്?",
+        "options": ["ആറ്റം", "അണു", "പ്രോട്ടോൺ", "ന്യൂട്രോൺ"],
+        "answer": "ആറ്റം"
     },
     {
-        "question": "What is the process of turning liquid into gas?",
-        "options": ["Freezing", "Condensation", "Evaporation", "Sublimation"],
-        "answer": "Evaporation"
+        "question": "ദ്രാവകം വാഷ്പമായി മാറുന്ന പ്രക്രിയ എന്താണ്?",
+        "options": ["ഉഷ്ണീകരണം", "വാഷ്പീകരണം", "ഉപതലവാതനം", "തണുത്ത"],
+        "answer": "വാഷ്പീകരണം"
     },
     {
-        "question": "Which organ helps humans to breathe?",
-        "options": ["Liver", "Lungs", "Heart", "Kidney"],
-        "answer": "Lungs"
+        "question": "മനുഷ്യശരീരത്തിന് ശ്വസിക്കാൻ സഹായിക്കുന്ന അവയവം ഏതാണ്?",
+        "options": ["വൃക്ക", "ശ്വാസകോശം", "ഹൃദയം", "മസ്തിഷ്കം"],
+        "answer": "ശ്വാസകോശം"
     },
     {
-        "question": "What is the primary source of energy on Earth?",
-        "options": ["Wind", "Water", "Sun", "Geothermal"],
-        "answer": "Sun"
+        "question": "ഭൂമിയിലെ ഊർജ്ജത്തിന്റെ പ്രധാന സ്രോതസ്സ് എന്താണ്?",
+        "options": ["കാറ്റ്", "വെള്ളം", "സൂര്യൻ", "ഭൂമിയുടർവശം"],
+        "answer": "സൂര്യൻ"
     },
     {
-        "question": "What is the most abundant gas in Earth's atmosphere?",
-        "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Helium"],
-        "answer": "Nitrogen"
+        "question": "ഭൂമിയുടെ അന്തരീക്ഷത്തിൽ ധാരാളം ഉള്ള വാതകം ഏതാണ്?",
+        "options": ["ഓക്സിജൻ", "നൈട്രജൻ", "കാർബൺ ഡൈഓക്സൈഡ്", "ഹീലിയം"],
+        "answer": "നൈട്രജൻ"
     },
     {
-        "question": "What is the chemical formula for methane?",
+        "question": "മീഥെയ്ൻ എന്ന രാസ മൂലകത്തിന്റെ സൂത്രവാക്യം ഏത്?",
         "options": ["CH3", "CO2", "CH4", "C2H6"],
         "answer": "CH4"
     },
     {
-        "question": "What is the process of plants making food called?",
-        "options": ["Respiration", "Photosynthesis", "Transpiration", "Osmosis"],
-        "answer": "Photosynthesis"
+        "question": "ചെടികൾ ആഹാരം ഉണ്ടാക്കുന്ന പ്രക്രിയ എന്താണ്?",
+        "options": ["ശ്വാസം", "ഫോട്ടോസിന്തസിസ്", "വാഷ്പീകരണം", "ഓസ്മോസിസ്"],
+        "answer": "ഫോട്ടോസിന്തസിസ്"
     },
     {
-        "question": "Which organ pumps blood throughout the body?",
-        "options": ["Liver", "Lungs", "Heart", "Kidney"],
-        "answer": "Heart"
+        "question": "മനുഷ്യ ശരീരത്തിൽ രക്തം പമ്പ് ചെയ്യുന്ന അവയവം ഏതാണ്?",
+        "options": ["വൃക്ക", "ശ്വാസകോശം", "ഹൃദയം", "കല്ല്"],
+        "answer": "ഹൃദയം"
     },
     {
-        "question": "What part of the plant anchors it to the ground?",
-        "options": ["Leaves", "Stem", "Roots", "Flower"],
-        "answer": "Roots"
+        "question": "ചെടിയുടെ ഭൂമിയോട് ബന്ധിപ്പിക്കുന്ന ഭാഗം ഏത്?",
+        "options": ["ഇല", "തണ്ട്", "വേര്", "പൂവ്"],
+        "answer": "വേര്"
     },
     {
-        "question": "What type of energy does the Sun provide?",
-        "options": ["Chemical", "Nuclear", "Thermal", "Solar"],
-        "answer": "Solar"
+        "question": "സൂര്യൻ നൽകുന്ന ഊർജ്ജം ഏത്?",
+        "options": ["രാസ", "അണുബലം", "താപ", "സോളാർ"],
+        "answer": "സോളാർ"
     },
     {
-        "question": "What is the chemical symbol for iron?",
+        "question": "ഇരുമ്പിന്റെ രാസചിഹ്നം ഏതാണ്?",
         "options": ["Ir", "I", "Fe", "In"],
         "answer": "Fe"
     },
     {
-        "question": "What planet is known for its Great Red Spot?",
-        "options": ["Mars", "Saturn", "Jupiter", "Venus"],
-        "answer": "Jupiter"
+        "question": "ചുവന്ന വലിയ പാടിന് പേരുകിട്ടിയ ഗ്രഹം ഏതാണ്?",
+        "options": ["മാഴ്സ്", "ശനി", "ഗുരു", "ശുക്രൻ"],
+        "answer": "ഗുരു"
     },
     {
-        "question": "What is the powerhouse of a cell?",
-        "options": ["Nucleus", "Mitochondria", "Ribosome", "Cytoplasm"],
-        "answer": "Mitochondria"
+        "question": "സെല്ലിന്റെ പവർഹൗസ് ഏത്?",
+        "options": ["ന്യൂക്ലിയസ്", "മൈറ്റോകോണ്ട്രിയ", "റിബോസോം", "സൈറ്റോപ്ലാസം"],
+        "answer": "മൈറ്റോകോണ്ട്രിയ"
     },
     {
-        "question": "What is the freezing point of water in Fahrenheit?",
+        "question": "ഫാരൻഹൈറ്റിൽ വെള്ളത്തിന്റെ തണുത്ത നില എത്രയാണ്?",
         "options": ["0°F", "32°F", "50°F", "100°F"],
         "answer": "32°F"
     },
     {
-        "question": "What part of the body controls all functions?",
-        "options": ["Heart", "Brain", "Liver", "Kidneys"],
-        "answer": "Brain"
+        "question": "ശരീരത്തിലെ പ്രവർത്തനങ്ങൾ നിയന്ത്രിക്കുന്ന ഭാഗം ഏത്?",
+        "options": ["ഹൃദയം", "മസ്തിഷ്കം", "വൃക്ക", "മസ്തിഷ്കം"],
+        "answer": "മസ്തിഷ്കം"
     },
     {
-        "question": "Which planet has the most moons?",
-        "options": ["Earth", "Saturn", "Jupiter", "Neptune"],
-        "answer": "Jupiter"
+        "question": "ഏറ്റവും കൂടുതൽ ഉപഗ്രഹങ്ങൾ ഉള്ള ഗ്രഹം ഏതാണ്?",
+        "options": ["ഭൂമി", "ശനി", "ഗുരു", "നിപ്റ്റ്യൂൺ"],
+        "answer": "ഗുരു"
     },
     {
-        "question": "What do bees collect from flowers?",
-        "options": ["Honey", "Pollen", "Nectar", "Wax"],
-        "answer": "Nectar"
+        "question": "തേനീച്ചകൾ പൂക്കളിൽ നിന്ന് ശേഖരിക്കുന്നത് എന്താണ്?",
+        "options": ["തേന്", "പൊടി", "നക്ടാർ", "മേം"],
+        "answer": "നക്ടാർ"
     },
     {
-        "question": "What is the lightest element in the periodic table?",
-        "options": ["Hydrogen", "Helium", "Lithium", "Oxygen"],
-        "answer": "Hydrogen"
+        "question": "പീരിയഡിക് ടേബിളിൽ ഏറ്റവും ലഘുവായ മൂലകം ഏതാണ്?",
+        "options": ["ഹൈഡ്രജൻ", "ഹീലിയം", "ലിഥിയം", "ഓക്സിജൻ"],
+        "answer": "ഹൈഡ്രജൻ"
     },
     {
-        "question": "What planet is closest to Earth?",
-        "options": ["Mars", "Venus", "Mercury", "Jupiter"],
-        "answer": "Venus"
+        "question": "ഭൂമിക്ക് ഏറ്റവും അടുത്ത ഗ്രഹം ഏതാണ്?",
+        "options": ["മാഴ്സ്", "ശുക്രൻ", "ബുധൻ", "ഗുരു"],
+        "answer": "ശുക്രൻ"
     },
     {
-        "question": "What do we call animals that eat only plants?",
-        "options": ["Carnivores", "Herbivores", "Omnivores", "Insectivores"],
-        "answer": "Herbivores"
+        "question": "സസ്യങ്ങൾ മാത്രം ഭക്ഷിക്കുന്ന മൃഗങ്ങൾക്ക് എന്താണ് വിളിപ്പിക്കുന്നത്?",
+        "options": ["മാംസഭോജികൾ", "സസ്യഭോജികൾ", "സമഭോജികൾ", "കീടഭോജികൾ"],
+        "answer": "സസ്യഭോജികൾ"
     },
     {
-        "question": "Which part of the cell contains the genetic material?",
-        "options": ["Cytoplasm", "Membrane", "Nucleus", "Ribosome"],
-        "answer": "Nucleus"
+        "question": "സെല്ലിന്റെ ജനിതക പദാർത്ഥം ഉള്ള ഭാഗം ഏത്?",
+        "options": ["സൈറ്റോപ്ലാസം", "മെംബ്രേൻ", "ന്യൂക്ലിയസ്", "റിബോസോം"],
+        "answer": "ന്യൂക്ലിയസ്"
     },
     {
-        "question": "What is the chemical symbol for potassium?",
+        "question": "പൊട്ടാസിയത്തിന്റെ രാസചിഹ്നം ഏതാണ്?",
         "options": ["P", "K", "Pt", "Po"],
         "answer": "K"
     },
     {
-        "question": "Which planet is known for its bright rings?",
-        "options": ["Earth", "Mars", "Saturn", "Venus"],
-        "answer": "Saturn"
+        "question": "വലയം ഉള്ളത് കൊണ്ട് പ്രശസ്തമായ ഗ്രഹം ഏത്?",
+        "options": ["ഭൂമി", "മാഴ്സ്", "ശനി", "ശുക്രൻ"],
+        "answer": "ശനി"
     },
     {
-        "question": "Which organ in the human body filters blood?",
-        "options": ["Lungs", "Heart", "Kidneys", "Liver"],
-        "answer": "Kidneys"
+        "question": "മനുഷ്യ ശരീരത്തിലെ രക്തം ചലിപ്പിക്കുന്ന അവയവം ഏത്?",
+        "options": ["ശ്വാസകോശം", "ഹൃദയം", "വൃക്കകൾ", "കല്ല്"],
+        "answer": "വൃക്കകൾ"
     },
     {
-        "question": "What is the chemical formula for common salt?",
+        "question": "സാധാരണ ഉപ്പിന്റെ രാസസൂത്രവാക്യം ഏത്?",
         "options": ["H2O", "NaCl", "CO2", "C6H12O6"],
         "answer": "NaCl"
     },
     {
-        "question": "Which planet is known as the Morning Star?",
-        "options": ["Venus", "Mars", "Jupiter", "Saturn"],
-        "answer": "Venus"
+        "question": "പ്രഭാത നക്ഷത്രം എന്നറിയപ്പെടുന്ന ഗ്രഹം ഏതാണ്?",
+        "options": ["ശുക്രൻ", "മാഴ്സ്", "ഗുരു", "ശനി"],
+        "answer": "ശുക്രൻ"
     },
     {
-        "question": "What is the process of turning solid into liquid?",
-        "options": ["Melting", "Freezing", "Evaporation", "Sublimation"],
-        "answer": "Melting"
+        "question": "ഘനം ദ്രവമായി മാറുന്ന പ്രക്രിയ എന്താണ്?",
+        "options": ["ദ്രവീഭവനം", "ദ്രവീകരണം", "വാഷ്പീകരണം", "ഉപതലവാതനം"],
+        "answer": "ദ്രവീകരണം"
     },
     {
-        "question": "What type of animal is a kangaroo?",
-        "options": ["Mammal", "Bird", "Reptile", "Amphibian"],
-        "answer": "Mammal"
+        "question": "കങ്കാരു ഏത് മൃഗവർഗത്തിൽപ്പെടുന്നു?",
+        "options": ["സസ്തനി", "പക്ഷി", "സർപ്പം", "ഉഭയജീവി"],
+        "answer": "സസ്തനി"
     },
     {
-        "question": "What gas do humans need to breathe in?",
-        "options": ["Nitrogen", "Oxygen", "Carbon dioxide", "Helium"],
-        "answer": "Oxygen"
+        "question": "മനുഷ്യർ ശ്വസിക്കുന്നതിന് ആവശ്യമായ വാതകം ഏതാണ്?",
+        "options": ["നൈട്രജൻ", "ഓക്സിജൻ", "കാർബൺ ഡൈഓക്സൈഡ്", "ഹീലിയം"],
+        "answer": "ഓക്സിജൻ"
     },
     {
-        "question": "What is the main ingredient in steel?",
-        "options": ["Carbon", "Iron", "Copper", "Nickel"],
-        "answer": "Iron"
+        "question": "ഇരുമ്പിന്റെ പ്രധാന ഘടകം ഏതാണ്?",
+        "options": ["കാർബൺ", "ഇരുമ്പ്", "താംബരം", "നിക്കൽ"],
+        "answer": "ഇരുമ്പ്"
     },
     {
-        "question": "What is the center of our solar system?",
-        "options": ["Earth", "Sun", "Moon", "Jupiter"],
-        "answer": "Sun"
+        "question": "ഞങ്ങളുടെ സൗരയൂഥത്തിന്റെ കേന്ദ്രം എന്താണ്?",
+        "options": ["ഭൂമി", "സൂര്യൻ", "ചന്ദ്രൻ", "ഗുരു"],
+        "answer": "സൂര്യൻ"
     },
     {
-        "question": "What is the process of turning gas into liquid?",
-        "options": ["Condensation", "Evaporation", "Sublimation", "Melting"],
-        "answer": "Condensation"
+        "question": "വാതകം ദ്രാവകമായി മാറുന്ന പ്രക്രിയ എന്താണ്?",
+        "options": ["സംഹിതീകരണം", "വാഷ്പീകരണം", "ഉപതലവാതനം", "ദ്രവീകരണം"],
+        "answer": "സംഹിതീകരണം"
     },
     {
-        "question": "What kind of energy is produced by a moving object?",
-        "options": ["Potential", "Thermal", "Kinetic", "Chemical"],
-        "answer": "Kinetic"
+        "question": "ഒരു ചലിക്കുന്ന വസ്തുവിൽ നിന്നുള്ള ഊർജ്ജം എന്താണ്?",
+        "options": ["ഭാവന", "താപ", "ചലന", "രാസ"],
+        "answer": "ചലന"
     },
     {
-        "question": "What is the chemical formula for oxygen gas?",
+        "question": "ഓക്സിജൻ വാതകത്തിന്റെ രാസസൂത്രവാക്യം എന്താണ്?",
         "options": ["O2", "O", "O3", "H2O"],
         "answer": "O2"
     },
     {
-        "question": "Which planet is called the Gas Giant?",
-        "options": ["Mars", "Saturn", "Jupiter", "Venus"],
-        "answer": "Jupiter"
+        "question": "വാതക ദെരവായ ഗ്രഹം എന്നറിയപ്പെടുന്നത് ഏതാണ്?",
+        "options": ["മാഴ്സ്", "ശനി", "ഗുരു", "ശുക്രൻ"],
+        "answer": "ഗുരു"
     },
     {
-        "question": "Which part of the human body is responsible for vision?",
-        "options": ["Ear", "Heart", "Eyes", "Liver"],
-        "answer": "Eyes"
+        "question": "മനുഷ്യ ശരീരത്തിൽ ദർശനത്തിന് ചുമതലപെട്ട അവയവം ഏത്?",
+        "options": ["ചെവി", "ഹൃദയം", "കണ്ണുകൾ", "കല്ല്"],
+        "answer": "കണ്ണുകൾ"
     },
     {
-        "question": "What is the study of weather called?",
-        "options": ["Geology", "Astronomy", "Meteorology", "Biology"],
-        "answer": "Meteorology"
+        "question": "കാലാവസ്ഥ പഠനം എന്താണ്?",
+        "options": ["ഭൂവിജ്ഞാനം", "നക്ഷത്രശാസ്ത്രം", "കാലാവസ്ഥാ ശാസ്ത്രം", "ജീവശാസ്ത്രം"],
+        "answer": "കാലാവസ്ഥാ ശാസ്ത്രം"
     },
     {
-        "question": "What is the main gas in Earth's atmosphere?",
-        "options": ["Nitrogen", "Oxygen", "Carbon dioxide", "Hydrogen"],
-        "answer": "Nitrogen"
+        "question": "ഭൂമിയുടെ അന്തരീക്ഷത്തിലെ പ്രധാന വാതകം ഏതാണ്?",
+        "options": ["നൈട്രജൻ", "ഓക്സിജൻ", "കാർബൺ ഡൈഓക്സൈഡ്", "ഹൈഡ്രജൻ"],
+        "answer": "നൈട്രജൻ"
     },
     {
-        "question": "What part of the cell produces proteins?",
-        "options": ["Mitochondria", "Nucleus", "Ribosome", "Cytoplasm"],
-        "answer": "Ribosome"
+        "question": "സെല്ലിൽ പ്രോട്ടീൻ ഉൽപാദിപ്പിക്കുന്ന ഭാഗം ഏത്?",
+        "options": ["മൈറ്റോകോണ്ട്രിയ", "ന്യൂക്ലിയസ്", "റിബോസോം", "സൈറ്റോപ്ലാസം"],
+        "answer": "റിബോസോം"
     }
 ]
