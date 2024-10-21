@@ -1,467 +1,402 @@
 [
     {
-        "question": "Who was the first President of the United States?",
-        "options": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"],
-        "answer": "George Washington"
+        "question": "അമേരിക്കയിലെ ആദ്യ പ്രസിഡന്റ് ആരായിരുന്നു?",
+        "options": ["അബ്രഹാം ലിങ്കൺ", "ജോർജ് വാഷിംഗ്ടൺ", "തോമസ് ജെഫേഴ്സൺ", "ജോൺ ആഡംസ്"],
+        "answer": "ജോർജ് വാഷിംഗ്ടൺ"
     },
     {
-        "question": "Who is the current Prime Minister of India (as of 2023)?",
-        "options": ["Narendra Modi", "Manmohan Singh", "Rahul Gandhi", "Amit Shah"],
-        "answer": "Narendra Modi"
+        "question": "ഇന്ത്യയുടെ നിലവിലെ പ്രധാനമന്ത്രി ആര് (2023 വരെ)?",
+        "options": ["നരേന്ദ്ര മോദി", "മൻമോഹൻ സിംഗ്", "രാഹുൽ ഗാന്ധി", "അമിത് ഷാ"],
+        "answer": "നരേന്ദ്ര മോദി"
     },
     {
-        "question": "What is the highest court in the United States?",
-        "options": ["Supreme Court", "District Court", "Court of Appeals", "State Court"],
-        "answer": "Supreme Court"
+        "question": "യുണൈറ്റഡ് സ്റ്റേറ്റ്സിലെ പരമോന്നത കോടതി ഏതാണ്?",
+        "options": ["സുപ്രീം കോടതി", "ഡിസ്ട്രിക്ട് കോടതി", "കോർട്ട് ഓഫ് അപ്പീല്സ്", "സ്റ്റേറ്റ് കോടതി"],
+        "answer": "സുപ്രീം കോടതി"
     },
     {
-        "question": "Which political party is currently ruling China (as of 2023)?",
+        "question": "2023 വരെ ചൈനയിൽ ഭരിക്കുന്ന രാഷ്ട്രീയ പാർട്ടി ഏതാണ്?",
         "options": ["CPC", "KMT", "LDP", "DPP"],
         "answer": "CPC"
     },
     {
-        "question": "Who is known as the Father of the Indian Constitution?",
-        "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "B.R. Ambedkar", "Sardar Patel"],
-        "answer": "B.R. Ambedkar"
+        "question": "ഇന്ത്യൻ ഭരണഘടനയുടെ പിതാവായി അറിയപ്പെടുന്നത് ആര്?",
+        "options": ["മഹാത്മാ ഗാന്ധി", "ജവാഹർലാൽ നെഹ്റു", "ബി.ആർ. അംബേദ്കർ", "സർദാർ പട്ടേൽ"],
+        "answer": "ബി.ആർ. അംബേദ്കർ"
     },
     {
-        "question": "Which body makes laws in the United Kingdom?",
-        "options": ["House of Commons", "House of Lords", "Congress", "Senate"],
-        "answer": "House of Commons"
+        "question": "യുണൈറ്റഡ് കിംഗ്‌ഡത്തിൽ നിയമങ്ങൾ നിർമ്മിക്കുന്ന സ്ഥാപനം ഏതാണ്?",
+        "options": ["ഹൗസ് ഓഫ് കോമൺസ്", "ഹൗസ് ഓഫ് ലോർഡ്സ്", "കോംഗ്രസ്സ്", "സെനറ്റ്"],
+        "answer": "ഹൗസ് ഓഫ് കോമൺസ്"
     },
     {
-        "question": "Who was the first female Prime Minister of the UK?",
-        "options": ["Margaret Thatcher", "Theresa May", "Angela Merkel", "Indira Gandhi"],
-        "answer": "Margaret Thatcher"
+        "question": "യുണൈറ്റഡ് കിംഗ്‌ഡത്തിലെ ആദ്യത്തെ വനിതാ പ്രധാനമന്ത്രി ആര്?",
+        "options": ["മാർഗരറ്റ് താച്ചർ", "തെരേസ മേ", "ആംഗല മെർക്കൽ", "ഇന്ദിരാ ഗാന്ധി"],
+        "answer": "മാർഗരറ്റ് താച്ചർ"
     },
     {
-        "question": "What is the capital city of the European Union?",
-        "options": ["Paris", "Berlin", "Brussels", "Rome"],
-        "answer": "Brussels"
+        "question": "യൂറോപ്യൻ യൂണിയന്റെ തലസ്ഥാനം ഏത് നഗരം?",
+        "options": ["പാരിസ്", "ബർളിൻ", "ബ്രസ്സൽസ്", "റോം"],
+        "answer": "ബ്രസ്സൽസ്"
     },
     {
-        "question": "Which country has a presidential system of government?",
-        "options": ["India", "United States", "United Kingdom", "Japan"],
-        "answer": "United States"
+        "question": "പ്രസിഡൻഷ്യൽ ഭരണ സമ്പ്രദായം ഉള്ള രാജ്യം ഏതാണ്?",
+        "options": ["ഇന്ത്യ", "യുണൈറ്റഡ് സ്റ്റേറ്റ്സ്", "യുണൈറ്റഡ് കിംഗ്‌ഡം", "ജപ്പാൻ"],
+        "answer": "യുണൈറ്റഡ് സ്റ്റേറ്റ്സ്"
     },
     {
-        "question": "Who is the current President of Russia (as of 2023)?",
-        "options": ["Dmitry Medvedev", "Vladimir Putin", "Boris Yeltsin", "Alexei Navalny"],
-        "answer": "Vladimir Putin"
+        "question": "2023 വരെ റഷ്യയിലെ നിലവിലെ പ്രസിഡന്റാണ്?",
+        "options": ["ദിമിത്രി മെദ്വേദെവ്", "വ്ലാദിമിർ പുടിൻ", "ബോറിസ് യെൽറ്റ്സിൻ", "അലെക്സി നവൽനി"],
+        "answer": "വ്ലാദിമിർ പുടിൻ"
     },
     {
-        "question": "What is the term length of a U.S. President?",
-        "options": ["2 years", "4 years", "6 years", "5 years"],
-        "answer": "4 years"
+        "question": "യുണൈറ്റഡ് സ്റ്റേറ്റ്സിലെ പ്രസിഡന്റ് കാലാവധി എത്ര വർഷമാണ്?",
+        "options": ["2 വർഷം", "4 വർഷം", "6 വർഷം", "5 വർഷം"],
+        "answer": "4 വർഷം"
     },
     {
-        "question": "Which political party is traditionally conservative in the UK?",
-        "options": ["Labour", "Liberal Democrats", "Conservatives", "Green Party"],
-        "answer": "Conservatives"
+        "question": "യുണൈറ്റഡ് കിംഗ്‌ഡത്തിലെ പരമ്പരാഗതമായ സംരക്ഷണചിന്താവാദ പാർട്ടി ഏതാണ്?",
+        "options": ["ലേബർ", "ലിബറൽ ഡെമോക്രാറ്റുകൾ", "കൺസർവേറ്റീവ്", "ഗ്രീൻ പാർട്ടി"],
+        "answer": "കൺസർവേറ്റീവ്"
     },
     {
-        "question": "Who was the first female Prime Minister of India?",
-        "options": ["Sonia Gandhi", "Indira Gandhi", "Pratibha Patil", "Sarojini Naidu"],
-        "answer": "Indira Gandhi"
+        "question": "ഇന്ത്യയിലെ ആദ്യ വനിതാ പ്രധാനമന്ത്രി ആര്?",
+        "options": ["സോണിയ ഗാന്ധി", "ഇന്ദിരാ ഗാന്ധി", "പ്രതിഭാ പട്ടീൽ", "സരോജിനി നായിഡു"],
+        "answer": "ഇന്ദിരാ ഗാന്ധി"
     },
     {
-        "question": "Who is the current Chancellor of Germany (as of 2023)?",
-        "options": ["Angela Merkel", "Olaf Scholz", "Emmanuel Macron", "Boris Johnson"],
-        "answer": "Olaf Scholz"
+        "question": "2023 വരെ ജർമനിയുടെ നിലവിലെ ചാൻസലർ ആര്?",
+        "options": ["ആംഗല മെർക്കൽ", "ഓലഫ് ഷോൾസ്", "ഇമ്മാനുവൽ മാക്രോൺ", "ബോറിസ് ജോൺസൺ"],
+        "answer": "ഓലഫ് ഷോൾസ്"
     },
     {
-        "question": "What is the name of the U.S. legislative body?",
-        "options": ["Parliament", "Senate", "Congress", "Assembly"],
-        "answer": "Congress"
+        "question": "യുണൈറ്റഡ് സ്റ്റേറ്റ്സിലെ നിയമനിർമ്മാണ സ്ഥാപനം ഏതാണ്?",
+        "options": ["പാർലമെന്റ്", "സെനറ്റ്", "കോംഗ്രസ്സ്", "അസംബ്ലി"],
+        "answer": "കോംഗ്രസ്സ്"
     },
     {
-        "question": "Who is the head of government in a parliamentary system?",
-        "options": ["President", "Prime Minister", "Governor", "Speaker"],
-        "answer": "Prime Minister"
+        "question": "പാർലമെൻററി സിസ്റ്റത്തിൽ ഭരണ മേധാവി ആരാണ്?",
+        "options": ["പ്രസിഡന്റ്", "പ്രധാനമന്ത്രി", "ഗവർണർ", "സ്പീക്കർ"],
+        "answer": "പ്രധാനമന്ത്രി"
     },
     {
-        "question": "Which country follows a one-party system?",
-        "options": ["India", "United States", "China", "Brazil"],
-        "answer": "China"
+        "question": "ഒന്നിപാർട്ടി സിസ്റ്റം പിന്തുടരുന്ന രാജ്യം ഏതാണ്?",
+        "options": ["ഇന്ത്യ", "യുണൈറ്റഡ് സ്റ്റേറ്റ്സ്", "ചൈന", "ബ്രസീൽ"],
+        "answer": "ചൈന"
     },
     {
-        "question": "Which Indian state has its own Constitution?",
-        "options": ["Maharashtra", "Kerala", "Jammu and Kashmir", "Punjab"],
-        "answer": "Jammu and Kashmir"
+        "question": "സ്വന്തമായി ഭരണഘടനയുള്ള ഇന്ത്യൻ സംസ്ഥാനം ഏതാണ്?",
+        "options": ["മഹാരാഷ്ട്ര", "കേരളം", "ജമ്മു കാശ്മീർ", "പഞ്ചാബ്"],
+        "answer": "ജമ്മു കാശ്മീർ"
     },
     {
-        "question": "What is the national legislative body of Japan called?",
-        "options": ["Congress", "Diet", "Senate", "Parliament"],
-        "answer": "Diet"
+        "question": "ജപ്പാനിലെ ദേശീയ നിയമനിർമ്മാണ സ്ഥാപനം ഏതാണ്?",
+        "options": ["കോംഗ്രസ്സ്", "ഡയറ്റ്", "സെനറ്റ്", "പാർലമെന്റ്"],
+        "answer": "ഡയറ്റ്"
     },
     {
-        "question": "Who appoints the Prime Minister of the UK?",
-        "options": ["Parliament", "The People", "Queen", "House of Lords"],
-        "answer": "Queen"
+        "question": "യുണൈറ്റഡ് കിംഗ്‌ഡത്തിലെ പ്രധാനമന്ത്രിയെ നിയമിക്കുന്നത് ആര്?",
+        "options": ["പാർലമെന്റ്", "ജനങ്ങൾ", "രാജ്ഞി", "ഹൗസ് ഓഫ് ലോർഡ്സ്"],
+        "answer": "രാജ്ഞി"
     },
     {
-        "question": "What is the role of the Speaker in the House of Commons?",
-        "options": ["Debates", "Votes", "Moderates", "Proposes Bills"],
-        "answer": "Moderates"
+        "question": "ഹൗസ് ഓഫ് കോമൺസിലെ സ്പീക്കറുടെ പങ്ക് എന്താണ്?",
+        "options": ["ഡിബേറ്റുകൾ", "വോട്ടുകൾ", "മോഡറേറ്റ്", "ബില്ലുകൾ നിർദ്ദേശിക്കുക"],
+        "answer": "മോഡറേറ്റ്"
     },
     {
-        "question": "Which country has a constitutional monarchy?",
-        "options": ["USA", "UK", "France", "China"],
-        "answer": "UK"
+        "question": "ആമുഖ ഭരണകൂടമുള്ള രാജ്യം ഏതാണ്?",
+        "options": ["യുഎസ്എ", "യുകെ", "ഫ്രാൻസ്", "ചൈന"],
+        "answer": "യുകെ"
     },
     {
-        "question": "Which body elects the President of the USA?",
-        "options": ["Congress", "Supreme Court", "Electoral College", "Senate"],
-        "answer": "Electoral College"
+        "question": "യുണൈറ്റഡ് സ്റ്റേറ്റ്സിലെ പ്രസിഡന്റിനെ തിരഞ്ഞെടുക്കുന്നത് ആര്?",
+        "options": ["കോംഗ്രസ്സ്", "സുപ്രീം കോടതി", "ഇലക്ടറൽ കോളേജ്", "സെനറ്റ്"],
+        "answer": "ഇലക്ടറൽ കോളേജ്"
     },
     {
-        "question": "Who was the first President of India?",
-        "options": ["Jawaharlal Nehru", "Rajendra Prasad", "Sarvepalli Radhakrishnan", "Lal Bahadur Shastri"],
-        "answer": "Rajendra Prasad"
+        "question": "ഇന്ത്യയുടെ ആദ്യ പ്രസിഡന്റ് ആരായിരുന്നു?",
+        "options": ["ജവാഹർലാൽ നെഹ്റു", "രാജേന്ദ്ര പ്രസാദ്", "സർവപള്ളി രാധാകൃഷ്ണൻ", "ലാൽ ബഹാദൂർ ശാസ്ത്രി"],
+        "answer": "രാജേന്ദ്ര പ്രസാദ്"
     },
     {
-        "question": "Which is the upper house of the Indian Parliament?",
-        "options": ["Lok Sabha", "Rajya Sabha", "Vidhan Sabha", "Gram Sabha"],
-        "answer": "Rajya Sabha"
+        "question": "ഇന്ത്യൻ പാർലമെന്റിന്റെ മുകളിലെ സദനം ഏതാണ്?",
+        "options": ["ലോക്സഭ", "രാജ്യസഭ", "വിദാൻ സഭ", "ഗ്രാമസഭ"],
+        "answer": "രാജ്യസഭ"
     },
     {
-        "question": "What is the full form of the UN?",
-        "options": ["United Nations", "Universal Network", "Union of Nations", "United Neighbors"],
-        "answer": "United Nations"
+        "question": "യുഎൻ എന്നതിന്റെ പൂർണ്ണ രൂപം എന്താണ്?",
+        "options": ["യുണൈറ്റഡ് നേഷൻസ്", "യൂണിവേഴ്സൽ നെറ്റ്വർക്ക", "യൂനിയൻ ഓഫ് നേഷൻസ്", "യുണൈറ്റഡ് നേബേഴ്‌സ്"],
+        "answer": "യുണൈറ്റഡ് നേഷൻസ്"
     },
     {
-        "question": "Which international body deals with trade disputes?",
-        "options": ["UN", "WTO", "WHO", "IMF"],
-        "answer": "WTO"
+        "question": "അന്തർദേശീയ വ്യാപാര തർക്കങ്ങൾ കൈകാര്യം ചെയ്യുന്ന സ്ഥാപനം ഏതാണ്?",
+        "options": ["യുഎൻ", "ഡബ്ലിയുടിഒ", "ഡബ്ലിയുഎച്ച്ഒ", "ഐഎംഎഫ്"],
+        "answer": "ഡബ്ലിയുടിഒ"
     },
     {
-        "question": "Who is the leader of the Labour Party in the UK (as of 2023)?",
-        "options": ["Jeremy Corbyn", "Keir Starmer", "Boris Johnson", "Tony Blair"],
-        "answer": "Keir Starmer"
+        "question": "2023 വരെ യുകെയിലെ ലേബർ പാർട്ടിയുടെ നേതാവ് ആരാണ്?",
+        "options": ["ജെറമി കോർബിൻ", "കിയർ സ്റ്റാർമർ", "ബോറിസ് ജോൺസൺ", "ടോണി ബ്ലെയർ"],
+        "answer": "കിയർ സ്റ്റാർമർ"
     },
     {
-        "question": "What is the lower house of the United States Congress?",
-        "options": ["House of Commons", "House of Lords", "House of Representatives", "Senate"],
-        "answer": "House of Representatives"
+        "question": "യുണൈറ്റഡ് സ്റ്റേറ്റ്സിലെ കോൺഗ്രസ്സ് ചുവട്ടിലത്തെ സദനം ഏതാണ്?",
+        "options": ["ഹൗസ് ഓഫ് കോമൺസ്", "ഹൗസ് ഓഫ് ലോർഡ്സ്", "ഹൗസ് ഓഫ് റിപ്പ്രസെന്റേറ്റിവ്സ്", "സെനറ്റ്"],
+        "answer": "ഹൗസ് ഓഫ് റിപ്പ്രസെന്റേറ്റിവ്സ്"
     },
     {
-        "question": "Which organization works for world peace?",
-        "options": ["WTO", "IMF", "WHO", "UN"],
-        "answer": "UN"
+        "question": "ലോകശാന്തിക്കായി പ്രവർത്തിക്കുന്ന അന്തർദേശീയ സംഘടന ഏതാണ്?",
+        "options": ["ഡബ്ലിയുടിഒ", "ഐഎംഎഫ്", "ഡബ്ലിയുഎച്ച്ഒ", "യുഎൻ"],
+        "answer": "യുഎൻ"
     },
     {
-        "question": "Who is the first woman to become U.S. Vice President?",
-        "options": ["Hillary Clinton", "Kamala Harris", "Condoleezza Rice", "Michelle Obama"],
-        "answer": "Kamala Harris"
+        "question": "യുണൈറ്റഡ് സ്റ്റേറ്റ്സിലെ ആദ്യ വനിതാ വൈസ് പ്രസിഡണ്ട് ആരാണ്?",
+        "options": ["ഹില്ലരി ക്ലിന്റൺ", "കമല ഹാരിസ്", "കൊണ്ടൊളീസ റൈസ്", "മിഷെൽ ഒബാമ"],
+        "answer": "കമല ഹാരിസ്"
     },
     {
-        "question": "Which political ideology promotes government ownership of resources?",
-        "options": ["Capitalism", "Socialism", "Fascism", "Monarchy"],
-        "answer": "Socialism"
+        "question": "സർക്കാർ സ്രോതസ്സുകളുടെ ഉടമസ്ഥതയെ പ്രോത്സാഹിപ്പിക്കുന്ന രാഷ്ട്രീയ ആശയം ഏതാണ്?",
+        "options": ["ക്യാപിറ്റലിസം", "സോഷ്യലിസം", "ഫാസിസം", "മോനാർക്കി"],
+        "answer": "സോഷ്യലിസം"
     },
     {
-        "question": "Which U.S. President resigned due to the Watergate scandal?",
-        "options": ["John F. Kennedy", "Richard Nixon", "Gerald Ford", "Ronald Reagan"],
-        "answer": "Richard Nixon"
+        "question": "വാട്ടർഗേറ്റ് സ്കാൻഡലിനെ തുടർന്ന് രാജിവെച്ച യു.എസ്. പ്രസിഡന്റ് ആരാണ്?",
+        "options": ["ജോൺ എഫ്. കെൻഡി", "റിച്ചാർഡ് നിക്സൺ", "ജെറാൾഡ് ഫോർഡ്", "റൊണാൾഡ് റെഗൺ"],
+        "answer": "റിച്ചാർഡ് നിക്സൺ"
     },
     {
-        "question": "Which Indian body conducts elections?",
-        "options": ["Supreme Court", "Election Commission", "CAG", "Parliament"],
-        "answer": "Election Commission"
+        "question": "ഇന്ത്യയിൽ തിരഞ്ഞെടുപ്പുകൾ നടത്തുന്നത് ഏത് സ്ഥാപനമാണ്?",
+        "options": ["സുപ്രീം കോടതി", "തിരഞ്ഞെടുപ്പ് കമ്മീഷൻ", "CAG", "പാർലമെന്റ്"],
+        "answer": "തിരഞ്ഞെടുപ്പ് കമ്മീഷൻ"
     },
     {
-        "question": "Who is the leader of the Communist Party of China?",
-        "options": ["Xi Jinping", "Mao Zedong", "Zhou Enlai", "Deng Xiaoping"],
-        "answer": "Xi Jinping"
+        "question": "ചൈനയിലെ കമ്മ്യൂണിസ്റ്റ് പാർട്ടിയുടെ നേതാവ് ആര്?",
+        "options": ["ഷി ജിൻപിംഗ്", "മാവോ സെടോങ്", "ഷോവ് എൻലൈ", "ഡെങ് ഷിയാവോപ്പിങ്"],
+        "answer": "ഷി ജിൻപിംഗ്"
     },
     {
-        "question": "Which organization focuses on international health?",
-        "options": ["IMF", "UNICEF", "WHO", "WTO"],
-        "answer": "WHO"
+        "question": "അന്താരാഷ്ട്ര ആരോഗ്യവുമായി ബന്ധപ്പെട്ട പ്രശ്നങ്ങളെ അഭിമുഖീകരിക്കുന്ന സ്ഥാപനം ഏത്?",
+        "options": ["ഐഎംഎഫ്", "യൂണിസെഫ്", "ഡബ്ലിയുഎച്ച്ഒ", "ഡബ്ലിയുടിഒ"],
+        "answer": "ഡബ്ലിയുഎച്ച്ഒ"
     },
     {
-        "question": "Which document sets the rules of the Indian government?",
-        "options": ["Bill of Rights", "Constitution", "Magna Carta", "Declaration"],
-        "answer": "Constitution"
+        "question": "ഇന്ത്യൻ സർക്കാരിന്റെ നിയമങ്ങൾ ഏത് രേഖയിലാണ് നിജപ്പെടുത്തിയിരിക്കുന്നത്?",
+        "options": ["ബിൽ ഓഫ് റൈറ്റ്സ്", "ഭരണഘടന", "മാഗ്ന കാർട്ട", "പ്രഖ്യാപനം"],
+        "answer": "ഭരണഘടന"
     },
     {
-        "question": "Who is the head of state in the UK?",
-        "options": ["Prime Minister", "King", "Speaker", "Governor"],
-        "answer": "King"
+        "question": "യുകെയിലെ സ്റ്റേറ്റ് മേധാവി ആരാണ്?",
+        "options": ["പ്രധാനമന്ത്രി", "രാജാവ്", "സ്പീക്കർ", "ഗവർണർ"],
+        "answer": "രാജാവ്"
     },
     {
-        "question": "What is the international organization for children’s welfare?",
-        "options": ["WTO", "WHO", "UNICEF", "IMF"],
-        "answer": "UNICEF"
+        "question": "മക്കളുടെയും യുവാക്കളുടെ ക്ഷേമം സംരക്ഷിക്കാൻ ഉദ്ദേശിക്കുന്ന അന്താരാഷ്ട്ര സ്ഥാപനം ഏത്?",
+        "options": ["യുനിസെഫ്", "ഡബ്ലിയുഎച്ച്ഒ", "യുഎൻ", "ഐഎംഎഫ്"],
+        "answer": "യുനിസെഫ്"
     },
     {
-        "question": "Who is the current President of the United States (as of 2023)?",
-        "options": ["Donald Trump", "Joe Biden", "Barack Obama", "Kamala Harris"],
-        "answer": "Joe Biden"
+        "question": "2023 വരെയുള്ള യു.എസ്. പ്രസിഡണ്ട് ആര്?",
+        "options": ["ഡോണാൾഡ് ട്രംപ്", "ജോ ബൈഡൻ", "ബരാക് ഒബാമ", "കമല ഹാരിസ്"],
+        "answer": "ജോ ബൈഡൻ"
     },
     {
-        "question": "What is the full form of NATO?",
-        "options": ["North America Treaty", "North Atlantic Treaty Organization", "Northern Army Treaty Organization", "None"],
-        "answer": "North Atlantic Treaty Organization"
+        "question": "നാറ്റോ എന്നതിന്റെ പൂർണ്ണ രൂപം എന്താണ്?",
+        "options": ["നോർത്ത് അമേരിക്ക ട്രിറ്റി", "നോർത്ത് അറ്റ്ലാന്റിക് ട്രിറ്റി ഓർഗനൈസേഷൻ", "നോർതേൺ ആർമി ട്രിറ്റി", "ഒന്നുമല്ല"],
+        "answer": "നോർത്ത് അറ്റ്ലാന്റിക് ട്രിറ്റി ഓർഗനൈസേഷൻ"
     },
     {
-        "question": "Which country uses the title 'Chancellor' for its head of government?",
-        "options": ["Germany", "France", "Italy", "USA"],
-        "answer": "Germany"
+        "question": "ചാൻസലർ എന്ന പദവി ഉപയോഗിക്കുന്ന രാജ്യം ഏതാണ്?",
+        "options": ["ജർമനി", "ഫ്രാൻസ്", "ഇറ്റലി", "യുഎസ്എ"],
+        "answer": "ജർമനി"
     },
     {
-        "question": "Who was the first black President of the USA?",
-        "options": ["Bill Clinton", "Barack Obama", "George Bush", "Joe Biden"],
-        "answer": "Barack Obama"
+        "question": "യുണൈറ്റഡ് സ്റ്റേറ്റ്സിലെ ആദ്യത്തെ കറുത്ത വർഗ്ഗക്കാരൻ പ്രസിഡന്റ്?",
+        "options": ["ബിൽ ക്ലിന്റൺ", "ബരാക് ഒബാമ", "ജോർജ് ബുഷ്", "ജോ ബൈഡൻ"],
+        "answer": "ബരാക് ഒബാമ"
     },
     {
-        "question": "Which body makes laws in India?",
-        "options": ["Supreme Court", "Rajya Sabha", "Lok Sabha", "Parliament"],
-        "answer": "Parliament"
+        "question": "ഇന്ത്യയിൽ നിയമങ്ങൾ നിർമിക്കുന്ന സ്ഥാപനം ഏതാണ്?",
+        "options": ["സുപ്രീം കോടതി", "രാജ്യസഭ", "ലോക്സഭ", "പാർലമെന്റ്"],
+        "answer": "പാർലമെന്റ്"
     },
     {
-        "question": "Who is the current Prime Minister of the UK (as of 2023)?",
-        "options": ["Boris Johnson", "Rishi Sunak", "Keir Starmer", "Theresa May"],
-        "answer": "Rishi Sunak"
+        "question": "2023 വരെ യുകെയിലെ നിലവിലെ പ്രധാനമന്ത്രി ആര്?",
+        "options": ["ബോറിസ് ജോൺസൺ", "രിഷി സുനാക്ക്", "കിയർ സ്റ്റാർമർ", "തെരേസ മേ"],
+        "answer": "രിഷി സുനാക്ക്"
     },
     {
-        "question": "Which is the ruling party in North Korea?",
-        "options": ["Democratic Party", "Communist Party", "Workers' Party", "Labour Party"],
-        "answer": "Workers' Party"
+        "question": "വർക്കർസ് പാർട്ടി ഭരിക്കുന്ന രാജ്യം ഏതാണ്?",
+        "options": ["ഡെമോക്രാറ്റിക് പാർട്ടി", "കമ്മ്യൂണിസ്റ്റ് പാർട്ടി", "വർക്കേഴ്സ് പാർട്ടി", "ലേബർ പാർട്ടി"],
+        "answer": "വർക്കേഴ്സ് പാർട്ടി"
     },
     {
-        "question": "Who appoints the judges of the Supreme Court in India?",
-        "options": ["President", "Prime Minister", "Parliament", "Chief Justice"],
-        "answer": "President"
+        "question": "ഇന്ത്യയിലെ സുപ്രീം കോടതി ജഡ്ജിമാരെ നിയമിക്കുന്നത് ആര്?",
+        "options": ["പ്രസിഡന്റ്", "പ്രധാനമന്ത്രി", "പാർലമെന്റ്", "ചീഫ് ജസ്റ്റിസ്"],
+        "answer": "പ്രസിഡന്റ്"
     },
     {
-        "question": "Who was the first female Chancellor of Germany?",
-        "options": ["Angela Merkel", "Theresa May", "Margaret Thatcher", "Emmanuel Macron"],
-        "answer": "Angela Merkel"
+        "question": "ജർമനിയിലെ ആദ്യത്തെ വനിതാ ചാൻസലർ ആരാണ്?",
+        "options": ["ആംഗല മെർക്കൽ", "തെരേസ മേ", "മാർഗരറ്റ് താച്ചർ", "ഇമ്മാനുവൽ മാക്രോൺ"],
+        "answer": "ആംഗല മെർക്കൽ"
     },
     {
-        "question": "Which country has the largest democracy in the world?",
-        "options": ["USA", "Russia", "India", "China"],
-        "answer": "India"
+        "question": "ലോകത്തിലെ ഏറ്റവും വലിയ ജനാധിപത്യ രാജ്യം ഏതാണ്?",
+        "options": ["യുഎസ്എ", "റഷ്യ", "ഇന്ത്യ", "ചൈന"],
+        "answer": "ഇന്ത്യ"
     },
     {
-        "question": "Who was the first President of South Africa after apartheid?",
-        "options": ["Nelson Mandela", "Jacob Zuma", "Thabo Mbeki", "F.W. de Klerk"],
-        "answer": "Nelson Mandela"
+        "question": "വിവക്ഷയാനന്തരത്ത് ദക്ഷിണാഫ്രിക്കയുടെ ആദ്യത്തെ പ്രസിഡന്റ് ആര്?",
+        "options": ["നെൽസൺ മണ്ടേല", "ജേക്കബ് സുമ", "ഥാബോ എംബെക്കി", "എഫ്.ഡബ്ലിയു. ഡി ക്ലർക്"],
+        "answer": "നെൽസൺ മണ്ടേല"
     },
     {
-        "question": "What is the legislative body of the United States called?",
-        "options": ["Senate", "Congress", "Parliament", "House of Lords"],
-        "answer": "Congress"
+        "question": "യുണൈറ്റഡ് സ്റ്റേറ്റ്സിലെ നിയമനിർമ്മാണ സ്ഥാപനത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "options": ["സെനറ്റ്", "കോംഗ്രസ്സ്", "പാർലമെന്റ്", "ഹൗസ് ഓഫ് ലോർഡ്സ്"],
+        "answer": "കോംഗ്രസ്സ്"
     },
     {
-        "question": "What is the lower house of the Indian Parliament?",
-        "options": ["Rajya Sabha", "Vidhan Sabha", "Gram Sabha", "Lok Sabha"],
-        "answer": "Lok Sabha"
+        "question": "ഇന്ത്യൻ പാർലമെന്റിന്റെ ചുവട്ടിലെ സദനം ഏതാണ്?",
+        "options": ["രാജ്യസഭ", "വിദാൻ സഭ", "ഗ്രാമസഭ", "ലോക്സഭ"],
+        "answer": "ലോക്സഭ"
     },
     {
-        "question": "Who was the first female Speaker of the U.S. House of Representatives?",
-        "options": ["Nancy Pelosi", "Hillary Clinton", "Condoleezza Rice", "Kamala Harris"],
-        "answer": "Nancy Pelosi"
+        "question": "യു.എസിലെ ഹൗസ് ഓഫ് റിപ്പ്രസെന്റേറ്റിവ്സ് നിയമസഭയിൽ ആദ്യത്തെ വനിതാ സ്പീക്കർ ആര്?",
+        "options": ["നാൻസി പെലോസി", "ഹില്ലരി ക്ലിന്റൺ", "കൊണ്ടൊളീസ റൈസ്", "കമല ഹാരിസ്"],
+        "answer": "നാൻസി പെലോസി"
     },
     {
-        "question": "Which political party is currently ruling the USA (2023)?",
-        "options": ["Democrats", "Republicans", "Green Party", "Libertarians"],
-        "answer": "Democrats"
+        "question": "2023 ൽ യുഎസിൽ ഭരണകൂടം ഭരിക്കുന്ന രാഷ്ട്രീയ പാർട്ടി ഏതാണ്?",
+        "options": ["ഡെമോക്രാറ്റുകൾ", "റിപ്പബ്ലിക്കൻ", "ഗ്രീൻ പാർട്ടി", "ലിബർട്ടേറിയൻസ്"],
+        "answer": "ഡെമോക്രാറ്റുകൾ"
     },
     {
-        "question": "Who was the first Prime Minister of India?",
-        "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Indira Gandhi", "Rajendra Prasad"],
-        "answer": "Jawaharlal Nehru"
+        "question": "ഇന്ത്യയുടെ ആദ്യ പ്രധാനമന്ത്രി ആര്?",
+        "options": ["മഹാത്മാ ഗാന്ധി", "ജവാഹർലാൽ നെഹ്റു", "ഇന്ദിരാ ഗാന്ധി", "രാജേന്ദ്ര പ്രസാദ്"],
+        "answer": "ജവാഹർലാൽ നെഹ്റു"
     },
     {
-        "question": "What is the currency of the European Union?",
-        "options": ["Pound", "Dollar", "Euro", "Franc"],
-        "answer": "Euro"
+        "question": "യൂറോപ്യൻ യൂണിയന്റെ നാണയം എന്താണ്?",
+        "options": ["പൗണ്ട്", "ഡോളർ", "യൂറോ", "ഫ്രാങ്ക്"],
+        "answer": "യൂറോ"
     },
     {
-        "question": "Who was the U.S. President during World War II?",
-        "options": ["Franklin D. Roosevelt", "Harry Truman", "Dwight Eisenhower", "Woodrow Wilson"],
-        "answer": "Franklin D. Roosevelt"
+        "question": "വേരൾഡ് വാറിൽ യുഎസ് പ്രസിഡണ്ട് ആരായിരുന്നു?",
+        "options": ["ഫ്രാങ്ക്ലിൻ ഡി. റൂസ്‌വെൽറ്റ്", "ഹാരി ട്രൂമൻ", "ഡ്വൈറ്റ് ഐസൻഹവർ", "വുഡ്രോ വിൽസൺ"],
+        "answer": "ഫ്രാങ്ക്ലിൻ ഡി. റൂസ്‌വെൽറ്റ്"
     },
     {
-        "question": "Which country's parliament is known as the 'Duma'?",
-        "options": ["Germany", "Russia", "Italy", "France"],
-        "answer": "Russia"
+        "question": "ദുമ എന്ന പേരിൽ അറിയപ്പെടുന്ന രാജ്യത്തിന്റെ പാർലമെന്റ് ഏതാണ്?",
+        "options": ["ജർമനി", "റഷ്യ", "ഇറ്റലി", "ഫ്രാൻസ്"],
+        "answer": "റഷ്യ"
     },
     {
-        "question": "Who is the longest-serving U.S. President?",
-        "options": ["Franklin D. Roosevelt", "Abraham Lincoln", "George Washington", "Theodore Roosevelt"],
-        "answer": "Franklin D. Roosevelt"
+        "question": "യു.എസ്. ചരിത്രത്തിലെ ഏറ്റവും ദീർഘകാലത്തെ സേവനം ചെയ്ത പ്രസിഡണ്ട് ആരാണ്?",
+        "options": ["ഫ്രാങ്ക്ലിൻ ഡി. റൂസ്‌വെൽറ്റ്", "അബ്രഹാം ലിങ്കൺ", "ജോർജ് വാഷിംഗ്ടൺ", "തിയഡോർ റൂസ്‌വെൽറ്റ്"],
+        "answer": "ഫ്രാങ്ക്ലിൻ ഡി. റൂസ്‌വെൽറ്റ്"
     },
     {
-        "question": "Which country has the oldest written constitution still in use?",
-        "options": ["USA", "UK", "India", "France"],
-        "answer": "USA"
+        "question": "എന്ത് കാരണത്താൽ ബ്രെക്സിറ്റ് പ്രാരംഭിച്ചു എന്ന് അറിയപ്പെടുന്ന നേതാവ്?",
+        "options": ["തെരേസ മേ", "ഡേവിഡ് കാമറൂൺ", "ബോറിസ് ജോൺസൺ", "ടോണി ബ്ലെയർ"],
+        "answer": "ഡേവിഡ് കാമറൂൺ"
     },
     {
-        "question": "Which political leader is known for initiating 'Brexit'?",
-        "options": ["Theresa May", "David Cameron", "Boris Johnson", "Tony Blair"],
-        "answer": "David Cameron"
+        "question": "ലോകശാന്തി നിലനിർത്താൻ ഉത്തരവാദിയായ അന്താരാഷ്ട്ര സ്ഥാപനം ഏത്?",
+        "options": ["ഡബ്ലിയുടിഒ", "യുഎൻ", "ഐഎംഎഫ്", "ഡബ്ലിയുഎച്ച്ഒ"],
+        "answer": "യുഎൻ"
     },
     {
-        "question": "Which international body is responsible for maintaining world peace?",
-        "options": ["WTO", "UN", "IMF", "WHO"],
-        "answer": "UN"
+        "question": "2023 ൽ കാനഡയുടെ നിലവിലെ പ്രധാനമന്ത്രി ആരാണ്?",
+        "options": ["ജസ്റ്റിൻ ട്രൂഡോ", "സ്റ്റീഫൻ ഹാർപ്പർ", "ആൻഡ്രൂ ഷീർ", "എറിൻ ഓ'ടൂൾ"],
+        "answer": "ജസ്റ്റിൻ ട്രൂഡോ"
     },
     {
-        "question": "Who is the current Prime Minister of Canada (as of 2023)?",
-        "options": ["Justin Trudeau", "Stephen Harper", "Andrew Scheer", "Erin O'Toole"],
-        "answer": "Justin Trudeau"
+        "question": "യു.എസ്. ആദ്യമായി മോചന വിധിക്ക് വിധേയനായ പ്രസിഡണ്ട് ആരാണ്?",
+        "options": ["ബിൽ ക്ലിന്റൺ", "ആൻഡ്രൂ ജോൺസൺ", "റിച്ചാർഡ് നിക്സൺ", "ഡോണാൾഡ് ട്രംപ്"],
+        "answer": "ആൻഡ്രൂ ജോൺസൺ"
     },
     {
-        "question": "Who was the first U.S. President to be impeached?",
-        "options": ["Bill Clinton", "Andrew Johnson", "Richard Nixon", "Donald Trump"],
-        "answer": "Andrew Johnson"
+        "question": "ഓസ്ട്രേലിയയുടെ തലസ്ഥാനം ഏതാണ്?",
+        "options": ["സിഡ്നി", "മെൽബൺ", "കാൻബറ", "പെർത്ത്"],
+        "answer": "കാൻബറ"
     },
     {
-        "question": "What is the capital of Australia?",
-        "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
-        "answer": "Canberra"
+        "question": "ലോകത്തിൽ ഏറ്റവും പഴക്കം ചെന്ന തുടർച്ചയായ ഏകാധിപത്യരാജ്യമാണെന്ന് അറിയപ്പെടുന്ന രാജ്യം?",
+        "options": ["യുകെ", "ജപ്പാൻ", "സ്പെയിൻ", "സ്വീഡൻ"],
+        "answer": "ജപ്പാൻ"
     },
     {
-        "question": "Which country has the oldest continuous monarchy?",
-        "options": ["UK", "Japan", "Spain", "Sweden"],
-        "answer": "Japan"
+        "question": "ലോക്സഭയിൽ ഏറ്റവും കൂടുതൽ സീറ്റുകൾ ഉള്ള ഇന്ത്യൻ സംസ്ഥാനം ഏതാണ്?",
+        "options": ["മഹാരാഷ്ട്ര", "കേരളം", "ഉത്തരപ്രദേശ്", "പഞ്ചാബ്"],
+        "answer": "ഉത്തരപ്രദേശ്"
     },
     {
-        "question": "Which Indian state has the largest number of seats in Lok Sabha?",
-        "options": ["Maharashtra", "Kerala", "Uttar Pradesh", "Punjab"],
-        "answer": "Uttar Pradesh"
+        "question": "യു.എസിലെ ആദ്യത്തെ ആഫ്രോ-അമേരിക്കൻ സ്റ്റേറ്റ് സെക്രട്ടറി ആര്?",
+        "options": ["കൊണ്ടൊളീസ റൈസ്", "കോളിൻ പോവെൽ", "ഹില്ലാരി ക്ലിന്റൺ", "കമല ഹാരിസ്"],
+        "answer": "കോളിൻ പോവെൽ"
     },
     {
-        "question": "Who was the first African-American Secretary of State in the USA?",
-        "options": ["Condoleezza Rice", "Colin Powell", "Hillary Clinton", "Kamala Harris"],
-        "answer": "Colin Powell"
+        "question": "യു.എന്നിന്റെ തലസ്ഥാനം ഏത് നഗരം ആണ്?",
+        "options": ["വാഷിംഗ്ടൺ ഡി.സി.", "ജെനീവ", "ന്യൂയോർക്ക്", "പാരിസ്"],
+        "answer": "ന്യൂയോർക്ക്"
     },
     {
-        "question": "What is the capital of the United Nations?",
-        "options": ["Washington D.C.", "Geneva", "New York", "Paris"],
-        "answer": "New York"
+        "question": "2023 ൽ ഓസ്ട്രേലിയയുടെ പ്രധാനമന്ത്രി ആര്?",
+        "options": ["സ്കോട്ട് മോറിസൺ", "ആൻതണി ആൽബനീസ്", "മാൽക്കം ടേൺബുൾ", "ടോണി അബോട്ട്"],
+        "answer": "ആൻതണി ആൽബനീസ്"
     },
     {
-        "question": "Who is the current Prime Minister of Australia (as of 2023)?",
-        "options": ["Scott Morrison", "Anthony Albanese", "Malcolm Turnbull", "Tony Abbott"],
-        "answer": "Anthony Albanese"
+        "question": "പ്രീമിയർ എന്ന പദവി ഉപയോഗിക്കുന്ന രാജ്യം ഏതാണ്?",
+        "options": ["ചൈന", "ഇന്ത്യ", "യുഎസ്എ", "റഷ്യ"],
+        "answer": "ചൈന"
     },
     {
-        "question": "Which country uses the term 'Premier' for its leader?",
-        "options": ["China", "India", "USA", "Russia"],
-        "answer": "China"
+        "question": "എമ്മാനുവൽ മാക്രോൺ ഏത് രാഷ്ട്രീയ പാർട്ടിയുമായി ബന്ധപ്പെട്ടിരിക്കുന്നു?",
+        "options": ["എൻ മാർഷെ!", "റിപ്പബ്ലിക്കൻ", "സോഷ്യലിസ്റ്റുകൾ", "ഗ്രീൻസ്"],
+        "answer": "എൻ മാർഷെ!"
     },
     {
-        "question": "What political party does Emmanuel Macron belong to?",
-        "options": ["En Marche!", "Republicans", "Socialists", "Greens"],
-        "answer": "En Marche!"
+        "question": "ദക്ഷിണാഫ്രിക്കയുടെ ആദ്യത്തെ ആഫ്രോ-അമേരിക്കൻ പ്രസിഡന്റ് ആര്?",
+        "options": ["നെൽസൺ മണ്ടേല", "ജേക്കബ് സുമ", "സിറിൽ രാമഫോസ", "ഥാബോ എംബെക്കി"],
+        "answer": "നെൽസൺ മണ്ടേല"
     },
     {
-        "question": "Who was the first African-American President of South Africa?",
-        "options": ["Nelson Mandela", "Jacob Zuma", "Cyril Ramaphosa", "Thabo Mbeki"],
-        "answer": "Nelson Mandela"
+        "question": "യുകെയിലെ നിയമനിർമ്മാണ സദനം എന്താണ്?",
+        "options": ["സെനറ്റ്", "കോംഗ്രസ്സ്", "പാർലമെന്റ്", "അസംബ്ലി"],
+        "answer": "പാർലമെന്റ്"
     },
     {
-        "question": "What is the legislative body of the UK called?",
-        "options": ["Senate", "Congress", "Parliament", "Assembly"],
-        "answer": "Parliament"
+        "question": "രാജ്യസഭയിലെ ഏറ്റവും കൂടുതൽ സീറ്റുകൾ ഉള്ള ഇന്ത്യൻ സംസ്ഥാനം ഏതാണ്?",
+        "options": ["ഉത്തരപ്രദേശ്", "കേരളം", "ബീഹാർ", "തമിഴ്‌നാട്"],
+        "answer": "ഉത്തരപ്രദേശ്"
     },
     {
-        "question": "Which Indian state has the largest number of Rajya Sabha seats?",
-        "options": ["Uttar Pradesh", "Kerala", "Bihar", "Tamil Nadu"],
-        "answer": "Uttar Pradesh"
+        "question": "എന്ത് കാരണത്താൽ ബ്രെക്സിറ്റ് പ്രാരംഭിച്ചു എന്ന് അറിയപ്പെടുന്ന നേതാവ്?",
+        "options": ["തെരേസ മേ", "ഡേവിഡ് കാമറൂൺ", "ബോറിസ് ജോൺസൺ", "ടോണി ബ്ലെയർ"],
+        "answer": "ഡേവിഡ് കാമറൂൺ"
     },
     {
-        "question": "Which European country does not have a written constitution?",
-        "options": ["Germany", "France", "UK", "Spain"],
-        "answer": "UK"
+        "question": "ലോകശാന്തി നിലനിർത്താൻ ഉത്തരവാദിയായ അന്താരാഷ്ട്ര സ്ഥാപനം ഏത്?",
+        "options": ["ഡബ്ലിയുടിഒ", "യുഎൻ", "ഐഎംഎഫ്", "ഡബ്ലിയുഎച്ച്ഒ"],
+        "answer": "യുഎൻ"
     },
     {
-        "question": "Who was the first woman to serve on the U.S. Supreme Court?",
-        "options": ["Sandra Day O'Connor", "Ruth Bader Ginsburg", "Elena Kagan", "Sonia Sotomayor"],
-        "answer": "Sandra Day O'Connor"
+        "question": "2023 ൽ കാനഡയുടെ നിലവിലെ പ്രധാനമന്ത്രി ആരാണ്?",
+        "options": ["ജസ്റ്റിൻ ട്രൂഡോ", "സ്റ്റീഫൻ ഹാർപ്പർ", "ആൻഡ്രൂ ഷീർ", "എറിൻ ഓ'ടൂൾ"],
+        "answer": "ജസ്റ്റിൻ ട്രൂഡോ"
     },
     {
-        "question": "Who was the first female leader of Pakistan?",
-        "options": ["Benazir Bhutto", "Indira Gandhi", "Fatima Jinnah", "Sonia Gandhi"],
-        "answer": "Benazir Bhutto"
+        "question": "യു.എസ്. ആദ്യമായി മോചന വിധിക്ക് വിധേയനായ പ്രസിഡണ്ട് ആരാണ്?",
+        "options": ["ബിൽ ക്ലിന്റൺ", "ആൻഡ്രൂ ജോൺസൺ", "റിച്ചാർഡ് നിക്സൺ", "ഡോണാൾഡ് ട്രംപ്"],
+        "answer": "ആൻഡ്രൂ ജോൺസൺ"
     },
     {
-        "question": "What does the abbreviation 'WTO' stand for?",
-        "options": ["World Travel Org.", "World Trade Org.", "World Tourism Org.", "World Transport Org."],
-        "answer": "World Trade Org."
+        "question": "ഓസ്ട്രേലിയയുടെ തലസ്ഥാനം ഏതാണ്?",
+        "options": ["സിഡ്നി", "മെൽബൺ", "കാൻബറ", "പെർത്ത്"],
+        "answer": "കാൻബറ"
     },
     {
-        "question": "Which country was the first to grant women the right to vote?",
-        "options": ["USA", "New Zealand", "UK", "France"],
-        "answer": "New Zealand"
-    },
-    {
-        "question": "Who was the President of the United States during the Cold War's start?",
-        "options": ["Harry Truman", "Dwight Eisenhower", "John F. Kennedy", "Franklin Roosevelt"],
-        "answer": "Harry Truman"
-    },
-    {
-        "question": "Which body elects the President of India?",
-        "options": ["People", "Electoral College", "Rajya Sabha", "Supreme Court"],
-        "answer": "Electoral College"
-    },
-    {
-        "question": "Which country's government is based on Sharia law?",
-        "options": ["India", "USA", "Saudi Arabia", "Japan"],
-        "answer": "Saudi Arabia"
-    },
-    {
-        "question": "What does 'IMF' stand for?",
-        "options": ["International Monetary Fund", "Internal Market Fund", "International Market Fund", "Integrated Monetary Fund"],
-        "answer": "International Monetary Fund"
-    },
-    {
-        "question": "Who was the first U.S. President to be assassinated?",
-        "options": ["Abraham Lincoln", "James Garfield", "John F. Kennedy", "William McKinley"],
-        "answer": "Abraham Lincoln"
-    },
-    {
-        "question": "Which political leader is associated with 'glasnost' and 'perestroika'?",
-        "options": ["Joseph Stalin", "Mikhail Gorbachev", "Vladimir Putin", "Leonid Brezhnev"],
-        "answer": "Mikhail Gorbachev"
-    },
-    {
-        "question": "Who was the first woman Prime Minister of Sri Lanka?",
-        "options": ["Sirimavo Bandaranaike", "Chandrika Kumaratunga", "Indira Gandhi", "Benazir Bhutto"],
-        "answer": "Sirimavo Bandaranaike"
-    },
-    {
-        "question": "Which organization focuses on protecting human rights globally?",
-        "options": ["WTO", "IMF", "Amnesty International", "UNICEF"],
-        "answer": "Amnesty International"
-    },
-    {
-        "question": "Who was the first President of the European Commission?",
-        "options": ["Jean Monnet", "Walter Hallstein", "Jacques Delors", "Ursula von der Leyen"],
-        "answer": "Walter Hallstein"
-    },
-    {
-        "question": "Which city is home to the International Court of Justice?",
-        "options": ["Geneva", "New York", "Paris", "The Hague"],
-        "answer": "The Hague"
-    },
-    {
-        "question": "What is the main decision-making body of the UN?",
-        "options": ["UNESCO", "UNICEF", "General Assembly", "Security Council"],
-        "answer": "Security Council"
-    },
-    {
-        "question": "Who was the first woman to become President of Brazil?",
-        "options": ["Dilma Rousseff", "Cristina Fernández", "Isabel Perón", "Sirimavo Bandaranaike"],
-        "answer": "Dilma Rousseff"
-    },
-    {
-        "question": "What type of government does North Korea have?",
-        "options": ["Democracy", "Monarchy", "Dictatorship", "Communist State"],
-        "answer": "Communist State"
+        "question": "ലോകത്തിൽ ഏറ്റവും പഴക്കം ചെന്ന തുടർച്ചയായ ഏകാധിപത്യരാജ്യമാണെന്ന് അറിയപ്പെടുന്ന രാജ്യം?",
+        "options": ["യുകെ", "ജപ്പാൻ", "സ്പെയിൻ", "സ്വീഡൻ"],
+        "answer": "ജപ്പാൻ"
     }
 ]
