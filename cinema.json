@@ -1,447 +1,447 @@
 [
     {
-        "question": "Which Malayalam actor is known as 'Complete Actor'?",
-        "options": ["Mohanlal", "Mammootty", "Dulquer Salmaan", "Fahadh Faasil"],
-        "answer": "Mohanlal"
+        "question": "മലയാളത്തിലെ 'കമ്പ്ലീറ്റ് ആക്ടർ' ആയി അറിയപ്പെടുന്ന നടൻ ആരാണ്?",
+        "options": ["മോഹൻലാൽ", "മമ്മൂട്ടി", "ദുൽഖർ സൽമാൻ", "ഫഹദ് ഫാസിൽ"],
+        "answer": "മോഹൻലാൽ"
     },
     {
-        "question": "Who directed the Hindi film '3 Idiots'?",
-        "options": ["Rajkumar Hirani", "Karan Johar", "Anurag Kashyap", "Zoya Akhtar"],
-        "answer": "Rajkumar Hirani"
+        "question": "ഹിന്ദി ചിത്രമായ '3 ഇഡിയറ്റ്സ്' സംവിധാനം ചെയ്തത് ആരാണ്?",
+        "options": ["രാജ്കുമാർ ഹിരാനി", "കരൺ ജോഹർ", "അനുരാഗ് കശ്യപ്", "സോയ ആക്തർ"],
+        "answer": "രാജ്കുമാർ ഹിരാനി"
     },
     {
-        "question": "Which movie won the Best Picture Oscar in 2020?",
-        "options": ["Parasite", "1917", "Joker", "Once Upon a Time in Hollywood"],
-        "answer": "Parasite"
+        "question": "2020 ൽ ബെസ്റ്റ് പിക്ചർ ഓസ്‌കാർ നേടിയ ചിത്രം ഏതാണ്?",
+        "options": ["പരസൈറ്റ്", "1917", "ജോക്കർ", "വൺസ് അപ്പൺ എ ടൈം ഇൻ ഹോളിവുഡ്"],
+        "answer": "പരസൈറ്റ്"
     },
     {
-        "question": "Who played the role of Bahubali in the movie 'Bahubali'?",
-        "options": ["Prabhas", "Rana Daggubati", "Ram Charan", "Allu Arjun"],
-        "answer": "Prabhas"
+        "question": "'ബാഹുബലി' ചിത്രത്തിൽ ബാഹുബലി ആയി അഭിനയിച്ച നടൻ ആരാണ്?",
+        "options": ["പ്രഭാസ്", "രാണ ദഗ്ഗുബതി", "റാം ചരണ", "അല്ലു അർജുൻ"],
+        "answer": "പ്രഭാസ്"
     },
     {
-        "question": "In which year was the Malayalam movie 'Drishyam' released?",
+        "question": "മലയാളം ചിത്രമായ 'ദൃശ്യം' വർഷം ഏതാണ് റിലീസ് ചെയ്തത്?",
         "options": ["2011", "2013", "2015", "2017"],
         "answer": "2013"
     },
     {
-        "question": "Who played the role of Joker in 'The Dark Knight'?",
-        "options": ["Joaquin Phoenix", "Heath Ledger", "Jack Nicholson", "Jared Leto"],
-        "answer": "Heath Ledger"
+        "question": "'ദ ഡാർക്ക് നൈറ്റ്' എന്ന ചിത്രത്തിൽ ജോക്കർ ആയി അഭിനയിച്ച നടൻ?",
+        "options": ["ജോക്വിൻ ഫീനിക്സ്", "ഹീത്ത് ലെഡ്ജർ", "ജാക്ക് നിക്കോൽസൺ", "ജാരെഡ് ലെറ്റോ"],
+        "answer": "ഹീത്ത് ലെഡ്ജർ"
     },
     {
-        "question": "Which Hindi movie featured the song 'Jai Ho'?",
-        "options": ["Slumdog Millionaire", "Lagaan", "Swades", "Rang De Basanti"],
-        "answer": "Slumdog Millionaire"
+        "question": "'ജയ് ഹോ' എന്ന പാട്ട് ഉൾപ്പെട്ട ഹിന്ദി സിനിമ ഏതാണ്?",
+        "options": ["സ്ലംഡോഗ് മില്യണയർ", "ലഗാൻ", "സ്വദേശ്", "രംഗ് ദേ ബസന്തി"],
+        "answer": "സ്ലംഡോഗ് മില്യണയർ"
     },
     {
-        "question": "Who is the director of the Malayalam movie 'Premam'?",
-        "options": ["Alphonse Puthren", "Anwar Rasheed", "Aashiq Abu", "Lijo Jose Pellissery"],
-        "answer": "Alphonse Puthren"
+        "question": "'പ്രേമം' എന്ന ചിത്രത്തിന്റെ സംവിധായകൻ?",
+        "options": ["ആൽഫോൺസ് പുത്ത്രൻ", "അൻവർ റഷീദ്", "ആഷിക്ക് അബു", "ലിജോ ജോസ് പെല്ലിശ്ശേരി"],
+        "answer": "ആൽഫോൺസ് പുത്ത്രൻ"
     },
     {
-        "question": "Which Hollywood actor played Iron Man in the MCU?",
-        "options": ["Chris Evans", "Chris Hemsworth", "Robert Downey Jr.", "Mark Ruffalo"],
-        "answer": "Robert Downey Jr."
+        "question": "ഹോളിവുഡ് MCU-യിലെ അയൺ മാൻ ആയി അഭിനയിച്ച നടൻ?",
+        "options": ["ക്രിസ് എവൻസ്", "ക്രിസ് ഹെംസ്വർത്ത്", "റോബർട്ട് ഡൗണി ജൂനിയർ", "മാർക്ക് റഫലോ"],
+        "answer": "റോബർട്ട് ഡൗണി ജൂനിയർ"
     },
     {
-        "question": "Who is known as the 'King of Bollywood'?",
-        "options": ["Salman Khan", "Aamir Khan", "Shah Rukh Khan", "Akshay Kumar"],
-        "answer": "Shah Rukh Khan"
+        "question": "'ബോളിവുഡിലെ രാജാവ്' എന്ന് വിളിപ്പേരുള്ള നടൻ?",
+        "options": ["സൽമാൻ ഖാൻ", "ആമിർ ഖാൻ", "ഷാരൂഖ് ഖാൻ", "അക്ഷയ് കുമാർ"],
+        "answer": "ഷാരൂഖ് ഖാൻ"
     },
     {
-        "question": "Which Malayalam movie won the National Film Award in 2018?",
-        "options": ["Sudani from Nigeria", "Ee.Ma.Yau", "Kumbalangi Nights", "Unda"],
-        "answer": "Sudani from Nigeria"
+        "question": "2018 ൽ നാഷണൽ ഫിലിം അവാർഡ് നേടിയ മലയാളം സിനിമ?",
+        "options": ["സുഡാനി ഫ്രം നൈജീരിയ", "ഈ.മ.യൗ", "കുമ്പളങ്ങി നൈറ്റ്സ്", "ഉണ്ട"],
+        "answer": "സുഡാനി ഫ്രം നൈജീരിയ"
     },
     {
-        "question": "Who played the character Forrest Gump?",
-        "options": ["Tom Hanks", "Brad Pitt", "Matt Damon", "Leonardo DiCaprio"],
-        "answer": "Tom Hanks"
+        "question": "'ഫോറസ്റ്റ് ഗമ്പ്' എന്ന കഥാപാത്രത്തെ അവതരിപ്പിച്ച നടൻ?",
+        "options": ["ടോം ഹാങ്ക്സ്", "ബ്രാഡ് പിറ്റ്", "മാറ്റ് ഡെയ്മൺ", "ലിയോനാർഡോ ഡികാപ്രിയോ"],
+        "answer": "ടോം ഹാങ്ക്സ്"
     },
     {
-        "question": "Which Hindi movie was inspired by M.S. Dhoni's life?",
-        "options": ["MS Dhoni", "Sachin: A Billion Dreams", "Dangal", "Sultan"],
+        "question": "എം.എസ് ധോണിയുടെ ജീവിതം ആസ്പദമാക്കിയ ഹിന്ദി സിനിമ?",
+        "options": ["MS Dhoni", "സച്ചിൻ: എ ബില്ലിയൺ ഡ്രീംസ്", "ഡംഗൽ", "സുൽത്താൻ"],
         "answer": "MS Dhoni"
     },
     {
-        "question": "Who directed the English movie 'Titanic'?",
-        "options": ["James Cameron", "Steven Spielberg", "Christopher Nolan", "Ridley Scott"],
-        "answer": "James Cameron"
+        "question": "'ടൈറ്റാനിക്' എന്ന ഇംഗ്ലീഷ് ചിത്രത്തിന്റെ സംവിധായകൻ?",
+        "options": ["ജെയിംസ് കാമറൂൺ", "സ്റ്റീവൻ സ്പീൽബർഗ്", "ക്രിസ്റ്റഫർ നോളൻ", "റിഡ്ലി സ്കോട്ട്"],
+        "answer": "ജെയിംസ് കാമറൂൺ"
     },
     {
-        "question": "Which Hindi film won the Best Film Award at the Filmfare 2020?",
-        "options": ["Gully Boy", "Kabir Singh", "Article 15", "Super 30"],
-        "answer": "Gully Boy"
+        "question": "ഫിലിംഫെയർ 2020 ൽ ബെസ്റ്റ് ഫിലിം അവാർഡ് നേടിയ ഹിന്ദി ചിത്രം?",
+        "options": ["ഗല്ലി ബോയ്", "കബീര് സിംഗ്", "ആർട്ടിക്കിൾ 15", "സൂപ്പർ 30"],
+        "answer": "ഗല്ലി ബോയ്"
     },
     {
-        "question": "Who played the lead role in Malayalam movie 'Charlie'?",
-        "options": ["Dulquer Salmaan", "Prithviraj", "Nivin Pauly", "Fahadh Faasil"],
-        "answer": "Dulquer Salmaan"
+        "question": "'ചാർലി' എന്ന മലയാളം ചിത്രത്തിൽ പ്രധാന വേഷത്തിൽ അഭിനയിച്ച നടൻ?",
+        "options": ["ദുൽഖർ സൽമാൻ", "പൃഥ്വിരാജ്", "നിവിൻ പോളി", "ഫഹദ് ഫാസിൽ"],
+        "answer": "ദുൽഖർ സൽമാൻ"
     },
     {
-        "question": "Which Hollywood movie won the Best Visual Effects Oscar in 2019?",
-        "options": ["Avengers: Endgame", "The Lion King", "Blade Runner 2049", "1917"],
+        "question": "2019 ൽ ബെസ്റ്റ് വിഷ്വൽ എഫക്റ്റ്സ് ഓസ്‌കാർ നേടിയ ഹോളിവുഡ് സിനിമ?",
+        "options": ["അവഞ്ചേഴ്സ്: എൻഡ്ഗെയിം", "ദി ലയൺ കിംഗ്", "ബ്ലേഡ് റണ്ണർ 2049", "1917"],
         "answer": "1917"
     },
     {
-        "question": "Which actor played the lead role in Hindi movie 'PK'?",
-        "options": ["Aamir Khan", "Shah Rukh Khan", "Akshay Kumar", "Ranbir Kapoor"],
-        "answer": "Aamir Khan"
+        "question": "'PK' എന്ന ഹിന്ദി ചിത്രത്തിൽ പ്രധാന വേഷം അവതരിപ്പിച്ച നടൻ?",
+        "options": ["ആമിർ ഖാൻ", "ഷാരൂഖ് ഖാൻ", "അക്ഷയ് കുമാർ", "രൺബീർ കപൂർ"],
+        "answer": "ആമിർ ഖാൻ"
     },
     {
-        "question": "Who played the title role in Malayalam movie 'Kayamkulam Kochunni'?",
-        "options": ["Nivin Pauly", "Prithviraj", "Tovino Thomas", "Mohanlal"],
-        "answer": "Nivin Pauly"
+        "question": "'കായംകുളം കൊച്ചുണ്ണി' എന്ന ചിത്രത്തിൽ പ്രധാനവേഷം അഭിനയിച്ച നടൻ?",
+        "options": ["നിവിൻ പോളി", "പൃഥ്വിരാജ്", "ടൊവിനോ തോമസ്", "മോഹൻലാൽ"],
+        "answer": "നിവിൻ പോളി"
     },
     {
-        "question": "Which Hollywood actor starred in 'Pirates of the Caribbean'?",
-        "options": ["Johnny Depp", "Orlando Bloom", "Brad Pitt", "Chris Pratt"],
-        "answer": "Johnny Depp"
+        "question": "'പൈറേറ്റ്സ് ഓഫ് ദ കരീബിയൻ' എന്ന ഹോളിവുഡ് ചിത്രത്തിൽ അഭിനയിച്ച നടൻ?",
+        "options": ["ജോണി ഡെപ്പ്", "ഓർലാണ്ടോ ബ്ലൂം", "ബ്രാഡ് പിറ്റ്", "ക്രിസ് പ്രാറ്റ്"],
+        "answer": "ജോണി ഡെപ്പ്"
     },
     {
-        "question": "Who directed the Hindi movie 'Kabhi Khushi Kabhie Gham'?",
-        "options": ["Karan Johar", "Farhan Akhtar", "Rohit Shetty", "Zoya Akhtar"],
-        "answer": "Karan Johar"
+        "question": "'കഭി ഖുഷി കഭി ഗം' എന്ന ഹിന്ദി ചിത്രത്തിന്റെ സംവിധായകൻ?",
+        "options": ["കരൺ ജോഹർ", "ഫർഹാൻ അക്തർ", "റോഹിത് ഷെട്ടി", "സോയ ആക്തർ"],
+        "answer": "കരൺ ജോഹർ"
     },
     {
-        "question": "Which Malayalam movie starred Fahadh Faasil as a serial killer?",
-        "options": ["Iyyobinte Pusthakam", "Joji", "Kumbalangi Nights", "Malik"],
-        "answer": "Joji"
+        "question": "'ജോജി' എന്ന മലയാളം സിനിമയിൽ ഫഹദ് ഫാസിൽ സീരിയൽ കില്ലറായി അഭിനയിച്ച ചിത്രം?",
+        "options": ["ഇയോബിന്‍റെ പുസ്തകം", "ജോജി", "കുമ്പളങ്ങി നൈറ്റ്സ്", "മാലിക്"],
+        "answer": "ജോജി"
     },
     {
-        "question": "Who directed the Hollywood sci-fi movie 'Inception'?",
-        "options": ["Christopher Nolan", "Ridley Scott", "James Cameron", "Peter Jackson"],
-        "answer": "Christopher Nolan"
+        "question": "'ഇൻസെപ്ഷൻ' എന്ന ഹോളിവുഡ് സയൻസ് ഫിക്ഷൻ ചിത്രത്തിന്റെ സംവിധായകൻ?",
+        "options": ["ക്രിസ്റ്റഫർ നോളൻ", "റിഡ്ലി സ്കോട്ട്", "ജെയിംസ് കാമറൂൺ", "പീറ്റർ ജാക്സൺ"],
+        "answer": "ക്രിസ്റ്റഫർ നോളൻ"
     },
     {
-        "question": "Which Hindi movie featured the iconic dialogue 'Mogambo Khush Hua'?",
-        "options": ["Sholay", "Mr. India", "Deewar", "Don"],
-        "answer": "Mr. India"
+        "question": "'മൊഗാംബോ ഖുഷ് ഹുവാ' എന്ന ഡയലോഗ് പ്രശസ്തമായ ഹിന്ദി സിനിമ?",
+        "options": ["ശോലെ", "മിസ്റ്റർ ഇന്ത്യ", "ദീവർ", "ഡോൺ"],
+        "answer": "മിസ്റ്റർ ഇന്ത്യ"
     },
     {
-        "question": "Which Malayalam actor played the lead role in 'Banglore Days'?",
-        "options": ["Fahadh Faasil", "Nivin Pauly", "Dulquer Salmaan", "Nazriya Nazim"],
-        "answer": "Dulquer Salmaan"
+        "question": "'ബാംഗ്ലൂർ ഡെയ്സ്' എന്ന മലയാളം ചിത്രത്തിൽ അഭിനയിച്ച നായകൻ?",
+        "options": ["ഫഹദ് ഫാസിൽ", "നിവിൻ പോളി", "ദുൽഖർ സൽമാൻ", "നസ്രിയ നസീം"],
+        "answer": "ദുൽഖർ സൽമാൻ"
     },
     {
-        "question": "Which Hollywood movie is based on the life of Stephen Hawking?",
-        "options": ["Interstellar", "The Theory of Everything", "A Beautiful Mind", "The Imitation Game"],
-        "answer": "The Theory of Everything"
+        "question": "സ്റ്റീഫൻ ഹോക്കിംഗ്‌നെ ആസ്പദമാക്കി നിർമ്മിച്ച ഹോളിവുഡ് ചിത്രം?",
+        "options": ["ഇന്റർസ്റ്റെല്ലാർ", "ദി തിയറി ഓഫ് എവ്രിതിംഗ്", "എ ബ്യൂട്ടിഫുൾ മൈൻഡ്", "ദി ഇമിറ്റേഷൻ ഗെയിം"],
+        "answer": "ദി തിയറി ഓഫ് എവ്രിതിംഗ്"
     },
     {
-        "question": "Which actor played the lead role in Hindi movie 'Dangal'?",
-        "options": ["Aamir Khan", "Salman Khan", "Akshay Kumar", "Shahid Kapoor"],
-        "answer": "Aamir Khan"
+        "question": "'ഡങ്കൽ' എന്ന ചിത്രത്തിൽ മഹാവീർ സിങ് ഫോഗാട്ടായി അഭിനയിച്ച നടൻ?",
+        "options": ["ആമിർ ഖാൻ", "സൽമാൻ ഖാൻ", "അക്ഷയ് കുമാർ", "ഷാഹിദ് കപൂർ"],
+        "answer": "ആമിർ ഖാൻ"
     },
     {
-        "question": "Who played the role of a blind pianist in 'Andhadhun'?",
-        "options": ["Ayushmann Khurrana", "Rajkummar Rao", "Vicky Kaushal", "Ranveer Singh"],
-        "answer": "Ayushmann Khurrana"
+        "question": "'ആൻധാദുന്' എന്ന ഹിന്ദി ചിത്രത്തിൽ കാഴ്ചമില്ലാത്ത പിയാനിസ്റ്റായി അഭിനയിച്ച നടൻ?",
+        "options": ["അയുഷ്മാൻ ഖുറാന", "രാജ്കുമാർ റാവു", "വിക്കി കൗശൽ", "രൺവീർ സിംഗ്"],
+        "answer": "അയുഷ്മാൻ ഖുറാന"
     },
     {
-        "question": "Which Malayalam director is known for his movie 'Angamaly Diaries'?",
-        "options": ["Lijo Jose Pellissery", "Alphonse Puthren", "Aashiq Abu", "Anwar Rasheed"],
-        "answer": "Lijo Jose Pellissery"
+        "question": "'അങ്ങാമലി ഡയറീസ്' എന്ന ചിത്രത്തിന്റെ മലയാളം സംവിധായകൻ?",
+        "options": ["ലിജോ ജോസ് പെല്ലിശ്ശേരി", "ആൽഫോൺസ് പുത്ത്രൻ", "ആഷിക് അബു", "അൻവർ റഷീദ്"],
+        "answer": "ലിജോ ജോസ് പെല്ലിശ്ശേരി"
     },
     {
-        "question": "Which Hollywood movie won the Best Picture Oscar in 1998?",
-        "options": ["Titanic", "Saving Private Ryan", "Good Will Hunting", "Shakespeare in Love"],
-        "answer": "Shakespeare in Love"
+        "question": "'1998 ൽ ബെസ്റ്റ് പിക്ചർ ഓസ്കാർ നേടിയ ഹോളിവുഡ് സിനിമ?",
+        "options": ["ടൈറ്റാനിക്", "സേവിംഗ് പ്രൈവറ്റ് റയാൻ", "ഗുഡ് വിൽ ഹണ്ടിംഗ്", "ഷേക്സ്പിയർ ഇൻ ലവ്"],
+        "answer": "ഷേക്സ്പിയർ ഇൻ ലവ്"
     },
     {
-        "question": "Which actress played the lead in Hindi movie 'Queen'?",
-        "options": ["Kangana Ranaut", "Alia Bhatt", "Deepika Padukone", "Priyanka Chopra"],
-        "answer": "Kangana Ranaut"
+        "question": "'ക്വീൻ' എന്ന ചിത്രത്തിൽ പ്രധാന വേഷം ചെയ്ത നടി?",
+        "options": ["കങ്കണ റണൗട്ട്", "ആലിയ ഭട്ട്", "ദീപിക പദുക്കോൺ", "പ്രിയങ്ക ചോപ്ര"],
+        "answer": "കങ്കണ റണൗട്ട്"
     },
     {
-        "question": "Which Malayalam movie was India's official entry to the Oscars in 2021?",
-        "options": ["Jallikattu", "Joji", "Kumbalangi Nights", "Virus"],
-        "answer": "Jallikattu"
+        "question": "'2021 ൽ ഓസ്കാർ പുരസ്കാരത്തിന് ഇന്ത്യയുടെ ഔദ്യോഗിക എൻട്രിയായ മലയാളം സിനിമ?",
+        "options": ["ജല്ലിക്കട്ട്", "ജോജി", "കുമ്പളങ്ങി നൈറ്റ്സ്", "വൈറസ്"],
+        "answer": "ജല്ലിക്കട്ട്"
     },
     {
-        "question": "Who played the role of Spider-Man in 'Spider-Man: Homecoming'?",
-        "options": ["Andrew Garfield", "Tom Holland", "Tobey Maguire", "Chris Evans"],
-        "answer": "Tom Holland"
+        "question": "'സ്പൈഡർ-മാൻ: ഹോംകമിങ്' എന്ന ചിത്രത്തിൽ സ്പൈഡർ-മാനായി അഭിനയിച്ച നടൻ?",
+        "options": ["ആൻഡ്രൂ ഗാർഫീൽഡ്", "ടോം ഹോളണ്ട്", "ടോബി മഗ്വയർ", "ക്രിസ് എവൻസ്"],
+        "answer": "ടോം ഹോളണ്ട്"
     },
     {
-        "question": "Which Hindi movie features the song 'Tum Hi Ho'?",
-        "options": ["Aashiqui 2", "Kal Ho Na Ho", "Kabir Singh", "Rockstar"],
-        "answer": "Aashiqui 2"
+        "question": "'തും ഹി ഹോ' എന്ന പാട്ട് ഉൾപ്പെട്ട ഹിന്ദി സിനിമ?",
+        "options": ["ആഷിക്കി 2", "കല് ഹോ നാ ഹോ", "കബീര് സിംഗ്", "റോക്സ്റ്റാർ"],
+        "answer": "ആഷിക്കി 2"
     },
     {
-        "question": "Which Malayalam actor played the lead role in 'Drishyam'?",
-        "options": ["Mohanlal", "Mammootty", "Prithviraj", "Dulquer Salmaan"],
-        "answer": "Mohanlal"
+        "question": "'ദൃശ്യം' എന്ന ചിത്രത്തിൽ പ്രധാന വേഷം ചെയ്ത മലയാളം നടൻ?",
+        "options": ["മോഹൻലാൽ", "മമ്മൂട്ടി", "പൃഥ്വിരാജ്", "ദുൽഖർ സൽമാൻ"],
+        "answer": "മോഹൻലാൽ"
     },
     {
-        "question": "Who directed the Hollywood war movie 'Dunkirk'?",
-        "options": ["Christopher Nolan", "Steven Spielberg", "Ridley Scott", "James Cameron"],
-        "answer": "Christopher Nolan"
+        "question": "'ഡങ്കിർക്' എന്ന ഹോളിവുഡ് യുദ്ധ ചിത്രത്തിന്റെ സംവിധായകൻ?",
+        "options": ["ക്രിസ്റ്റഫർ നോളൻ", "സ്റ്റീവൻ സ്പീൽബർഗ്", "റിഡ്ലി സ്കോട്ട്", "ജെയിംസ് കാമറൂൺ"],
+        "answer": "ക്രിസ്റ്റഫർ നോളൻ"
     },
     {
-        "question": "Which Hindi movie is based on the life of boxer Mary Kom?",
-        "options": ["Mary Kom", "Sultan", "Dangal", "Panga"],
-        "answer": "Mary Kom"
+        "question": "'മേരി കോം' എന്ന ഹിന്ദി സിനിമ കുസരിപ്പിറ ബോക്സറായ മേരി കോമിന്റെ ജീവിതത്തെ ആസ്പദമാക്കി?",
+        "options": ["മേരി കോം", "സുൽത്താൻ", "ഡംഗൽ", "പംഗ"],
+        "answer": "മേരി കോം"
     },
     {
-        "question": "Which Malayalam actor starred in 'Thondimuthalum Driksakshiyum'?",
-        "options": ["Fahadh Faasil", "Dulquer Salmaan", "Prithviraj", "Nivin Pauly"],
-        "answer": "Fahadh Faasil"
+        "question": "'തൊണ്ടിമുതലും ദൃക്സാക്ഷിയും' എന്ന ചിത്രത്തിലെ നടൻ?",
+        "options": ["ഫഹദ് ഫാസിൽ", "ദുൽഖർ സൽമാൻ", "പൃഥ്വിരാജ്", "നിവിൻ പോളി"],
+        "answer": "ഫഹദ് ഫാസിൽ"
     },
     {
-        "question": "Which Hollywood movie is based on the book 'The Lord of the Rings'?",
-        "options": ["Harry Potter", "The Hobbit", "The Lord of the Rings", "Percy Jackson"],
-        "answer": "The Lord of the Rings"
+        "question": "'ലോർഡ് ഓഫ് ദ റിംഗ്‌സ്' എന്ന പുസ്തകത്തെ ആസ്പദമാക്കി നിർമ്മിച്ച ഹോളിവുഡ് സിനിമ?",
+        "options": ["ഹാരി പോട്ടർ", "ദ ഹോബിറ്റ്", "ദി ലോർഡ് ഓഫ് ദ റിംഗ്സ്", "പേഴ്‌സി ജാക്സൺ"],
+        "answer": "ദി ലോർഡ് ഓഫ് ദ റിംഗ്സ്"
     },
     {
-        "question": "Who played the role of Geet in Hindi movie 'Jab We Met'?",
-        "options": ["Kareena Kapoor", "Priyanka Chopra", "Alia Bhatt", "Deepika Padukone"],
-        "answer": "Kareena Kapoor"
+        "question": "'ജബ് വീ മെറ്റ്' എന്ന ചിത്രത്തിൽ ഗീതയായി അഭിനയിച്ച നടി?",
+        "options": ["കരീന കപൂർ", "പ്രിയങ്ക ചോപ്ര", "ആലിയ ഭട്ട്", "ദീപിക പദുക്കോൺ"],
+        "answer": "കരീന കപൂർ"
     },
     {
-        "question": "Which Malayalam movie features Mammootty in the role of a journalist?",
-        "options": ["The Great Father", "New Delhi", "Unda", "Peranbu"],
-        "answer": "New Delhi"
+        "question": "'ന്യൂ ഡൽഹി' എന്ന മലയാളം സിനിമയിൽ മമ്മൂട്ടി ഒരു പത്രപ്രവർത്തകനായി അഭിനയിക്കുന്നു?",
+        "options": ["ദി ഗ്രേറ്റ് ഫാദർ", "ന്യൂ ഡൽഹി", "ഉണ്ട", "പെരൻബു"],
+        "answer": "ന്യൂ ഡൽഹി"
     },
     {
-        "question": "Which Hollywood director is known for the movie 'Jurassic Park'?",
-        "options": ["Steven Spielberg", "James Cameron", "Christopher Nolan", "Ridley Scott"],
-        "answer": "Steven Spielberg"
+        "question": "'ജുറാസിക് പാർക്ക്' എന്ന ചിത്രത്തിന്റെ ഹോളിവുഡ് സംവിധായകൻ?",
+        "options": ["സ്റ്റീവൻ സ്പീൽബർഗ്", "ജെയിംസ് കാമറൂൺ", "ക്രിസ്റ്റഫർ നോളൻ", "റിഡ്ലി സ്കോട്ട്"],
+        "answer": "സ്റ്റീവൻ സ്പീൽബർഗ്"
     },
     {
-        "question": "Which Hindi film was India's entry to the Oscars in 2020?",
-        "options": ["Gully Boy", "Article 15", "Kabir Singh", "Super 30"],
-        "answer": "Gully Boy"
+        "question": "'ഗല്ലി ബോയ്' 2020 ൽ ഓസ്കാർ പുരസ്കാരത്തിന് ഇന്ത്യയുടെ ഔദ്യോഗിക എൻട്രി?",
+        "options": ["ഗല്ലി ബോയ്", "ആൻധാദുന്", "ആർട്ടിക്കിൾ 15", "സൂപ്പർ 30"],
+        "answer": "ഗല്ലി ബോയ്"
     },
     {
-        "question": "Which Malayalam actor starred in 'Take Off'?",
-        "options": ["Parvathy", "Fahadh Faasil", "Kunchacko Boban", "Tovino Thomas"],
-        "answer": "Parvathy"
+        "question": "'ടേക്ക് ഓഫ്' എന്ന മലയാളം ചിത്രത്തിലെ നായിക?",
+        "options": ["പർവതി", "ഫഹദ് ഫാസിൽ", "കുഞ്ചാക്കോ ബോബൻ", "ടൊവിനോ തോമസ്"],
+        "answer": "പർവതി"
     },
     {
-        "question": "Who played the character of James Bond in 'Casino Royale'?",
-        "options": ["Daniel Craig", "Pierce Brosnan", "Sean Connery", "Roger Moore"],
-        "answer": "Daniel Craig"
+        "question": "'കാസിനോ റോയാൽ' എന്ന ചിത്രത്തിൽ ജെയിംസ് ബോണ്ടായി അഭിനയിച്ച നടൻ?",
+        "options": ["ഡാനിയൽ ക്രെയ്ഗ്", "പിയേഴ്‌സ് ബ്രോസ്നൻ", "ഷോൺ കോണറി", "റോജർ മൂർ"],
+        "answer": "ഡാനിയൽ ക്രെയ്ഗ്"
     },
     {
-        "question": "Who directed the Malayalam movie 'Ustad Hotel'?",
-        "options": ["Anwar Rasheed", "Lijo Jose Pellissery", "Aashiq Abu", "Alphonse Puthren"],
-        "answer": "Anwar Rasheed"
+        "question": "'ഉസ്താദ് ഹോട്ടൽ' എന്ന സിനിമയുടെ സംവിധായകൻ?",
+        "options": ["അൻവർ റഷീദ്", "ലിജോ ജോസ് പെല്ലിശ്ശേരി", "ആഷിക് അബു", "ആൽഫോൺസ് പുത്ത്രൻ"],
+        "answer": "അൻവർ റഷീദ്"
     },
     {
-        "question": "Which Hindi film featured the character 'Munna Bhai'?",
-        "options": ["Lage Raho Munna Bhai", "PK", "3 Idiots", "Sholay"],
-        "answer": "Lage Raho Munna Bhai"
+        "question": "'ലഗേ രഹോ മുന്നാഭായ്' എന്ന സിനിമയിൽ മുന്നാഭായിയായി അഭിനയിച്ച കഥാപാത്രം?",
+        "options": ["ലഗേ രഹോ മുന്നാഭായ്", "PK", "3 ഇഡിയറ്റ്സ്", "ശോലെ"],
+        "answer": "ലഗേ രഹോ മുന്നാഭായ്"
     },
     {
-        "question": "Who directed the Hollywood movie 'Avatar'?",
-        "options": ["James Cameron", "Steven Spielberg", "Ridley Scott", "Christopher Nolan"],
-        "answer": "James Cameron"
+        "question": "'അവതാർ' എന്ന സിനിമയുടെ സംവിധായകൻ?",
+        "options": ["ജെയിംസ് കാമറൂൺ", "സ്റ്റീവൻ സ്പീൽബർഗ്", "റിഡ്ലി സ്കോട്ട്", "ക്രിസ്റ്റഫർ നോളൻ"],
+        "answer": "ജെയിംസ് കാമറൂൺ"
     },
     {
-        "question": "Which Malayalam actor starred in 'Kumbalangi Nights'?",
-        "options": ["Fahadh Faasil", "Mammootty", "Mohanlal", "Prithviraj"],
-        "answer": "Fahadh Faasil"
+        "question": "'കുംബളങ്ങി നൈറ്റ്സ്' എന്ന ചിത്രത്തിൽ അഭിനയിച്ച നടൻ?",
+        "options": ["ഫഹദ് ഫാസിൽ", "മമ്മൂട്ടി", "മോഹൻലാൽ", "പൃഥ്വിരാജ്"],
+        "answer": "ഫഹദ് ഫാസിൽ"
     },
     {
-        "question": "Who played the character 'Gabbar Singh' in 'Sholay'?",
-        "options": ["Amjad Khan", "Amitabh Bachchan", "Dharmendra", "Sanjeev Kumar"],
-        "answer": "Amjad Khan"
+        "question": "'ഗബ്ബാർ സിങ്' എന്ന കഥാപാത്രത്തെ അവതരിപ്പിച്ച 'ശോലെ' എന്ന സിനിമയിലെ നടൻ?",
+        "options": ["അംജദ് ഖാൻ", "അമിതാഭ് ബച്ചൻ", "ധർമേന്ദ്ര", "സഞ്ജീവ്കുമാർ"],
+        "answer": "അംജദ് ഖാൻ"
     },
     {
-        "question": "Who played 'Harry Potter' in the movie series?",
-        "options": ["Daniel Radcliffe", "Rupert Grint", "Tom Felton", "Elijah Wood"],
-        "answer": "Daniel Radcliffe"
+        "question": "'ഹാരി പോട്ടർ' എന്ന സിനിമ സീരീസിൽ ഹാരി പോട്ടറായി അഭിനയിച്ച നടൻ?",
+        "options": ["ഡാനിയൽ റാഡ്ക്ലിഫ്", "രൂപർട്ട് ഗ്രിന്റ്", "ടോം ഫെൽട്ടൺ", "എലൈജ വുഡ്"],
+        "answer": "ഡാനിയൽ റാഡ്ക്ലിഫ്"
     },
     {
-        "question": "Which Hindi movie featured the iconic song 'Chaiyya Chaiyya'?",
-        "options": ["Dil Se", "Kabhi Khushi Kabhie Gham", "Dilwale", "Kal Ho Naa Ho"],
-        "answer": "Dil Se"
+        "question": "'ചയ്യ ചയ്യ' എന്ന പ്രശസ്ത ഗാനത്തിനുള്'പ്പെട്ട ഹിന്ദി സിനിമ?",
+        "options": ["ദിൽ സേ", "കഭി ഖുഷി കഭി ഗം", "ദിൽവാലെ", "കൽ ഹോ നാ ഹോ"],
+        "answer": "ദിൽ സേ"
     },
     {
-        "question": "Who played the lead role in the Hollywood movie 'Gladiator'?",
-        "options": ["Russell Crowe", "Brad Pitt", "Leonardo DiCaprio", "Tom Cruise"],
-        "answer": "Russell Crowe"
+        "question": "'ഗ്ലാഡിയേറ്റർ' എന്ന ഹോളിവുഡ് സിനിമയിൽ പ്രധാന വേഷം ചെയ്ത നടൻ?",
+        "options": ["റസ്സൽ ക്രോ", "ബ്രാഡ് പിറ്റ്", "ലിയോനാർഡോ ഡികാപ്രിയോ", "ടോം ക്രൂസ്"],
+        "answer": "റസ്സൽ ക്രോ"
     },
     {
-        "question": "Which Malayalam film is known for its iconic climax at a court trial?",
-        "options": ["Drishyam", "Chinthavishtayaya Shyamala", "Vellanakalude Nadu", "Oru CBI Diary Kurippu"],
-        "answer": "Drishyam"
+        "question": "'വകിടിലായ വിചാരണയിൽ പ്രസിദ്ധമായ ക്ലൈമാക്സിൽ പ്രശസ്തമായ മലയാളം സിനിമ?",
+        "options": ["ദൃശ്യം", "ചിന്താവിഷ്ടയായ ശ്യാമള", "വെള്ളാനകളുടെ നാട്", "ഒരു CBI ഡയറിക്കുറിപ്പ്"],
+        "answer": "ദൃശ്യം"
     },
     {
-        "question": "Which Hindi movie is based on the life of wrestler Mahavir Singh Phogat?",
-        "options": ["Dangal", "Sultan", "Mukkabaaz", "Toofaan"],
-        "answer": "Dangal"
+        "question": "'മഹാവീർ സിംഗ് ഫോഗട്ട്' എന്ന സാഹസികമായ ജിമ്മറിന്റെ കഥയെ ആസ്പദമാക്കി നിർമ്മിച്ച ഹിന്ദി സിനിമ?",
+        "options": ["ഡങ്കൽ", "സുൽത്താൻ", "മുക്കാബാസ്", "തുഫാൻ"],
+        "answer": "ഡങ്കൽ"
     },
     {
-        "question": "Which Hollywood actor played Captain Jack Sparrow?",
-        "options": ["Johnny Depp", "Tom Hanks", "Robert Downey Jr.", "Brad Pitt"],
-        "answer": "Johnny Depp"
+        "question": "'ക്യാപ്റ്റൻ ജാക്ക് സ്പാരോ' എന്ന സിനിമയിലെ പ്രധാന വേഷം ചെയ്ത ഹോളിവുഡ് നടൻ?",
+        "options": ["ജോണി ഡെപ്പ്", "ടോം ഹാങ്ക്സ്", "റോബർട്ട് ഡൗണി ജൂനിയർ", "ബ്രാഡ് പിറ്റ്"],
+        "answer": "ജോണി ഡെപ്പ്"
     },
     {
-        "question": "Which Malayalam actor starred in the movie 'Bangalore Days'?",
-        "options": ["Dulquer Salmaan", "Nivin Pauly", "Mohanlal", "Mammootty"],
-        "answer": "Dulquer Salmaan"
+        "question": "'ബാംഗ്ലൂർ ഡെയ്സ്' എന്ന സിനിമയിൽ അഭിനയിച്ച മലയാളം നടൻ?",
+        "options": ["ദുൽഖർ സൽമാൻ", "നിവിൻ പോളി", "മോഹൻലാൽ", "മമ്മൂട്ടി"],
+        "answer": "ദുൽഖർ സൽമാൻ"
     },
     {
-        "question": "Which Hindi movie won the National Film Award for Best Film in 2019?",
-        "options": ["Andhadhun", "Article 15", "Gully Boy", "Super 30"],
-        "answer": "Andhadhun"
+        "question": "'ആൻധാദുന്' എന്ന ഹിന്ദി സിനിമ ദേശീയ ഫിലിം അവാർഡുകൾ 2019 ൽ നേടിയ സിനിമ?",
+        "options": ["ആൻധാദുന്", "ആർട്ടിക്കിൾ 15", "ഗല്ലി ബോയ്", "സൂപ്പർ 30"],
+        "answer": "ആൻധാദുന്"
     },
     {
-        "question": "Which Hollywood movie features the characters 'Woody' and 'Buzz Lightyear'?",
-        "options": ["Toy Story", "Finding Nemo", "Shrek", "The Incredibles"],
-        "answer": "Toy Story"
+        "question": "'ടോയ് സ്റ്റോറി' എന്ന ഹോളിവുഡ് ചിത്രത്തിലെ 'വുഡി' എന്ന കഥാപാത്രം ആരാണ്?",
+        "options": ["ടോയ് സ്റ്റോറി", "ഫൈൻഡിങ് നിമോ", "ഷ്രെക്", "ദി ഇൻക്രെഡിബിൾസ്"],
+        "answer": "ടോയ് സ്റ്റോറി"
     },
     {
-        "question": "Which Malayalam movie marked the debut of director Vineeth Sreenivasan?",
-        "options": ["Malarvadi Arts Club", "Jacobinte Swargarajyam", "Thattathin Marayathu", "Hridayam"],
-        "answer": "Malarvadi Arts Club"
+        "question": "'മലർവാടി ആർട്സ് ക്ലബ്' എന്ന സിനിമ മലയാളത്തിൽ ആദ്യമായി സംവിധാനം ചെയ്ത സംവിധായകൻ?",
+        "options": ["വിനീത് ശ്രീനിവാസൻ", "ജാക്കോബ് ഇന്റെ സ്വർഗരാജ്യം", "തട്ടത്തിൻ മരയത്ത്", "ഹൃദയം"],
+        "answer": "മലർവാടി ആർട്സ് ക്ലബ്"
     },
     {
-        "question": "Who played the role of Sanjay Dutt in the Hindi movie 'Sanju'?",
-        "options": ["Ranbir Kapoor", "Ranveer Singh", "Ayushmann Khurrana", "Rajkummar Rao"],
-        "answer": "Ranbir Kapoor"
+        "question": "'സഞ്ജു' എന്ന ചിത്രത്തിൽ സഞ്ജയ് ദുട്ടായി അഭിനയിച്ച നടൻ?",
+        "options": ["റൺബീർ കപൂർ", "രൺവീർ സിംഗ്", "അയുഷ്മാൻ ഖുറാന", "രാജ്കുമാർ റാവു"],
+        "answer": "റൺബീർ കപൂർ"
     },
     {
-        "question": "Which Hollywood movie is set in the wizarding world of Hogwarts?",
-        "options": ["Harry Potter", "Lord of the Rings", "The Hobbit", "Narnia"],
-        "answer": "Harry Potter"
+        "question": "'ഹാരിപോട്ടർ' എന്ന ചിത്രത്തിലെ ഹോഗ്വാർട്‌സിലെ വിദ്യാലയത്തിൽ നായകനായ ഹോളിവുഡ് സിനിമ?",
+        "options": ["ഹാരി പോട്ടർ", "ലോർഡ് ഓഫ് ദ റിംഗ്‌സ്", "ഹോബിറ്റ്", "നാർണിയ"],
+        "answer": "ഹാരി പോട്ടർ"
     },
     {
-        "question": "Which Hindi movie features the famous dialogue 'Mere paas maa hai'?",
-        "options": ["Deewar", "Sholay", "Don", "Agneepath"],
-        "answer": "Deewar"
+        "question": "'മേരെ പാസ് മാ ഹേ' എന്ന പ്രശസ്ത ഡയലോഗ് ഉള്ള ഹിന്ദി സിനിമ?",
+        "options": ["ദീവാർ", "ശോലെ", "ഡോൺ", "അഗ്നിപഥ്"],
+        "answer": "ദീവാർ"
     },
     {
-        "question": "Which Malayalam movie featured Prithviraj as a police officer?",
-        "options": ["Mumbai Police", "7th Day", "Memories", "All of the above"],
-        "answer": "All of the above"
+        "question": "'മുംബൈ പോലീസ്' എന്ന സിനിമയിൽ പൃഥ്വിരാജ് പൊലീസുകാരനായി അഭിനയിച്ച മലയാളം സിനിമ?",
+        "options": ["മുംബൈ പോലീസ്", "7th ഡേ", "മെമ്മറീസ്", "മുകളിൽപ്പറഞ്ഞ എല്ലാ സിനിമകളും"],
+        "answer": "മുകളിൽപ്പറഞ്ഞ എല്ലാ സിനിമകളും"
     },
     {
-        "question": "Who played the lead role in the Hollywood movie 'The Revenant'?",
-        "options": ["Leonardo DiCaprio", "Tom Hardy", "Matt Damon", "Christian Bale"],
-        "answer": "Leonardo DiCaprio"
+        "question": "'ദി റെവനന്റ്' എന്ന ചിത്രത്തിൽ ലിയോനാർഡോ ഡികാപ്രിയോ പ്രധാനവേഷം ചെയ്ത ചിത്രത്തിന്റെ സംവിധായകൻ?",
+        "options": ["ലിയോനാർഡോ ഡികാപ്രിയോ", "ടോം ഹാർഡി", "മാറ്റ് ഡെയ്മൺ", "ക്രിസ്റ്റ്യൻ ബെയ്‌ൽ"],
+        "answer": "ലിയോനാർഡോ ഡികാപ്രിയോ"
     },
     {
-        "question": "Which Hindi movie was the official Indian entry for the Oscars in 2019?",
-        "options": ["Gully Boy", "Andhadhun", "Article 15", "Super 30"],
-        "answer": "Gully Boy"
+        "question": "'ഗല്ലി ബോയ്' എന്ന ചിത്രത്തിന് 2019 ൽ ഇന്ത്യയുടെ ഔദ്യോഗിക ഓസ്കാർ എൻട്രി?",
+        "options": ["ഗല്ലി ബോയ്", "ആൻധാദുന്", "ആർട്ടിക്കിൾ 15", "സൂപ്പർ 30"],
+        "answer": "ഗല്ലി ബോയ്"
     },
     {
-        "question": "Which Malayalam movie won the Kerala State Film Award for Best Film in 2020?",
-        "options": ["Ayyappanum Koshiyum", "Jallikattu", "Thondimuthalum Driksakshiyum", "Virus"],
-        "answer": "Ayyappanum Koshiyum"
+        "question": "'അയ്യപ്പനും കോശിയും' 2020 ൽ കേരള സംസ്ഥാന സിനിമ അവാർഡ് നേടിയ മലയാളം സിനിമ?",
+        "options": ["അയ്യപ്പനും കോശിയും", "ജല്ലിക്കട്ട്", "തൊണ്ടിമുതലും ദൃക്സാക്ഷിയും", "വൈറസ്"],
+        "answer": "അയ്യപ്പനും കോശിയും"
     },
     {
-        "question": "Who directed the Hollywood movie 'Interstellar'?",
-        "options": ["Christopher Nolan", "Steven Spielberg", "James Cameron", "Ridley Scott"],
-        "answer": "Christopher Nolan"
+        "question": "'ഇന്റർസ്റ്റെല്ലാർ' എന്ന സിനിമയുടെ ഹോളിവുഡ് സംവിധാനം?',
+        "options": ["ക്രിസ്റ്റഫർ നോളൻ", "സ്റ്റീവൻ സ്പീൽബർഗ്", "ജെയിംസ് കാമറൂൺ", "റിഡ്ലി സ്കോട്ട്"],
+        "answer": "ക്രിസ്റ്റഫർ നോളൻ"
     },
     {
-        "question": "Which Malayalam actor played the lead role in 'Pavithram'?",
-        "options": ["Mohanlal", "Mammootty", "Prithviraj", "Fahadh Faasil"],
-        "answer": "Mohanlal"
+        "question": "'പവിത്രം' എന്ന സിനിമയിൽ അഭിനയിച്ച മലയാളം നടൻ?",
+        "options": ["മോഹൻലാൽ", "മമ്മൂട്ടി", "പൃഥ്വിരാജ്", "ഫഹദ് ഫാസിൽ"],
+        "answer": "മോഹൻലാൽ"
     },
     {
-        "question": "Which Hindi movie features the character 'Rancho' played by Aamir Khan?",
-        "options": ["3 Idiots", "PK", "Taare Zameen Par", "Dhoom 3"],
-        "answer": "3 Idiots"
+        "question": "'റാഞ്ചോ' എന്ന കഥാപാത്രത്തെ ഹിന്ദി സിനിമയിൽ അവതരിപ്പിച്ച നടൻ?",
+        "options": ["3 ഇഡിയറ്റ്സ്", "PK", "താരേ ജമീൻ പര", "ധൂം 3"],
+        "answer": "3 ഇഡിയറ്റ്സ്"
     },
     {
-        "question": "Which Hollywood movie features the characters 'Batman' and 'Joker'?",
-        "options": ["The Dark Knight", "Avengers", "Spider-Man", "Superman"],
-        "answer": "The Dark Knight"
+        "question": "'ബാറ്റ്മാൻ' ,'ജോക്കർ' എന്നീ കഥാപാത്രങ്ങളെ ഹോളിവുഡ് സിനിമയിൽ അവതരിപ്പിച്ച ചിത്രം?",
+        "options": ["ദ ഡാർക്ക് നൈറ്റ്", "അവഞ്ചേഴ്സ്", "സ്പൈഡർ-മാൻ", "സൂപ്പർമാൻ"],
+        "answer": "ദ ഡാർക്ക് നൈറ്റ്"
     },
     {
-        "question": "Which Malayalam director is known for his work in 'Ee Ma Yau'?",
-        "options": ["Lijo Jose Pellissery", "Aashiq Abu", "Anwar Rasheed", "Vineeth Sreenivasan"],
-        "answer": "Lijo Jose Pellissery"
+        "question": "'ഈ.മ.യൗ' എന്ന ചിത്രത്തിലെ മലയാളം സംവിധായകൻ?",
+        "options": ["ലിജോ ജോസ് പെല്ലിശ്ശേരി", "ആഷിക് അബു", "അൻവർ റഷീദ്", "വിനീത് ശ്രീനിവാസൻ"],
+        "answer": "ലിജോ ജോസ് പെല്ലിശ്ശേരി"
     },
     {
-        "question": "Which Hindi movie featured the iconic song 'Ek Do Teen'?",
-        "options": ["Tezaab", "Dil", "Hum Aapke Hain Koun", "Beta"],
-        "answer": "Tezaab"
+        "question": "'എക് ദോ തീൻ' എന്ന പ്രശസ്ത ഗാനത്തിനുള്'പ്പെട്ട ഹിന്ദി സിനിമ?",
+        "options": ["തേസാബ്", "ദിൽ", "ഹും ആപ്കേ ഹേ കൌൻ", "ബീറ്റ"],
+        "answer": "തേസാബ്"
     },
     {
-        "question": "Who played the lead role in the Malayalam movie 'Kali'?",
-        "options": ["Dulquer Salmaan", "Nivin Pauly", "Tovino Thomas", "Fahadh Faasil"],
-        "answer": "Dulquer Salmaan"
+        "question": "'കാളി' എന്ന ചിത്രത്തിലെ നായകൻ?",
+        "options": ["ദുൽഖർ സൽമാൻ", "നിവിൻ പോളി", "ടൊവിനോ തോമസ്", "ഫഹദ് ഫാസിൽ"],
+        "answer": "ദുൽഖർ സൽമാൻ"
     },
     {
-        "question": "Which Hollywood movie is about a sinking ship and won 11 Oscars?",
-        "options": ["Titanic", "The Poseidon Adventure", "Master and Commander", "Jaws"],
-        "answer": "Titanic"
+        "question": "'ടൈറ്റാനിക്' എന്ന 11 ഓസ്കാർ പുരസ്കാരങ്ങൾ നേടിയ ഹോളിവുഡ് സിനിമയിൽ?",
+        "options": ["ടൈറ്റാനിക്", "ദി പോസൈഡൺ അഡ്വഞ്ചർ", "മാസ്റ്റർ ആൻഡ് കമാൻഡർ", "ജോസ്"],
+        "answer": "ടൈറ്റാനിക്"
     },
     {
-        "question": "Who directed the Hindi movie 'Zindagi Na Milegi Dobara'?",
-        "options": ["Zoya Akhtar", "Farhan Akhtar", "Karan Johar", "Imtiaz Ali"],
-        "answer": "Zoya Akhtar"
+        "question": "'സോയ ആക്തർ' 'സിന്ദഗി ന മിലേഗി ദോബാരാ' എന്ന സിനിമയുടെ സംവിധായകൻ?",
+        "options": ["സോയ ആക്തർ", "ഫർഹാൻ അക്തർ", "കരൺ ജോഹർ", "ഇമ്തിയാസ് അലി"],
+        "answer": "സോയ ആക്തർ"
     },
     {
-        "question": "Which Malayalam movie features the life of a gangster named 'Bheekaran'?",
-        "options": ["Kammatti Paadam", "Angamaly Diaries", "Lijo Jose Pellissery", "Sakhavu"],
-        "answer": "Kammatti Paadam"
+        "question": "'കമ്മട്ടിപ്പാടം' എന്ന സിനിമയിലെ 'ഭീകരൻ' എന്ന കഥാപാത്രത്തെ അവതരിപ്പിച്ച നടൻ?",
+        "options": ["ദുൽഖർ സൽമാൻ", "അങ്ങാമലി ഡയറീസ്", "ലിജോ ജോസ് പെല്ലിശ്ശേരി", "സഖാവ്"],
+        "answer": "കമ്മട്ടിപ്പാടം"
     },
     {
-        "question": "Which Hollywood actor voiced 'Simba' in 'The Lion King' (2019)?",
-        "options": ["Donald Glover", "Seth Rogen", "Will Smith", "Tom Holland"],
-        "answer": "Donald Glover"
+        "question": "'ദി ലയൺ കിംഗ്' (2019) എന്ന സിനിമയിൽ 'സിംബ' എന്ന കഥാപാത്രത്തെ ശബ്ദം നൽകിയ ഹോളിവുഡ് നടൻ?",
+        "options": ["ഡൊണാൾഡ് ഗ്ലോവർ", "സെത്ത് റോജൻ", "വിൽ സ്മിത്ത്", "ടോം ഹോളണ്ട്"],
+        "answer": "ഡൊണാൾഡ് ഗ്ലോവർ"
     },
     {
-        "question": "Which Hindi movie featured the character 'Geet' played by Kareena Kapoor?",
-        "options": ["Jab We Met", "3 Idiots", "Talaash", "Kabhi Khushi Kabhie Gham"],
-        "answer": "Jab We Met"
+        "question": "'ജബ് വീ മെറ്റ്' എന്ന സിനിമയിൽ 'ഗീത' എന്ന കഥാപാത്രത്തെ അഭിനയിച്ച നടി?",
+        "options": ["കരീന കപൂർ", "പ്രിയങ്ക ചോപ്ര", "ആലിയ ഭട്ട്", "ദീപിക പദുക്കോൺ"],
+        "answer": "കരീന കപൂർ"
     },
     {
-        "question": "Which Malayalam actor played a dual role in the movie 'Aaram Thampuran'?",
-        "options": ["Mohanlal", "Mammootty", "Prithviraj", "Suresh Gopi"],
-        "answer": "Mohanlal"
+        "question": "'ആരം തമ്പുരാൻ' എന്ന സിനിമയിൽ ഇരട്ടവേഷം ചെയ്ത മലയാളം നടൻ?",
+        "options": ["മോഹൻലാൽ", "മമ്മൂട്ടി", "പൃഥ്വിരാജ്", "സുരേഷ് ഗോപി"],
+        "answer": "മോഹൻലാൽ"
     },
     {
-        "question": "Which Hollywood director is famous for the movie 'E.T.'?",
-        "options": ["Steven Spielberg", "James Cameron", "Ridley Scott", "Christopher Nolan"],
-        "answer": "Steven Spielberg"
+        "question": "'E.T.' എന്ന സിനിമയിലെ പ്രശസ്തമായ ഹോളിവുഡ് സംവിധായകൻ?",
+        "options": ["സ്റ്റീവൻ സ്പീൽബർഗ്", "ജെയിംസ് കാമറൂൺ", "റിഡ്ലി സ്കോട്ട്", "ക്രിസ്റ്റഫർ നോളൻ"],
+        "answer": "സ്റ്റീവൻ സ്പീൽബർഗ്"
     },
     {
-        "question": "Which Hindi movie is based on the life of Neerja Bhanot?",
-        "options": ["Neerja", "Mary Kom", "Raazi", "Gunjan Saxena"],
-        "answer": "Neerja"
+        "question": "'നീരജ' എന്ന സിനിമക്ക് ആസ്പദമായ നേരജ ഭാനോട്ടിന്റെ ജീവിതത്തെ ആസ്പദമാക്കി?",
+        "options": ["നീരജ", "മേരി കോം", "രാജി", "ഗുൻജൻ സക്സേന"],
+        "answer": "നീരജ"
     },
     {
-        "question": "Who played the lead role in the Malayalam movie 'Joseph'?",
-        "options": ["Joju George", "Fahadh Faasil", "Prithviraj", "Dulquer Salmaan"],
-        "answer": "Joju George"
+        "question": "'ജോസഫ്' എന്ന സിനിമയിലെ പ്രധാന വേഷം ചെയ്ത നടൻ?",
+        "options": ["ജോജു ജോർജ്ജ്", "ഫഹദ് ഫാസിൽ", "പൃഥ്വിരാജ്", "ദുൽഖർ സൽമാൻ"],
+        "answer": "ജോജു ജോർജ്ജ്"
     },
     {
-        "question": "Which Hollywood movie is about a mathematician named John Nash?",
-        "options": ["A Beautiful Mind", "The Theory of Everything", "Good Will Hunting", "The Imitation Game"],
-        "answer": "A Beautiful Mind"
+        "question": "'ഒരു ഗണിത ശാസ്ത്രജ്ഞനായ ജോൺ നാഷിന്റെ ജീവിതത്തെ ആസ്പദമാക്കി നിർമ്മിച്ച ഹോളിവുഡ് സിനിമ?",
+        "options": ["A ബ്യൂട്ടിഫുൾ മൈൻഡ്", "ദി തിയറി ഓഫ് എവ്രിതിംഗ്", "ഗുഡ് വിൽ ഹണ്ടിംഗ്", "ദി ഇമിറ്റേഷൻ ഗെയിം"],
+        "answer": "A ബ്യൂട്ടിഫുൾ മൈൻഡ്"
     },
     {
-        "question": "Which Hindi movie features the song 'Tum Mile'?",
-        "options": ["Tum Mile", "Aashiqui 2", "Rockstar", "Kal Ho Na Ho"],
-        "answer": "Tum Mile"
+        "question": "'തും മിലേ' എന്ന പാട്ട് ഉൾ'പ്പെട്ട ഹിന്ദി സിനിമ?",
+        "options": ["തും മിലേ", "ആഷിക്കി 2", "റോക്സ്റ്റാർ", "കൽ ഹോ നാ ഹോ"],
+        "answer": "തും മിലേ"
     },
     {
-        "question": "Which Malayalam actor starred in the movie 'Nandanam'?",
-        "options": ["Prithviraj", "Mohanlal", "Mammootty", "Indrajith"],
-        "answer": "Prithviraj"
+        "question": "'നന്ദനം' എന്ന സിനിമയിലെ നായകൻ?",
+        "options": ["പൃഥ്വിരാജ്", "മോഹൻലാൽ", "മമ്മൂട്ടി", "ഇന്ദ്രജിത്ത്"],
+        "answer": "പൃഥ്വിരാജ്"
     },
     {
-        "question": "Who directed the Hollywood movie 'Schindler's List'?",
-        "options": ["Steven Spielberg", "James Cameron", "Christopher Nolan", "Ridley Scott"],
-        "answer": "Steven Spielberg"
+        "question": "'ഷിൻഡ്‌ലേഴ്‌സ് ലിസ്റ്റ്' എന്ന സിനിമയുടെ സംവിധായകൻ?",
+        "options": ["സ്റ്റീവൻ സ്പീൽബർഗ്", "ജെയിംസ് കാമറൂൺ", "ക്രിസ്റ്റഫർ നോളൻ", "റിഡ്ലി സ്കോട്ട്"],
+        "answer": "സ്റ്റീവൻ സ്പീൽബർഗ്"
     },
     {
-        "question": "Which Hindi movie featured the iconic song 'Dhoom Machale'?",
-        "options": ["Dhoom", "Kabhi Khushi Kabhie Gham", "Dil Chahta Hai", "Kal Ho Naa Ho"],
-        "answer": "Dhoom"
+        "question": "'ധൂം മചാലേ' എന്ന പ്രശസ്ത ഗാനത്തിന് ഉൾപ്പെട്ട ഹിന്ദി സിനിമ?",
+        "options": ["ധൂം", "കഭി ഖുഷി കഭി ഗം", "ദിൽ ചാഹ്താ ഹേ", "കൽ ഹോ നാ ഹോ"],
+        "answer": "ധൂം"
     },
     {
-        "question": "Which Malayalam movie featured the actor Fahadh Faasil as an underworld don?",
-        "options": ["Joji", "Trance", "Malik", "Varathan"],
-        "answer": "Malik"
+        "question": "'മാലിക്' എന്ന ചിത്രത്തിൽ ഫഹദ് ഫാസിൽ ഒരു അണ്ടർവേൾഡ് ഡോൺ ആയി അഭിനയിച്ചു?",
+        "options": ["ജോജി", "ട്രാൻസ്", "മാലിക്", "വരത്തൻ"],
+        "answer": "മാലിക്"
     }
 ]
