@@ -1,416 +1,416 @@
 [
-  {
-        "question": "Which country won the ICC Cricket World Cup in 2019?",
-        "options": ["India", "England", "Australia", "New Zealand"],
-        "answer": "England"
+    {
+        "question": "2019-ലെ ICC ക്രിക്കറ്റ് ലോകകപ്പ് നേടിയത് ഏത് രാജ്യമാണ്?",
+        "options": ["ഇന്ത്യ", "ഇംഗ്ലണ്ട്", "ഓസ്ട്രേലിയ", "ന്യൂസിലാൻഡ്"],
+        "answer": "ഇംഗ്ലണ്ട്"
     },
     {
-        "question": "How many players are there in a cricket team on the field?",
+        "question": "ക്രിക്കറ്റ് ടീമിൽ ഫീൽഡിൽ എത്ര കളിക്കാർ ഉണ്ടാവും?",
         "options": ["9", "10", "11", "12"],
         "answer": "11"
     },
     {
-        "question": "In football, what is awarded for a foul inside the penalty area?",
-        "options": ["Free kick", "Goal kick", "Penalty kick", "Corner kick"],
-        "answer": "Penalty kick"
+        "question": "ഫുട്ബോളിൽ പെനാൽറ്റി ഏരിയയിൽ കുഴപ്പം വരുത്തിയാൽ എന്ത് നൽകുന്നു?",
+        "options": ["ഫ്രീ കിക്ക്", "ഗോൾ കിക്ക്", "പെനാൽറ്റി കിക്ക്", "കോണർ കിക്ക്"],
+        "answer": "പെനാൽറ്റി കിക്ക്"
     },
     {
-        "question": "Which country won the FIFA World Cup in 2018?",
-        "options": ["France", "Brazil", "Germany", "Argentina"],
-        "answer": "France"
+        "question": "2018-ലെ FIFA ലോകകപ്പ് നേടിയത് ഏത് രാജ്യമാണ്?",
+        "options": ["ഫ്രാൻസ്", "ബ്രസീൽ", "ജർമ്മനി", "അർജന്റീന"],
+        "answer": "ഫ്രാൻസ്"
     },
     {
-        "question": "How many overs are there in a One Day International cricket match?",
+        "question": "ഒരു ഏകദിന ക്രിക്കറ്റ് മൽസരത്തിൽ എത്ര ഓവറുകൾ ഉണ്ടാകും?",
         "options": ["20", "40", "50", "60"],
         "answer": "50"
     },
     {
-        "question": "Who holds the record for most goals in World Cup history?",
-        "options": ["Messi", "Pele", "Klose", "Ronaldo"],
-        "answer": "Klose"
+        "question": "ലോകകപ്പ് ചരിത്രത്തിലെ ഏറ്റവും കൂടുതൽ ഗോളുകൾ നേടിയ കളിക്കാരൻ ആരാണ്?",
+        "options": ["മെസ്സി", "പെലെ", "ക്ലോസ്", "റൊണാൾഡോ"],
+        "answer": "ക്ലോസ്"
     },
     {
-        "question": "Which player is known as 'The Little Master' in cricket?",
-        "options": ["Virat Kohli", "Ricky Ponting", "Sachin Tendulkar", "MS Dhoni"],
-        "answer": "Sachin Tendulkar"
+        "question": "ക്രിക്കറ്റിൽ 'ദി ലിറ്റിൽ മാസ്റ്റർ' എന്നറിയപ്പെടുന്നത് ആരാണ്?",
+        "options": ["വിരാട് കോലി", "റിക്കി പോണ്ടിങ്", "സച്ചിൻ ടെൻഡുൽക്കർ", "എം.എസ്. ധോണി"],
+        "answer": "സച്ചിൻ ടെൻഡുൽക്കർ"
     },
     {
-        "question": "Which football club has won the most UEFA Champions League titles?",
-        "options": ["Barcelona", "Liverpool", "AC Milan", "Real Madrid"],
-        "answer": "Real Madrid"
+        "question": "UEFA ചാമ്പ്യൻസ് ലീഗ് ശീർഷകം ഏറ്റവും കൂടുതൽ തവണ നേടിയ ഫുട്ബോൾ ക്ലബ് ഏതാണ്?",
+        "options": ["ബാഴ്സലോണ", "ലിവർപൂൾ", "എസി മിലാൻ", "റയൽ മാഡ്രിഡ്"],
+        "answer": "റയൽ മാഡ്രിഡ്"
     },
     {
-        "question": "What is the name of the trophy awarded in the Ashes series?",
-        "options": ["The Ashes Urn", "The Cricket Cup", "The Ashes Shield", "The World Trophy"],
-        "answer": "The Ashes Urn"
+        "question": "ആഷസ് പരമ്പരയിൽ സമ്മാനിക്കുന്നത് ഏത് ട്രോഫിയാണ്?",
+        "options": ["ആഷസ് urn", "ക്രിക്കറ്റ് കപ്പ്", "ആഷസ് ഷീൽഡ്", "ലോക ട്രോഫി"],
+        "answer": "ആഷസ് urn"
     },
     {
-        "question": "Which country has won the most ICC Cricket World Cups?",
-        "options": ["India", "Australia", "West Indies", "England"],
-        "answer": "Australia"
+        "question": "അICC ക്രിക്കറ്റ് ലോകകപ്പ് ഏറ്റവും കൂടുതൽ തവണ നേടിയ രാജ്യമാണ്?",
+        "options": ["ഇന്ത്യ", "ഓസ്ട്രേലിയ", "വെസ്റ്റ് ഇൻഡീസ്", "ഇംഗ്ലണ്ട്"],
+        "answer": "ഓസ്ട്രേലിയ"
     },
     {
-        "question": "Which team did Lionel Messi join in 2021?",
-        "options": ["Barcelona", "PSG", "Manchester City", "Real Madrid"],
-        "answer": "PSG"
+        "question": "2021-ൽ ലയണൽ മെസ്സി ഏത് ടീമിനോടൊപ്പം ചേർന്നു?",
+        "options": ["ബാഴ്സലോണ", "പിഎസ്ജി", "മാഞ്ചസ്റ്റർ സിറ്റി", "റയൽ മാഡ്രിഡ്"],
+        "answer": "പിഎസ്ജി"
     },
     {
-        "question": "How many runs are awarded for hitting the ball over the boundary in cricket?",
+        "question": "ക്രിക്കറ്റിൽ, ബൗണ്ടറിയിലേക്കു പന്ത് അടിച്ചാൽ എത്ര റൺസ് ലഭിക്കും?",
         "options": ["2", "4", "5", "6"],
         "answer": "6"
     },
     {
-        "question": "Which country won the first FIFA World Cup in 1930?",
-        "options": ["Brazil", "Uruguay", "Argentina", "Italy"],
-        "answer": "Uruguay"
+        "question": "1930-ൽ നടന്ന ആദ്യത്തെ FIFA ലോകകപ്പ് നേടിയത് ഏത് രാജ്യമാണ്?",
+        "options": ["ബ്രസീൽ", "ഉറുഗ്വെ", "അർജന്റീന", "ഇറ്റലി"],
+        "answer": "ഉറുഗ്വെ"
     },
     {
-        "question": "What is the maximum number of players allowed on a football pitch at once?",
+        "question": "ഒരു ഫുട്ബോൾ പിച്ചിൽ ഒരുമിച്ചുള്ള കളിക്കാർ അനുവദനീയമായ പരമാവധി എത്രയാണ്?",
         "options": ["20", "22", "24", "26"],
         "answer": "22"
     },
     {
-        "question": "In cricket, how many balls are there in an over?",
+        "question": "ക്രിക്കറ്റിൽ, ഒരു ഓവറിൽ എത്ര പന്തുകൾ ഉണ്ട്?",
         "options": ["4", "5", "6", "8"],
         "answer": "6"
     },
     {
-        "question": "What is the distance of a penalty shot in football?",
-        "options": ["8 yards", "10 yards", "12 yards", "15 yards"],
-        "answer": "12 yards"
+        "question": "ഫുട്ബോളിലെ പെനാൽറ്റി ഷോട്ടിന്റെ ദൂരം എത്രയാണ്?",
+        "options": ["8 യാർഡ്", "10 യാർഡ്", "12 യാർഡ്", "15 യാർഡ്"],
+        "answer": "12 യാർഡ്"
     },
     {
-        "question": "Who has scored the most centuries in international cricket?",
-        "options": ["Virat Kohli", "Ricky Ponting", "Sachin Tendulkar", "Brian Lara"],
-        "answer": "Sachin Tendulkar"
+        "question": "അന്താരാഷ്ട്ര ക്രിക്കറ്റിൽ ഏറ്റവും കൂടുതൽ സെഞ്ചുറികൾ നേടിയ ആളാർ?",
+        "options": ["വിരാട് കോലി", "റിക്കി പോണ്ടിങ്", "സച്ചിൻ ടെൻഡുൽക്കർ", "ബ്രിയാൻ ലാറ"],
+        "answer": "സച്ചിൻ ടെൻഡുൽക്കർ"
     },
     {
-        "question": "In which country is the Premier League football competition held?",
-        "options": ["Germany", "Spain", "England", "Italy"],
-        "answer": "England"
+        "question": "പ്രീമിയർ ലീഗ് ഫുട്ബോൾ മത്സരം ഏത് രാജ്യത്താണ് നടത്തുന്നത്?",
+        "options": ["ജർമ്മനി", "സ്പെയിൻ", "ഇംഗ്ലണ്ട്", "ഇറ്റലി"],
+        "answer": "ഇംഗ്ലണ്ട്"
     },
     {
-        "question": "What is a hat-trick in cricket?",
-        "options": ["Three sixes", "Three wickets in three balls", "Three catches", "Three runs"],
-        "answer": "Three wickets in three balls"
+        "question": "ക്രിക്കറ്റിൽ ഹാട്രിക്ക് എന്താണ്?",
+        "options": ["മൂന്ന് സിക്സറുകൾ", "മൂന്ന് പന്തിൽ മൂന്ന് വിക്കറ്റുകൾ", "മൂന്ന് കാച്ചുകൾ", "മൂന്ന് റൺസ്"],
+        "answer": "മൂന്ന് പന്തിൽ മൂന്ന് വിക്കറ്റുകൾ"
     },
     {
-        "question": "Which country won the ICC T20 World Cup in 2021?",
-        "options": ["India", "Australia", "New Zealand", "England"],
-        "answer": "Australia"
+        "question": "2021-ലെ ICC T20 ലോകകപ്പ് നേടിയ രാജ്യം ഏതാണ്?",
+        "options": ["ഇന്ത്യ", "ഓസ്ട്രേലിയ", "ന്യൂസിലാൻഡ്", "ഇംഗ്ലണ്ട്"],
+        "answer": "ഓസ്ട്രേലിയ"
     },
     {
-        "question": "How many substitutes are allowed per team in a football match?",
+        "question": "ഒരു ഫുട്ബോൾ മത്സരത്തിൽ ഒരു ടീമിന് എത്ര സബ്സ്റ്റിറ്റ്യൂട്ട് കളിക്കാർ അനുവദനീയമാണ്?",
         "options": ["3", "4", "5", "6"],
         "answer": "5"
     },
     {
-        "question": "In cricket, what does LBW stand for?",
-        "options": ["Leg Before Wicket", "Line Before Wicket", "Left Behind Wicket", "Leg Bowled Wide"],
-        "answer": "Leg Before Wicket"
+        "question": "ക്രിക്കറ്റിൽ, LBW-ന്റെ പൂർണ്ണരൂപം എന്താണ്?",
+        "options": ["ലെഗ് ബിഫോർ വിക്കറ്റ്", "ലൈൻ ബിഫോർ വിക്കറ്റ്", "ലെഫ്‌റ്റ് ബിഹൈൻഡ് വിക്കറ്റ്", "ലെഗ് ബോൾഡ് വൈഡ്"],
+        "answer": "ലെഗ് ബിഫോർ വിക്കറ്റ്"
     },
     {
-        "question": "Which football club does Cristiano Ronaldo play for in 2023?",
-        "options": ["Manchester United", "Juventus", "Al-Nassr", "Real Madrid"],
-        "answer": "Al-Nassr"
+        "question": "2023-ൽ ക്രിസ്റ്റിയാനോ റൊണാൾഡോ ഏത് ഫുട്ബോൾ ക്ലബിനോടൊപ്പം കളിക്കുന്നു?",
+        "options": ["മാഞ്ചസ്റ്റർ യുണൈറ്റഡ്", "യുവെന്റസ്", "അൽ-നാസർ", "റയൽ മാഡ്രിഡ്"],
+        "answer": "അൽ-നാസർ"
     },
     {
-        "question": "Which country has won the most FIFA World Cups?",
-        "options": ["Germany", "Brazil", "Argentina", "Italy"],
-        "answer": "Brazil"
+        "question": "FIFA ലോകകപ്പ് ഏറ്റവും കൂടുതൽ തവണ നേടിയ രാജ്യം ഏതാണ്?",
+        "options": ["ജർമ്മനി", "ബ്രസീൽ", "അർജന്റീന", "ഇറ്റലി"],
+        "answer": "ബ്രസീൽ"
     },
     {
-        "question": "In cricket, how many runs are scored for hitting the ball to the boundary?",
+        "question": "ക്രിക്കറ്റിൽ, ബൗണ്ടറിയിലേക്ക് പന്ത് അടിച്ചാൽ എത്ര റൺസ് നേടും?",
         "options": ["2", "4", "5", "6"],
         "answer": "4"
     },
     {
-        "question": "Who won the Ballon d'Or in 2021?",
-        "options": ["Ronaldo", "Messi", "Lewandowski", "Benzema"],
-        "answer": "Messi"
+        "question": "2021-ലെ Ballon d'Or നേടിയതാര്?",
+        "options": ["റൊണാൾഡോ", "മെസ്സി", "ലെവൻഡോസ്‌കി", "ബെൻസേമ"],
+        "answer": "മെസ്സി"
     },
     {
-        "question": "What is the highest individual score in Test cricket?",
+        "question": "ടെസ്റ്റ് ക്രിക്കറ്റിലെ ഏറ്റവും ഉയർന്ന വ്യക്തിഗത സ്കോർ എന്താണ്?",
         "options": ["400", "375", "381", "425"],
         "answer": "400"
     },
     {
-        "question": "What is the duration of a standard football match?",
-        "options": ["80 minutes", "90 minutes", "100 minutes", "110 minutes"],
-        "answer": "90 minutes"
+        "question": "ഒരു സാധാരണ ഫുട്ബോൾ മത്സരത്തിന്റെ ദൈർഘ്യം എത്രയാണ്?",
+        "options": ["80 മിനിറ്റ്", "90 മിനിറ്റ്", "100 മിനിറ്റ്", "110 മിനിറ്റ്"],
+        "answer": "90 മിനിറ്റ്"
     },
     {
-        "question": "Who holds the record for the fastest century in ODI cricket?",
-        "options": ["AB de Villiers", "Chris Gayle", "Virat Kohli", "Shahid Afridi"],
-        "answer": "AB de Villiers"
+        "question": "ODI ക്രിക്കറ്റിൽ ഏറ്റവും വേഗത്തിൽ സെഞ്ചുറി നേടിയ റെക്കോർഡ് ആരുടെ പേരിലാണ്?",
+        "options": ["എബി ഡിവില്ലിയേഴ്സ്", "ക്രിസ് ഗെയിൽ", "വിരാട് കോലി", "ഷാഹിദ് അഫ്രിദി"],
+        "answer": "എബി ഡിവില്ലിയേഴ്സ്"
     },
     {
-        "question": "Which country won the FIFA World Cup in 2014?",
-        "options": ["Germany", "Brazil", "Argentina", "Netherlands"],
-        "answer": "Germany"
+        "question": "2014-ലെ FIFA ലോകകപ്പ് നേടിയ രാജ്യം ഏതാണ്?",
+        "options": ["ജർമ്മനി", "ബ്രസീൽ", "അർജന്റീന", "നെടർലാൻഡ്"],
+        "answer": "ജർമ്മനി"
     },
     {
-        "question": "In cricket, how many bails are there on the stumps?",
+        "question": "ക്രിക്കറ്റിൽ വിക്കറ്റുകളിൽ എത്ര ബെയിൽസ് ഉണ്ട്?",
         "options": ["2", "3", "4", "5"],
         "answer": "2"
     },
     {
-        "question": "Which player has won the most FIFA Ballon d'Or awards?",
-        "options": ["Ronaldo", "Messi", "Ronaldinho", "Zidane"],
-        "answer": "Messi"
+        "question": "FIFA Ballon d'Or പുരസ്കാരം ഏറ്റവും കൂടുതൽ തവണ നേടിയ ഫുട്ബോൾ കളിക്കാരൻ ആരാണ്?",
+        "options": ["റൊണാൾഡോ", "മെസ്സി", "റൊണാൾഡീനോ", "സിദാൻ"],
+        "answer": "മെസ്സി"
     },
     {
-        "question": "In football, what is the term for a match that ends with no goals?",
-        "options": ["Draw", "Nil-nil", "Deadlock", "Goaless"],
-        "answer": "Nil-nil"
+        "question": "ഫുട്ബോളിൽ, ഗോൾ ഇല്ലാതെ അവസാനിക്കുന്ന മത്സരത്തെ എന്താണ് വിളിക്കുന്നത്?",
+        "options": ["ഡ്രാ", "നിൽ-നിൽ", "ഡെഡ്ലോക്ക്", "ഗോളില്ല"],
+        "answer": "നിൽ-നിൽ"
+    },
+  {
+        "question": "അന്താരാഷ്ട്ര ക്രിക്കറ്റിൽ 100 സെഞ്ചുറികൾ നേടുന്ന ഏക കളിക്കാരൻ ആരാണ്?",
+        "options": ["വിരാട് കോലി", "ബ്രിയാൻ ലാറ", "സച്ചിൻ ടെൻഡുൽക്കർ", "ജാക് കല്ലിസ്"],
+        "answer": "സച്ചിൻ ടെൻഡുൽക്കർ"
     },
     {
-        "question": "Who is the only player to score 100 international centuries in cricket?",
-        "options": ["Virat Kohli", "Brian Lara", "Sachin Tendulkar", "Jacques Kallis"],
-        "answer": "Sachin Tendulkar"
-    },
-    {
-        "question": "How many World Cups has India won in cricket?",
+        "question": "ക്രിക്കറ്റ് ലോകകപ്പ് ഇന്ത്യ എത്ര തവണ നേടിയിട്ടുണ്ട്?",
         "options": ["1", "2", "3", "4"],
         "answer": "2"
     },
     {
-        "question": "What is the term for 3 consecutive goals scored by one player in football?",
-        "options": ["Brace", "Hat-trick", "Triple", "Streak"],
-        "answer": "Hat-trick"
+        "question": "ഫുട്ബോളിൽ ഒരു കളിക്കാരൻ തുടർച്ചയായി 3 ഗോൾ അടിച്ചാൽ എന്താണ് വിളിക്കുന്നത്?",
+        "options": ["ബ്രേസ്", "ഹാട്രിക്ക്", "ട്രിപ്പിൾ", "സ്ട്രീക്ക്"],
+        "answer": "ഹാട്രിക്ക്"
     },
     {
-        "question": "In which year did India win its first ICC Cricket World Cup?",
+        "question": "ഇന്ത്യ തന്റെ ആദ്യത്തെ ICC ക്രിക്കറ്റ് ലോകകപ്പ് നേടിയ വർഷം ഏതാണ്?",
         "options": ["1979", "1983", "1987", "1992"],
         "answer": "1983"
     },
     {
-        "question": "Which country hosted the 2022 FIFA World Cup?",
-        "options": ["Qatar", "USA", "Brazil", "Russia"],
-        "answer": "Qatar"
+        "question": "2022-ലെ FIFA ലോകകപ്പ് ഏത് രാജ്യം ആതിഥ്യം വഹിച്ചു?",
+        "options": ["ഖത്തർ", "യുഎസ്എ", "ബ്രസീൽ", "റഷ്യ"],
+        "answer": "ഖത്തർ"
     },
     {
-        "question": "Which cricketer scored 10,000 runs in both Tests and ODIs?",
-        "options": ["Brian Lara", "Sachin Tendulkar", "Ricky Ponting", "Virat Kohli"],
-        "answer": "Sachin Tendulkar"
+        "question": "ടെസ്റ്റും ODIയും ഇരു ഫോർമാറ്റുകളിലുമായി 10,000 റൺസ് നേടിയ ക്രിക്കറ്റർ ആരാണ്?",
+        "options": ["ബ്രിയാൻ ലാറ", "സച്ചിൻ ടെൻഡുൽക്കർ", "റിക്കി പോണ്ടിങ്", "വിരാട് കോലി"],
+        "answer": "സച്ചിൻ ടെൻഡുൽക്കർ"
     },
     {
-        "question": "In football, what term is used for the first half of extra time?",
-        "options": ["Overtime", "First extra half", "First half", "First extra time"],
-        "answer": "First extra time"
+        "question": "ഫുട്ബോളിൽ, അധികസമയത്തിന്റെ ആദ്യ പകുതിയെ എന്താണ് വിളിക്കുന്നത്?",
+        "options": ["ഓവർടൈം", "ഫസ്റ്റ് എക്സ്ട്രാ ഹാഫ്", "ഫസ്റ്റ് ഹാഫ്", "ഫസ്റ്റ് എക്സ്ട്രാ ടൈം"],
+        "answer": "ഫസ്റ്റ് എക്സ്ട്രാ ടൈം"
     },
     {
-        "question": "Who was the captain of India's 1983 Cricket World Cup-winning team?",
-        "options": ["Kapil Dev", "Sunil Gavaskar", "Sourav Ganguly", "MS Dhoni"],
-        "answer": "Kapil Dev"
+        "question": "1983-ലെ ക്രിക്കറ്റ് ലോകകപ്പ് നേടിയ ഇന്ത്യൻ ടീമിന്റെ ക്യാപ്റ്റൻ ആരാണ്?",
+        "options": ["കപിൽ ദേവ്", "സുനിൽ ഗാവസ്കർ", "സൗരവ് ഗാംഗുലി", "എം.എസ്. ധോണി"],
+        "answer": "കപിൽ ദേവ്"
     },
     {
-        "question": "In football, how many points are awarded for a win in a league game?",
+        "question": "ഫുട്ബോളിൽ, ലീഗ് മത്സരത്തിൽ ജയത്തിന് എത്ര പോയിന്റുകൾ ലഭിക്കും?",
         "options": ["1", "2", "3", "4"],
         "answer": "3"
     },
     {
-        "question": "Who holds the record for the highest individual score in a World Cup match?",
-        "options": ["Sachin Tendulkar", "Chris Gayle", "Martin Guptill", "David Warner"],
-        "answer": "Martin Guptill"
+        "question": "ലോകകപ്പ് മത്സരത്തിലെ ഏറ്റവും ഉയർന്ന വ്യക്തിഗത സ്കോറിന്റെ റെക്കോർഡു കരസ്ഥമാക്കിയ ക്രിക്കറ്റർ ആരാണ്?",
+        "options": ["സച്ചിൻ ടെൻഡുൽക്കർ", "ക്രിസ് ഗെയിൽ", "മാർട്ടിൻ ഗുപ്തിൽ", "ഡേവിഡ് വാർണർ"],
+        "answer": "മാർട്ടിൻ ഗുപ്തിൽ"
     },
     {
-        "question": "Which country hosted the ICC T20 World Cup in 2021?",
-        "options": ["India", "Australia", "England", "UAE"],
-        "answer": "UAE"
+        "question": "2021-ലെ ICC T20 ലോകകപ്പ് ഏത് രാജ്യം ആതിഥ്യം വഹിച്ചു?",
+        "options": ["ഇന്ത്യ", "ഓസ്ട്രേലിയ", "ഇംഗ്ലണ്ട്", "യുഎഇ"],
+        "answer": "യുഎഇ"
     },
     {
-        "question": "Who was the top goal scorer at the 2018 FIFA World Cup?",
-        "options": ["Messi", "Cristiano Ronaldo", "Harry Kane", "Neymar"],
-        "answer": "Harry Kane"
+        "question": "2018 FIFA ലോകകപ്പിൽ ഏറ്റവും കൂടുതൽ ഗോളുകൾ നേടിയ കളിക്കാരൻ ആരാണ്?",
+        "options": ["മെസ്സി", "ക്രിസ്റ്റിയാനോ റൊണാൾഡോ", "ഹാരി കെയ്ന്", "നെയ്മർ"],
+        "answer": "ഹാരി കെയ്ന്"
     },
     {
-        "question": "In cricket, what is the distance between the two sets of stumps?",
-        "options": ["20 yards", "22 yards", "25 yards", "30 yards"],
-        "answer": "22 yards"
+        "question": "ക്രിക്കറ്റിൽ, വിക്കറ്റുകളുടെ രണ്ടു സെറ്റുകൾക്കിടയിലുള്ള ദൂരം എത്രയാണ്?",
+        "options": ["20 യാർഡുകൾ", "22 യാർഡുകൾ", "25 യാർഡുകൾ", "30 യാർഡുകൾ"],
+        "answer": "22 യാർഡുകൾ"
     },
     {
-        "question": "In football, what does VAR stand for?",
+        "question": "ഫുട്ബോളിൽ VAR-ന്റെ പൂർണ്ണരൂപം എന്താണ്?",
         "options": ["Virtual Assistant Referee", "Video Assistant Referee", "Virtual Authority Referee", "Video Authorization Referee"],
         "answer": "Video Assistant Referee"
     },
     {
-        "question": "Which cricketer has hit the most sixes in international cricket?",
-        "options": ["Shahid Afridi", "Chris Gayle", "MS Dhoni", "Rohit Sharma"],
-        "answer": "Chris Gayle"
+        "question": "അന്താരാഷ്ട്ര ക്രിക്കറ്റിൽ ഏറ്റവും കൂടുതൽ സിക്‌സറുകൾ നേടിയത് ആരാണ്?",
+        "options": ["ഷാഹിദ് അഫ്രിദി", "ക്രിസ് ഗെയിൽ", "എം.എസ്. ധോണി", "റോഹിത് ശർമ"],
+        "answer": "ക്രിസ് ഗെയിൽ"
     },
     {
-        "question": "Which country won the FIFA Women's World Cup in 2019?",
-        "options": ["USA", "Germany", "France", "Brazil"],
-        "answer": "USA"
+        "question": "2019-ലെ FIFA വനിതകളുടെ ലോകകപ്പ് നേടിയ രാജ്യം ഏതാണ്?",
+        "options": ["യുഎസ്എ", "ജർമ്മനി", "ഫ്രാൻസ്", "ബ്രസീൽ"],
+        "answer": "യുഎസ്എ"
     },
     {
-        "question": "In cricket, who bowled the fastest ball ever recorded?",
-        "options": ["Shoaib Akhtar", "Brett Lee", "Mitchell Starc", "Shaun Tait"],
-        "answer": "Shoaib Akhtar"
+        "question": "ക്രിക്കറ്റിൽ ഏറ്റവും വേഗതയേറിയ പന്തെറിയാനുള്ള റെക്കോർഡ് ആരുടെ പേരിലാണ്?",
+        "options": ["ഷൊയബ് അക്തർ", "ബ്രെറ്റ് ലി", "മിച്ചൽ സ്റ്റാർക്", "ഷോൺ ടെയിറ്റ്"],
+        "answer": "ഷൊയബ് അക്തർ"
     },
     {
-        "question": "Which country won the FIFA World Cup in 1998?",
-        "options": ["Brazil", "Germany", "France", "Argentina"],
-        "answer": "France"
+        "question": "1998-ലെ FIFA ലോകകപ്പ് നേടിയത് ഏത് രാജ്യമാണ്?",
+        "options": ["ബ്രസീൽ", "ജർമ്മനി", "ഫ്രാൻസ്", "അർജന്റീന"],
+        "answer": "ഫ്രാൻസ്"
     },
     {
-        "question": "How many fielders can be outside the 30-yard circle in the final overs of a one-day match?",
+        "question": "ഒരു ഏകദിന മത്സരത്തിലെ അവസാന ഓവറുകളിൽ 30-യാർഡ് സർക്കിളിന് പുറത്തുള്ള പരമാവധി ഫീൽഡർമാരുടെ എണ്ണം എത്രയാണ്?",
         "options": ["3", "4", "5", "6"],
         "answer": "5"
     },
     {
-        "question": "Which football club did Zinedine Zidane play for?",
-        "options": ["Barcelona", "Juventus", "PSG", "Real Madrid"],
-        "answer": "Real Madrid"
+        "question": "ഫുട്ബോൾ ക്ലബ് റയൽ മാഡ്രിഡിനായി കളിച്ച പ്രമുഖ താരം ആരാണ്?",
+        "options": ["ബാഴ്സലോണ", "യുവെന്റസ്", "പിഎസ്ജി", "റയൽ മാഡ്രിഡ്"],
+        "answer": "റയൽ മാഡ്രിഡ്"
     },
     {
-        "question": "Who is the only bowler to take 800 wickets in Test cricket?",
-        "options": ["Muttiah Muralitharan", "Shane Warne", "Anil Kumble", "James Anderson"],
-        "answer": "Muttiah Muralitharan"
+        "question": "ടെസ്റ്റ് ക്രിക്കറ്റിൽ 800 വിക്കറ്റുകൾ നേടിയ ഏക ബൗളർ ആരാണ്?",
+        "options": ["മുത്തയ്യ മുരളീധരൻ", "ഷെയിൻ വോൺ", "അനിൽ കുംബ്ലെ", "ജെയിംസ് ആൻഡേഴ്സൺ"],
+        "answer": "മുത്തയ്യ മുരളീധരൻ"
     },
     {
-        "question": "Which country won the 2016 UEFA European Football Championship?",
-        "options": ["Spain", "Germany", "Portugal", "France"],
-        "answer": "Portugal"
+        "question": "2016 UEFA യൂറോപ്യൻ ഫുട്ബോൾ ചാമ്പ്യൻഷിപ്പ് നേടിയ രാജ്യം ഏതാണ്?",
+        "options": ["സ്പെയിൻ", "ജർമ്മനി", "പോർച്ചുഗൽ", "ഫ്രാൻസ്"],
+        "answer": "പോർച്ചുഗൽ"
     },
     {
-        "question": "In cricket, what does 'duck' mean?",
-        "options": ["A player gets out for zero runs", "A player scores one run", "A player hits a boundary", "A player bowls a maiden"],
-        "answer": "A player gets out for zero runs"
+        "question": "ക്രിക്കറ്റിൽ 'ഡക്ക്' എന്നത് എന്താണ്?",
+        "options": ["കളിക്കാരൻ ശൂന്യ റൺസിനായി പുറത്താകുന്നത്", "ഒരു റൺസിനായി കളിക്കാരൻ പുറത്താകുന്നത്", "ബൗണ്ടറി അടിക്കുന്നത്", "മെയ്ഡൻ ഓവർ ബൗളിംഗ്"],
+        "answer": "കളിക്കാരൻ ശൂന്യ റൺസിനായി പുറത്താകുന്നത്"
     },
     {
-        "question": "Who scored the winning goal for Spain in the 2010 FIFA World Cup final?",
-        "options": ["Iniesta", "Torres", "Villa", "Ramos"],
-        "answer": "Iniesta"
+        "question": "2010 FIFA ലോകകപ്പ് ഫൈനലിൽ സ്പെയിനുവേണ്ടി വിജയഗോൾ നേടിയതാര്?",
+        "options": ["ഇനിയസ്റ്റ", "ടോറസ്", "വില്ല", "റാമോസ്"],
+        "answer": "ഇനിയസ്റ്റ"
     },
     {
-        "question": "What is the maximum number of overs per bowler in an ODI match?",
+        "question": "ODI മത്സരത്തിൽ ഒരു ബൗളറിന് അനുവദിക്കാവുന്ന പരമാവധി ഓവറുകളുടെ എണ്ണം എത്രയാണ്?",
         "options": ["10", "15", "20", "25"],
         "answer": "10"
     },
     {
-        "question": "Who has the record for the most World Cup goals in a single tournament?",
-        "options": ["Pele", "Messi", "Just Fontaine", "Ronaldo"],
-        "answer": "Just Fontaine"
+        "question": "ഒരു ലോകകപ്പ് ടൂർണമെന്റിൽ ഏറ്റവും കൂടുതൽ ഗോളുകൾ നേടിയ റെക്കോർഡുള്ള കളിക്കാരൻ ആരാണ്?",
+        "options": ["പെലെ", "മെസ്സി", "ജസ്റ്റ് ഫോണ്ടൈൻ", "റൊണാൾഡോ"],
+        "answer": "ജസ്റ്റ് ഫോണ്ടൈൻ"
     },
     {
-        "question": "Which cricketer has the nickname 'Boom Boom'?",
-        "options": ["Chris Gayle", "Shahid Afridi", "Rohit Sharma", "AB de Villiers"],
-        "answer": "Shahid Afridi"
+        "question": "'ബൂം ബൂം' എന്നറിയപ്പെടുന്ന ക്രിക്കറ്റർ ആരാണ്?",
+        "options": ["ക്രിസ് ഗെയിൽ", "ഷാഹിദ് അഫ്രിദി", "റോഹിത് ശർമ", "എബി ഡിവില്ലിയേഴ്സ്"],
+        "answer": "ഷാഹിദ് അഫ്രിദി"
     },
     {
-        "question": "Which team has won the most FIFA Women's World Cup titles?",
-        "options": ["Germany", "USA", "Brazil", "Japan"],
-        "answer": "USA"
+        "question": "വനിതകളുടെ FIFA ലോകകപ്പ് ടൈറ്റിൽ ഏറ്റവും കൂടുതൽ തവണ നേടിയ ടീം ഏതാണ്?",
+        "options": ["ജർമ്മനി", "യുഎസ്എ", "ബ്രസീൽ", "ജപ്പാൻ"],
+        "answer": "യുഎസ്എ"
     },
     {
-        "question": "Who became the youngest player to score a hat-trick in a World Cup?",
-        "options": ["Pele", "Ronaldo", "Mbappe", "Messi"],
-        "answer": "Pele"
+        "question": "വർക്കപ്പ് ടൂർണമെന്റിൽ ഹാട്രിക്ക് നേടുന്ന ഏറ്റവും പ്രായം കുറഞ്ഞ കളിക്കാരൻ ആര്?",
+        "options": ["പെലെ", "റൊണാൾഡോ", "എംബാപ്പെ", "മെസ്സി"],
+        "answer": "പെലെ"
     },
     {
-        "question": "Which cricketer holds the record for the fastest 50 in T20 Internationals?",
-        "options": ["Yuvraj Singh", "Chris Gayle", "Eoin Morgan", "David Miller"],
-        "answer": "Yuvraj Singh"
+        "question": "T20 അന്താരാഷ്ട്ര മത്സരങ്ങളിൽ ഏറ്റവും വേഗതയേറിയ അർധസെഞ്ചുറി നേടിയ ക്രിക്കറ്റർ ആരാണ്?",
+        "options": ["യുവരാജ് സിംഗ്", "ക്രിസ് ഗെയിൽ", "ഇയോൻ മോർഗൻ", "ഡേവിഡ് മില്ലർ"],
+        "answer": "യുവരാജ് സിംഗ്"
     },
     {
-        "question": "What is the regulation time of a FIFA football match?",
-        "options": ["60 minutes", "90 minutes", "100 minutes", "120 minutes"],
-        "answer": "90 minutes"
+        "question": "FIFA ഫുട്ബോൾ മത്സരത്തിന്റെ ചട്ടപ്രകാരം നിയമിതമായ സമയം എത്രയാണ്?",
+        "options": ["60 മിനിറ്റുകൾ", "90 മിനിറ്റുകൾ", "100 മിനിറ്റുകൾ", "120 മിനിറ്റുകൾ"],
+        "answer": "90 മിനിറ്റുകൾ"
     },
     {
-        "question": "Which cricketer was known as 'The Wall'?",
-        "options": ["Rahul Dravid", "Jacques Kallis", "Steve Waugh", "Ricky Ponting"],
-        "answer": "Rahul Dravid"
+        "question": "'ദ വാൾ' എന്നറിയപ്പെടുന്ന ക്രിക്കറ്റർ ആരാണ്?",
+        "options": ["റാഹുൽ ദ്രാവിഡ്", "ജാക് കല്ലിസ്", "സ്റ്റീവ് വോ", "റിക്കി പോണ്ടിംഗ്"],
+        "answer": "റാഹുൽ ദ്രാവിഡ്"
     },
     {
-        "question": "Which country won the FIFA World Cup in 2006?",
-        "options": ["Brazil", "Italy", "France", "Germany"],
-        "answer": "Italy"
+        "question": "2006-ലെ FIFA ലോകകപ്പ് നേടിയത് ഏത് രാജ്യം?",
+        "options": ["ബ്രസീൽ", "ഇറ്റലി", "ഫ്രാൻസ്", "ജർമ്മനി"],
+        "answer": "ഇറ്റലി"
     },
     {
-        "question": "In cricket, what is the maximum number of players a team can field at one time?",
+        "question": "ക്രിക്കറ്റിൽ ഒരേ സമയം ഫീൽഡിൽ എത്ര കളിക്കാരാണ് അനുവദിച്ചത്?",
         "options": ["9", "10", "11", "12"],
         "answer": "11"
     },
     {
-        "question": "Which football club is known as 'The Red Devils'?",
-        "options": ["Liverpool", "Manchester City", "Manchester United", "Arsenal"],
-        "answer": "Manchester United"
+        "question": "'ദ റെഡ് ഡെവിള്സ്' എന്ന് അറിയപ്പെടുന്ന ഫുട്ബോൾ ക്ലബ് ഏതാണ്?",
+        "options": ["ലിവർപൂൾ", "മാഞ്ചസ്റ്റർ സിറ്റി", "മാഞ്ചസ്റ്റർ യുണൈറ്റഡ്", "ആഴ്സണൽ"],
+        "answer": "മാഞ്ചസ്റ്റർ യുണൈറ്റഡ്"
     },
     {
-        "question": "Who holds the record for most wickets in a single World Cup tournament?",
-        "options": ["Glenn McGrath", "Lasith Malinga", "Mitchell Starc", "Shaun Pollock"],
-        "answer": "Glenn McGrath"
+        "question": "ഒരു ലോകകപ്പ് ടൂർണമെന്റിൽ ഏറ്റവും കൂടുതൽ വിക്കറ്റുകൾ നേടിയ റെക്കോർഡുള്ള ബൗളർ ആര്?",
+        "options": ["ഗ്ലെൻ മഗ്രാത്ത്", "ലസിത് മലിംഗ", "മിച്ചൽ സ്റ്റാർക്", "ഷോൺ പോളോക്"],
+        "answer": "ഗ്ലെൻ മഗ്രാത്ത്"
     },
     {
-        "question": "Which country has won the most Copa América titles?",
-        "options": ["Brazil", "Argentina", "Uruguay", "Chile"],
-        "answer": "Uruguay"
+        "question": "Copa América ടൈറ്റിലുകൾ ഏറ്റവും കൂടുതൽ തവണ നേടിയ രാജ്യം ഏതാണ്?",
+        "options": ["ബ്രസീൽ", "അർജന്റീന", "ഉറുഗ്വേ", "ചിലി"],
+        "answer": "ഉറുഗ്വേ"
     },
     {
-        "question": "In football, what is the standard duration of extra time?",
-        "options": ["10 minutes", "15 minutes", "20 minutes", "30 minutes"],
-        "answer": "30 minutes"
+        "question": "ഫുട്ബോളിൽ അധികസമയത്തിന്റെ ചട്ടപ്രകാരം കാലാവധി എത്രയാണ്?",
+        "options": ["10 മിനിറ്റ്", "15 മിനിറ്റ്", "20 മിനിറ്റ്", "30 മിനിറ്റ്"],
+        "answer": "30 മിനിറ്റ്"
     },
     {
-        "question": "Who scored the fastest century in T20 internationals?",
-        "options": ["David Miller", "Chris Gayle", "Yuvraj Singh", "Glenn Maxwell"],
-        "answer": "David Miller"
+        "question": "T20 അന്താരാഷ്ട്ര മത്സരങ്ങളിൽ ഏറ്റവും വേഗതയേറിയ സെഞ്ചുറി നേടിയ താരം ആരാണ്?",
+        "options": ["ഡേവിഡ് മില്ലർ", "ക്രിസ് ഗെയിൽ", "യുവരാജ് സിംഗ്", "ഗ്ലെൻ മാക്സ്വെൽ"],
+        "answer": "ഡേവിഡ് മില്ലർ"
     },
     {
-        "question": "Which footballer is nicknamed 'The Atomic Flea'?",
-        "options": ["Neymar", "Ronaldo", "Messi", "Mbappe"],
-        "answer": "Messi"
+        "question": "'ദ അറ്റോമിക് ഫ്ളീ' എന്ന് വിളിക്കപ്പെടുന്ന ഫുട്ബോൾ താരം ആരാണ്?",
+        "options": ["നെയ്മർ", "റൊണാൾഡോ", "മെസ്സി", "എംബാപ്പെ"],
+        "answer": "മെസ്സി"
     },
     {
-        "question": "Which cricketer holds the record for most Test wickets?",
-        "options": ["Shane Warne", "Muttiah Muralitharan", "Anil Kumble", "Stuart Broad"],
-        "answer": "Muttiah Muralitharan"
+        "question": "ടെസ്റ്റ് ക്രിക്കറ്റിൽ ഏറ്റവും കൂടുതൽ വിക്കറ്റുകൾ നേടിയ ബൗളർ ആരാണ്?",
+        "options": ["ഷെയിൻ വോൺ", "മുത്തയ്യ മുരളീധരൻ", "അനിൽ കുംബ്ലെ", "സ്റ്റുവർട് ബ്രോഡ്"],
+        "answer": "മുത്തയ്യ മുരളീധരൻ"
     },
     {
-        "question": "Which country won the first ICC T20 World Cup?",
-        "options": ["Australia", "India", "West Indies", "South Africa"],
-        "answer": "India"
+        "question": "ആദ്യത്തെ ICC T20 ലോകകപ്പ് നേടിയത് ഏത് രാജ്യം?",
+        "options": ["ഓസ്ട്രേലിയ", "ഇന്ത്യ", "വെസ്റ്റ് ഇൻഡീസ്", "ദക്ഷിണാഫ്രിക്ക"],
+        "answer": "ഇന്ത്യ"
     },
     {
-        "question": "In football, how many substitutions are allowed per team?",
+        "question": "ഫുട്ബോളിൽ, ഒരു ടീമിന് അനുവദിക്കുന്ന പരമാവധി ബദൽ കളിക്കാരുടെ എണ്ണം എത്രയാണ്?",
         "options": ["2", "3", "5", "6"],
         "answer": "5"
     },
     {
-        "question": "Which footballer won the FIFA Best Men's Player Award in 2020?",
-        "options": ["Lewandowski", "Ronaldo", "Messi", "Neymar"],
-        "answer": "Lewandowski"
+        "question": "2020 FIFA ബെസ്റ്റ് മെൻസ് പ്ലേയർ അവാർഡ് നേടിയത് ആരാണ്?",
+        "options": ["ലെവൻഡോവ്‌സ്‌ക്കി", "റൊണാൾഡോ", "മെസ്സി", "നെയ്മർ"],
+        "answer": "ലെവൻഡോവ്‌സ്‌ക്കി"
     },
     {
-        "question": "Which cricketer hit six sixes in an over in the 2007 T20 World Cup?",
-        "options": ["Chris Gayle", "Yuvraj Singh", "MS Dhoni", "Brendon McCullum"],
-        "answer": "Yuvraj Singh"
+        "question": "2007 T20 ലോകകപ്പിൽ ഒരു ഓവറിൽ ആറു സിക്‌സർ അടിച്ച ക്രിക്കറ്റർ ആരാണ്?",
+        "options": ["ക്രിസ് ഗെയിൽ", "യുവരാജ് സിംഗ്", "എം.എസ്. ധോണി", "ബ്രെൻഡൻ മക്കല്ലം"],
+        "answer": "യുവരാജ് സിംഗ്"
     },
     {
-        "question": "What is the name of the international football competition held every four years?",
-        "options": ["UEFA Cup", "FIFA World Cup", "Confederations Cup", "Copa America"],
-        "answer": "FIFA World Cup"
+        "question": "ഓരോ നാല് വർഷത്തേയ്ക്ക് നടത്തുന്ന അന്താരാഷ്ട്ര ഫുട്ബോൾ ടൂർണമെന്റിന്റെ പേര് എന്താണ്?",
+        "options": ["UEFA കപ്പ്", "FIFA ലോകകപ്പ്", "കോൺഫെഡറേഷൻസ് കപ്പ്", "കോപ്പ അമേരിക്ക"],
+        "answer": "FIFA ലോകകപ്പ്"
     },
     {
-        "question": "In cricket, what is the term used for a delivery that spins away from the batsman?",
-        "options": ["Off-spin", "Leg-spin", "Googly", "Slider"],
-        "answer": "Leg-spin"
+        "question": "ക്രിക്കറ്റിൽ, ബാറ്റ്സ്മാൻനെതിരെ ആകുന്ന സ്പിന്ന് പന്തിനെ എന്താണ് വിളിക്കുന്നത്?",
+        "options": ["ഓഫ്-സ്പിൻ", "ലെഗ്-സ്പിൻ", "ഗൂഗ്ലി", "സ്ലൈഡർ"],
+        "answer": "ലെഗ്-സ്പിൻ"
     },
     {
-        "question": "Who scored the 'Hand of God' goal in the 1986 World Cup?",
-        "options": ["Diego Maradona", "Pele", "Messi", "Ronaldo"],
-        "answer": "Diego Maradona"
+        "question": "1986 ലോകകപ്പിൽ 'ഹാൻഡ് ഓഫ് ഗോഡ്' ഗോൾ അടിച്ച ഫുട്ബോൾ താരം ആരാണ്?",
+        "options": ["ഡിയഗോ മറഡോണ", "പെലെ", "മെസ്സി", "റൊണാൾഡോ"],
+        "answer": "ഡിയഗോ മറഡോണ"
     },
     {
-        "question": "Which cricketer was the first to score 100 centuries in international cricket?",
-        "options": ["Brian Lara", "Sachin Tendulkar", "Ricky Ponting", "Virat Kohli"],
-        "answer": "Sachin Tendulkar"
+        "question": "ആന്താരാഷ്ട്ര ക്രിക്കറ്റിൽ ആദ്യമായി 100 സെഞ്ചുറികൾ നേടിയ ക്രിക്കറ്റർ ആരാണ്?",
+        "options": ["ബ്രിയാൻ ലാറ", "സച്ചിൻ ടെൻഡുൽക്കർ", "റിക്കി പോണ്ടിംഗ്", "വിരാട് കോലി"],
+        "answer": "സച്ചിൻ ടെൻഡുൽക്കർ"
     },
     {
-        "question": "In which year did the first FIFA World Cup take place?",
+        "question": "FIFA ലോകകപ്പ് ആദ്യമായി നടന്ന വർഷം ഏതാണ്?",
         "options": ["1926", "1930", "1934", "1938"],
         "answer": "1930"
     }
